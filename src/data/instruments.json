@@ -1,0 +1,977 @@
+[
+  {
+    "slug": "liquid-chromatography-mass-spectrometry-crf-lcms",
+    "title": "Liquid Chromatography Mass Spectrometry (CRF-LCMS)",
+    "code": "2053330",
+    "details": [
+      [
+        "Make",
+        "Waters, USA"
+      ],
+      [
+        "Model",
+        "ARC® UHPLC SYSTEM WITH AUTOSAMPLER / SAMPLE MANAGERARC® UHPLC COLUMN HEATERSTARTUP KIT, ARC® HPLC"
+      ],
+      [
+        "Faculty-in-Charge",
+        "Prof. Swapan Dey"
+      ]
+    ],
+    "paragraphs": [
+      "ACQUITY QDa Detector: API Source and ionization modes, Adjustment-free high performance ZSprayTM dual-orthogonal atmospheric pressure; Ion source transfer optics: Dual off-axis ion guides for elimination of neutral noise with increased sensitivity androbustness. Includes high efficiency conjoined stacked ring ion guide and second stage quadrupole ion guide; Acquisition modes Full scan MS Selected Ion Recording (SIR); ionization (API) electrospray (ES) interface for robustness and reliability; Mass range: 30 to 1250 m/z, Scan speed: Automatically-optimized for enhanced data quality for acquisition rates of up to e.g. 10Hz for m/z 100 to 1000 or 20 Hz for m/z 50 to 500; Mass accuracy: better than ±0.2 Da over full mass range; ACQUITY UPLC PDA Detector: Wavelength range 190 to 500 nm; Optical resolution 1.2 nm Digital resolution 0.6 nm/pixel to 500 nm; Light source Prealigned, intelligent technology Deuterium lamp."
+    ],
+    "bullets": [],
+    "images": [],
+    "status": "Running",
+    "links": []
+  },
+  {
+    "slug": "high-resolution-transmission-electron-microscope",
+    "title": "High Resolution Transmission Electron Microscope (HRTEM)",
+    "code": "2042660",
+    "details": [
+      [
+        "Maker",
+        "Thermo Scientific"
+      ],
+      [
+        "Model",
+        "Talos F200X G2"
+      ],
+      [
+        "Facility In-Charge",
+        "Prof. C. G. Narayak"
+      ],
+      [
+        "Email",
+        "hrtem-crf@nitmizoram.ac.in"
+      ],
+      [
+        "Phone",
+        "0122-234576"
+      ]
+    ],
+    "paragraphs": [
+      "The Talos F200X G2 is a 200 kV HRTEM that delivers fast, precise, quantitative characterization of nanomaterials in multiple dimensions. With innovative features designed to increase throughput, precision, and ease of use, the Talos F200X is ideal for advanced research."
+    ],
+    "bullets": [
+      "200 kV HRTEM resolution at 0.16 nm",
+      "2.0 Å HRTEM lattice resolution (point)",
+      "Super-X EDS system (0.7 sr, 4 SDD, 200 mm²)",
+      "4.6 Mpxl Ceta 16M CMOS camera",
+      "Energy resolution < 136 eV for EDS mapping (typical)",
+      "STEM resolution: 0.16 nm (HAADF imaging)",
+      "Automated mapping & EDS analysis",
+      "Electron diffraction"
+    ],
+    "images": [],
+    "status": null,
+    "links": [],
+    "emails": [
+      "hrtem-crf@nitmizoram.ac.in"
+    ]
+  },
+  {
+    "slug": "field-emission-scanning-electron-microscope",
+    "title": "Field Emission Scanning Electron Microscope (FESEM)",
+    "code": "2042787",
+    "details": [
+      [
+        "Make",
+        "Zeiss, Germany"
+      ],
+      [
+        "Model",
+        "Supra 55"
+      ],
+      [
+        "Faculty-in-Charge",
+        "Prof. A. K. Bhaumik"
+      ],
+      [
+        "Email",
+        "fesem_crf@iitism.ac.in; ajoy@iitism.ac.in"
+      ],
+      [
+        "Phone",
+        "-"
+      ]
+    ],
+    "paragraphs": [
+      "The Central Research Facility (CRF) has installed FE-SEM Supra 55 (Carl Zeiss, Germany) with Air Lock chamber for scientific research. Attachments available with the FE-SEM are STEM, EDS (Oxford Liquid Nitrogen free SDD X MAX 50 EDS), EBSD (Oxford Integrated Advanced Aztec HKL EBSD with forescatter detector system with 4 diodes for Nordlys Analysis) and Mono CL4 (Gatan, UK)."
+    ],
+    "bullets": [
+      "FESEM: Resolution: 0.8 nm at 15 KV, 1.6 nm at 1 KV; Magnification: 12–1,000,000X; Acceleration voltage: 100 V to 30 KV; Gun type: Schottky Field Emission Electron Gun; Probe current: 12 pA to 100 nA; Detectors: SE, In-Lens, BSE, Retractable STEM with Bright and Dark field.",
+      "EDS: Oxford Liquid Nitrogen free SDD X MAX 50 EDS; 50 mm² Silicon Drift Detector (SDD), count rates > 500,000 cps, Throughput > 200,000 cps, Resolution: 127 eV @ MnKα.",
+      "EBSD: Oxford Integrated Advanced Aztec HKL EBSD with forescatter detector system with 4 diodes for Nordlys Analysis.",
+      "CL: Gatan Mono CL4 (200–850 nm), UVMCL (185–200 nm) & FIRMCL (1600–2300 nm).",
+      "Sample Coating: Facilities available for Carbon, Gold, and Platinum-Palladium coating."
+    ],
+    "images": [],
+    "status": "Under Maintenance",
+    "links": [],
+    "emails": [
+      "ajoy@iitism.ac.in",
+      "fesem_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "modular-compact-rheometer",
+    "title": "Advanced Air Bearing Rheometer System",
+    "code": "2042791",
+    "details": [
+      [
+        "Make",
+        "Malvern Instruments, UK"
+      ],
+      [
+        "Model",
+        "Bohlin Gemini 2"
+      ],
+      [
+        "Faculty-in-Charge",
+        "Prof. Chandan Guria"
+      ],
+      [
+        "Email",
+        "rheometer_crf@iitism.ac.in; cguria@iitism.ac.in"
+      ],
+      [
+        "Phone",
+        "0326-223-5411"
+      ]
+    ],
+    "paragraphs": [
+      "The Central Research Facility (CRF) has installed Advanced Air Bearing Rheometer Bohlin Gemini 2 (Malvern Instruments, UK) for scientific research. Attachments available with the Rheometer are Compressor with Air Drier, External Temperature Controller, Liquid Nitrogen Unit, and High Pressure High Temperature Controller."
+    ],
+    "bullets": [
+      "Bearing Type: Antifriction Low Inertia air bearing with Torque measuring facility",
+      "Torque Range: Minimum 0.05 µNm; Maximum 200 mNm",
+      "Torque Resolution: 1 nNm at the lowest torque",
+      "Angular Position Resolution: 50 nrad",
+      "Rotational Speed Range: Minimum 10⁻⁷ rpm; Maximum 3000 rpm",
+      "Viscometry Mode: Viscosity values at different shear rates; shear stress at different temperatures",
+      "Oscillation Mode: Complex Modulus values (G’ and G’’) can be recorded at different strain, frequency, and temperature",
+      "Creep/Creep Recovery Mode: Yield Stress value of the sample can be determined using Stepped Creep Test"
+    ],
+    "images": [],
+    "status": "Under Maintenance",
+    "links": [],
+    "emails": [
+      "cguria@iitism.ac.in",
+      "rheometer_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "single-crystal-x-ray-diffractometer",
+    "title": "Single Crystal X-Ray Diffractometer",
+    "code": "2042785",
+    "details": [],
+    "paragraphs": [
+      "The Single Crystal X-ray Diffraction Facility (SCXRD) at CRF is equipped with a Rigaku Oxford Diffraction system featuring a state-of-the-art CCD Eos S2 detector. This non-destructive analytical technique is used to determine the structure, bond lengths, bond angles of chemical compounds, and site-ordering details within crystals.",
+      "Analysis Charge: Click Here"
+    ],
+    "bullets": [
+      "Make: Rigaku Oxford Diffraction",
+      "Model: Supernova",
+      "Faculty-in-Charge: Prof. H. P. Nayek",
+      "Email: scxrd_crf@iitism.ac.in; hpnayek@iitism.ac.in",
+      "Phone: 0326-223-5756",
+      "Up to 50 W microfocus X-ray tube (Mo source) with multilayer optics",
+      "High precision 4-circle kappa goniometer",
+      "Measurement temperature range: Room temperature to 100 K",
+      "CrysAlisPro: Powerful, user-friendly software for data collection and reduction",
+      "AutoChem 3.0: Fully automated structure solution and refinement"
+    ],
+    "images": [],
+    "status": "Under Maintenance",
+    "links": [],
+    "emails": [
+      "hpnayek@iitism.ac.in",
+      "scxrd_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "scanning-probe-microscope",
+    "title": "Scanning Probe Microscope",
+    "code": "2042757",
+    "details": [],
+    "paragraphs": [
+      "Scanning Probe Microscope Laboratory has two SPM systems with one controller (Nanoscope V). Hence, only one system is operated at a time. The SPM system has a number of modes to explore surface properties of materials.",
+      "STM CAFM EC-STM AFM SCM EC-AFM MFM PFM Nanoindentation LFM/FFM SP Nanolithography FMM Temperature Variation Nano-Scratching SSRM STHM Spectroscopic Techniques EFM AFM in liquid environment Signal Access Module",
+      "Property Dimension Icon Multimode 8 Scan area: ≤ 90 μm × 90 μm ≤ 10 μm × 10 μm Roughness (Z scale) variation: ≤ 10 μm ≤ 2.5 μm Scanner nonlinearity: less than 0.5% less than 0.5% Sample size (Diameter): ≤ 210 mm (with vacuum chuck) ≤ 15 mm Sample size (Thickness): ≤ 15 mm ≤ 5 mm Resolution (AFM)-Lateral: 1 Å 1 Å Resolution (AFM)-Spatial: 0.5 Å 0.3 Å Nanoindentation-Top: Berkovich type, Diamond Berkovich type, Diamond Nanoindentation-Load: ≤ 260 μN ≤ 260 μN Image size: ≤ 5120 pixel × 5120 pixel ≤ 5120 pixel × 5120 pixel View Optics: Display and capture 180 μm to 1465 μm, 5 Mega-pixel Display and capture 180 μm to 1465 μm, 5 Mega-pixel",
+      "Analysis Charge: Click Here"
+    ],
+    "bullets": [
+      "Make: Bruker Corporation",
+      "Model: Dimension Icon and MultiMode 8",
+      "Faculty-in-Charge: Prof. A. K. Kar",
+      "Email: spm_crf@iitism.ac.in; asit@iitism.ac.in",
+      "Phone: 0326-223-5403"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "asit@iitism.ac.in",
+      "spm_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "gas-sorption-analyzer",
+    "title": "Gas Sorption Analyzer",
+    "code": "2042796",
+    "details": [],
+    "paragraphs": [
+      "3FLEX 3500 from Micromeritics Instrument Corporation, USA is recognized as one of the most advanced instrument in the field for material surface characterization. It is a fully automated 3-port (with 2-Micropore ports and 1-Mesopore port) gas adsorption analyzer for providing high-resolution adsorption, desorption, isotherms to advance and validate fundamental understanding into the development of methodologies and process improvements.",
+      "Minimum Measurable Surface Area Range: 0.01 m²/g Pore Diameter Range: 3.5 - 5000 Å Micropore Volume: Detectable within 0.0001 cc/g Analysis Range: 1.3 × 10⁻⁹ - 1.0 P/P₀ Ultimate Vacuum: 3.75 × 10⁻¹⁰ mmHg",
+      "Single-point BET surface area Multi-point BET surface area Pore volume and pore diameter analysis Adsorption/Desorption isotherms",
+      "Analysis Charge: Click Here"
+    ],
+    "bullets": [
+      "Make: Micromeritics Instrument Corporation, USA",
+      "Model: 3FLEX 3500",
+      "Faculty-in-Charge: Prof. Arun Samanta",
+      "Email: gsa_crf@iitism.ac.in; asamanta@iitism.ac.in",
+      "Phone: 0326-223-5087"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "asamanta@iitism.ac.in",
+      "gsa_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "uv-vis-nir-spectrophotometer",
+    "title": "UV-VIS-NIR Spectrophotometer — Agilent Cary 5000",
+    "code": "2042786",
+    "details": [
+      [
+        "Make & model",
+        "Agilent — Cary 5000"
+      ],
+      [
+        "Wavelength range",
+        "175 nm – 3300 nm"
+      ],
+      [
+        "Monochromator",
+        "Double out-of-plane Littrow Monochromator"
+      ],
+      [
+        "Light source",
+        "Tungsten-halogen and Deuterium"
+      ],
+      [
+        "Detector",
+        "UV-VIS: R928 PMT; NIR: Peltier cooled PbS photocell"
+      ],
+      [
+        "Integrating Sphere",
+        "110 mm module (Specular + Diffuse Reflectance)"
+      ],
+      [
+        "Slit width",
+        "Variable, down to 0.01 nm"
+      ],
+      [
+        "Sample compartment",
+        "Large with lock-down mechanism"
+      ],
+      [
+        "Peltier Accessory",
+        "Kinetics for liquid samples (room temp to 80°C)"
+      ],
+      [
+        "Software",
+        "Cary WinUV (Windows) + Colour Calculator"
+      ],
+      [
+        "Instrument Status",
+        "Running"
+      ]
+    ],
+    "paragraphs": [
+      "The Central Research Facility (CRF) has installed a UV-VIS-NIR Spectrophotometer (Agilent Cary 5000). It includes an Integrating Sphere for diffuse reflectance of powders and a Peltier accessory for kinetics measurements of liquids from room temperature up to 80°C. The Colour Calculator software is available for determining colour coordinates.",
+      "Use the integrating sphere for powders and diffuse reflectance; use the Peltier accessory for temperature-controlled kinetics of liquids.",
+      "Prof. S. K. Sharma uv_crf@iitism.ac.in sksharma@iitism.ac.in Phone: 0326-223-5412",
+      "Integrating Sphere (110 mm), Peltier Accessory, Colour Calculator Software"
+    ],
+    "bullets": [],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "subtitle": "Central Research Facility (CRF) — Integrating Sphere & Peltier Accessory Installed",
+    "emails": [
+      "sksharma@iitism.ac.in",
+      "uv_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "high-resolution-mass-spectrometer",
+    "title": "High Resolution Mass Spectrometer (HRMS)",
+    "code": "2042321",
+    "details": [],
+    "paragraphs": [
+      "Equipped with dual electrospray ionization and atmospheric pressure chemical ionization (ESI/APCI), Dual atmospheric pressure chemical ionization and atmospheric pressure photo ionization (APCI/APPI) and atmospheric pressure solids analysis probe (ASAP), the Waters XEVO G2-XS QTOF High Resolution Mass Spectrometer (HRMS) at the Central Research Facility, IIT (ISM), Dhanbad can detect accurate masses of a wide range of molecules such as small molecules, APIs, and macromolecules. Coupled with the Ultra High-Performance Liquid Chromatography (UPLC) system, it enables both quantitative and qualitative analysis of samples.",
+      "Ideal for high-precision molecular mass detection, chemical identification, and quantitative analysis across a wide mass range.",
+      "Prof. Somnath Yadav hrms_crf@iitism.ac.in somnath@iitism.ac.in Phone: 0326-223-5880",
+      "XEVO G2-XS QTOF HRMS, Dual Ionization Sources (ESI/APCI, APCI/APPI, ASAP), ACQUITY UPLC H-Class Plus."
+    ],
+    "bullets": [
+      "Mass Range: 20 to 32,000 m/z in Quadrupole & 20 to 1,00,000 m/z in TOF.",
+      "Resolution: ≥ 45,000 FWHM for m/z 1000 and ≥ 35,000 FWHM for around 200 m/z.",
+      "Sensitivity: Full MS/MS mode ≤ 10 femtogram on column, S/N ratio greater than 100:1.",
+      "Quaternary operating pump(s) with an operating pressure of minimum 15000 psi.",
+      "Flow rate range: 0.010 to 2.200 mL/min, in 0.001 mL increments.",
+      "Flow rate accuracy: ±0.1%."
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "subtitle": "Waters XEVO G2-XS QTOF — Central Research Facility (CRF), IIT (ISM) Dhanbad",
+    "emails": [
+      "hrms_crf@iitism.ac.in",
+      "somnath@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "high-resolution-x-ray-diffractometer",
+    "title": "High Resolution X-Ray Diffractometer (HRXRD)",
+    "code": "2014382",
+    "details": [],
+    "paragraphs": [
+      "The Rigaku SmartLab is a multipurpose high resolution X-ray diffractometer (HRXRD) automated with SmartLab Studio II software. The system is equipped with a Monochromator in the diffracted beam side and uses Converging Beam Optics (CBO) technology for fully automated beam alignment. It supports multiple XRD applications including powder diffraction, thin film metrology, SAXS, in-plane scattering, micro diffraction, capillary measurements, texture and pole figure, and X-ray reflectometry. The SmartLab Studio II software provides intelligent user guidance and performs automated phase/composition identification, qualitative and quantitative analysis, residual stress analysis, Rietveld analysis, and thin-film analysis.",
+      "Suitable for a broad range of XRD analyses from powder diffraction to advanced thin-film characterization with automated alignment and analysis tools.",
+      "Prof. Sarun P. M. xrd_crf@iitism.ac.in sarun@iitism.ac.in Phone: 0326-223-5887",
+      "Rigaku SmartLab HRXRD, HyPix-3000 Detector, CBO Optics, Monochromator, SmartLab Studio II software."
+    ],
+    "bullets": [
+      "X-Ray Source: 3 kW; Cu Kα X-Ray radiation",
+      "Goniometer Type: High resolution θ/θ closed loop goniometer",
+      "X-Ray Beam Optics: Converging Beam Optics (CBO) technology",
+      "Detector: High resolution HyPix-3000 semiconductor detector",
+      "Measurement Modes: 0D and 1D modes with/without Monochromator",
+      "Powder diffraction measurement",
+      "Thin film metrology (Gracing incidence XRD – GI-XRD)",
+      "SAXS (polymers and gels)",
+      "In-plane scattering",
+      "Micro diffraction",
+      "Capillary method measurement",
+      "Texture and pole figure",
+      "X-ray reflectometry",
+      "Phase/Composition identification",
+      "Qualitative and Quantitative analysis",
+      "Residual stress analysis",
+      "Rietveld analysis",
+      "Thin-film analysis"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "subtitle": "Rigaku SmartLab — Central Research Facility (CRF), IIT (ISM) Dhanbad",
+    "emails": [
+      "sarun@iitism.ac.in",
+      "xrd_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "wavelength-dispersive-x-ray-fluorescence",
+    "title": "Wavelength Dispersive X-Ray Fluorescence (WDXRF)",
+    "code": "2042659",
+    "details": [],
+    "paragraphs": [
+      "The Rigaku Primus IV Wavelength Dispersive X-Ray Fluorescence (WDXRF) spectrometer enables precise elemental analysis of solids, liquids, powders, alloys, and thin films. The system features a tube-above optical design that minimizes contamination and is ideal for high-sensitivity, quantitative, and qualitative elemental analysis. It offers versatility through its advanced hardware and software options, including mapping and microanalysis capabilities.",
+      "Ideal for laboratories requiring accurate elemental analysis of diverse sample types, from bulk materials to thin films.",
+      "Prof. Pranab Das xrf_crf@iitism.ac.in pranab@iitism.ac.in Phone: 0326-223-5894",
+      "Rigaku Primus IV WDXRF, 3/4 kW sealed X-ray tube, 48-position auto sampler, ZSX Guidance software, r-θ mapping stage."
+    ],
+    "bullets": [
+      "Make: Rigaku",
+      "Model: Primus IV",
+      "Benefit: Elemental analysis of solids, liquids, powders, alloys, and thin films",
+      "Technology: Tube-above sequential wavelength dispersive (WDXRF)",
+      "Core Attributes: 3/4 kW sealed X-ray tube, 48-position auto sampler, Be to U, vacuum",
+      "Core Options: He-flush, additional analyzing crystals, r-θ stage/mapping",
+      "Dimensions: 1310 (W) × 1470 (H) × 890 (D) mm",
+      "Power Requirements: 1Ø, 200 VAC, 50/60 Hz, 8 kW",
+      "Analysis of elements from Be to U",
+      "ZSX Guidance expert system software",
+      "Tube-above optics minimize contamination issues",
+      "Compact design uses less valuable lab space",
+      "Microanalysis for samples as small as 500 µm",
+      "30μ X-ray tube for superior light element performance",
+      "Mapping feature for elemental topography and distribution",
+      "Press pellet preparation for powdered samples < 200 mesh is available"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "subtitle": "Rigaku Primus IV — Central Research Facility (CRF), IIT (ISM) Dhanbad",
+    "emails": [
+      "pranab@iitism.ac.in",
+      "xrf_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "x-ray-photoemission-spectroscopy",
+    "title": "X-Ray Photoemission Spectroscopy (XPS)",
+    "code": "2042323",
+    "details": [],
+    "paragraphs": [
+      "Model: 5000 Versa Probe III",
+      "Email: xps_crf@iitism.ac.in; rthangavel@iitism.ac.in",
+      "The VersaProbe III is a highly versatile, multi-technique instrument with PHI’s patented, monochromatic, micro-focused (< 10 µm), scanning X-ray source. The instrument offers SEM-like ease of operation with superior micro area spectroscopy and excellent large area capabilities.",
+      "A focused X-ray beam, high sensitivity spectrometer, high performance floating column argon ion gun, turnkey dual beam charge neutralization, compucentric Zalar™ rotation, and advanced data reduction algorithms provide the highest performance XPS depth profiling capability available. The standard monatomic argon ion gun is capable of generating 5 eV to 5 keV Ar ion beams and is ideally suited for most inorganic depth profiling applications."
+    ],
+    "bullets": [
+      "Scanned, micro-focused, monochromatic X-ray beam",
+      "X-ray beam induced secondary electron imaging (SXI)",
+      "Dual beam charge neutralization",
+      "128 data channel detection",
+      "Chemical state imaging",
+      "Single Crater multi-point depth profiling",
+      "Floating column monatomic Ar ion gun",
+      "Compucentric Zalar™ rotation",
+      "Angle dependent XPS",
+      "Five axis automated sample manipulator",
+      "25 mm and 60 mm diameter sample mount"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "rthangavel@iitism.ac.in",
+      "xps_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "advanced-polymer-chromatography",
+    "title": "Advanced Polymer Chromatography (APC)",
+    "code": "2042662",
+    "details": [],
+    "paragraphs": [
+      "Model: Waters ACQUITY Advanced Polymer Chromatography (APC)",
+      "Email: apc_crf@iitism.ac.in; sagarpal@iitism.ac.in",
+      "The Waters ACQUITY Advanced Polymer Chromatography (APC) system defines a new chromatographic polymer analysis that provides detailed information about polymer molecular weight faster than ever before. Combining low dispersion system fluidics with rigid, small particle (sub 2 micron) columns of a wide range of pore sizes, the system achieves ultimate polymer peak resolution with shorter run times. Better resolution in shorter runs ensures higher efficiency and reduced solvent consumption."
+    ],
+    "bullets": [
+      "Equipped with ACQUITY APC Isocratic Solvent Manager",
+      "ACQUITY APC Sample Manager with Flow Through Needle",
+      "ACQUITY Single Zone Column Manager",
+      "ACQUITY Refractive Index (RI) Detector",
+      "Compatible with APC columns in both Aqueous and Organic phases",
+      "Capable of sustaining a maximum pressure of 15000 psi",
+      "Empower software used for data acquisition, processing, and automated result calculation"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "apc_crf@iitism.ac.in",
+      "sagarpal@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "micro-raman-spectroscopy",
+    "title": "Micro-Raman Spectroscopy (MRS)",
+    "code": "2042232",
+    "details": [],
+    "paragraphs": [
+      "Make: HORIBA Scientific, France",
+      "Email: raman_crf@iitism.ac.in; kkumar@iitism.ac.in",
+      "Raman spectroscopy is a powerful technique for studying materials in various forms (solid, liquid, gas). The LabRAM HR Evolution Raman microscope enables both micro and macro measurements with true confocal imaging in 2D and 3D. Raman spectroscopy reveals vibrational modes influenced by molecular mass, bond strength, and symmetry. Any physical or chemical factors such as defects or impurities affecting the atomic surroundings can be analyzed through Raman spectra."
+    ],
+    "bullets": [
+      "Raman range: 50 cm⁻¹ – 4000 cm⁻¹",
+      "Spectral resolution: ~0.2 cm⁻¹; Spatial resolution: 0.5 µm",
+      "Laser excitation wavelengths: 325 nm (He-Cd); 532 nm; 785 nm; 976 nm",
+      "Photoluminescence measurements in 400–1000 nm range",
+      "Objectives: 40X (NUV), 50X (LWD), 5X, 10X, 100X",
+      "2D and 3D imaging with 0.01 µm Z-resolution",
+      "Open Electrode CCD air-cooled to −60°C",
+      "Gratings: 600, 1800, 2400 g/mm"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "kkumar@iitism.ac.in",
+      "raman_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "inductively-coupled-plasma-optical-emission-spectroscopy",
+    "title": "Inductively Coupled Plasma – Optical Emission Spectroscopy (ICP-OES)",
+    "code": "2042788",
+    "details": [],
+    "paragraphs": [
+      "Make: Thermo Fisher Scientific, USA",
+      "Department: Applied Geology, IIT (ISM) Dhanbad",
+      "Email: icp_crf@iitism.ac.in; asmajumdar@iitism.ac.in",
+      "The instrument can analyze element concentrations up to sub ppm level in the following materials:",
+      "The instrument is currently capable of analyzing the following element concentrations in aqueous solution:",
+      "Ag, Al, B, Ba, Bi, Ca, Cd, Co, Cr, Cu, Fe, Ga, K, Li, Mg, Mn, Na, Ni, V, Sr, Sc, Zn, Si, Ti, Rb, Au, Hg, As, Sb, Mo, Se, Cs, P, Ru, Rh, Pd, Pt, Sn, La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu."
+    ],
+    "bullets": [
+      "Geological samples (Rock, soil, fly ash)",
+      "Environmental samples (Air, water, soil, sediments, etc.)",
+      "Organic samples (Petroleum, coal, etc.)",
+      "Biological samples (Urine, bone, tooth, etc.)",
+      "Heavy metal concentrates",
+      "Precious metal ores",
+      "Polymers",
+      "Pharmaceutical products",
+      "RF Generator: 27.12 MHz solid state, 750–1500 W power (Duo restricted to 1350 W)",
+      "Plasma Viewing: Duo or radial, capable of analyzing aqueous solutions with dissolved solid content up to 30%",
+      "Spectrometer: Simultaneous echelle type polychromator",
+      "Detector: High-performance solid-state CID86 chip",
+      "Wavelength Range: 166 – 847 nm",
+      "Spectral Resolution: 7 pm at 200 nm",
+      "Accessories: CETAC model ASX560 autosampler"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "asmajumdar@iitism.ac.in",
+      "icp_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "digital-micro-vickers-hardness-testing-machine",
+    "title": "Digital Micro Vickers Hardness Testing Machine (DMVHTM)",
+    "code": "2042834",
+    "details": [],
+    "paragraphs": [
+      "Email: alokmech@iitism.ac.in",
+      "Phone: 0326-223-5631 / 5748"
+    ],
+    "bullets": [
+      "Motion range of manual stages: horizontal: 25 mm",
+      "Range of loading time: 5–99 s; unloading time: 1–99 s",
+      "Maximum sample weight and dimension: 3 kg; 100 mm × 100 mm",
+      "Light and objective lens: White light; 10X and 50X",
+      "Test force range and control: 0.1 gf to 2000 gf in steps; Voice coil Indenter: Diamond"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "alokmech@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "universal-tribometer",
+    "title": "Universal Tribometer (UT)",
+    "code": "2042759",
+    "details": [],
+    "paragraphs": [
+      "Make: Rtec Instruments, USA",
+      "Email: tribometer_crf@iitism.ac.in",
+      "The Universal Tribometer provides versatility and modularity for various tribological and mechanical testing applications. It can measure friction coefficients across lubricants, grease, bio-materials, automotive, semiconductor, aerospace, materials, ceramics, etc. It supports rotary, reciprocating, block-on-ring, linear tribology, scratch tests, and indentation tests, with an inline optical profilometer for quick measurements. Loads can be applied automatically."
+    ],
+    "bullets": [
+      "Temperature Range: Up to 400°C for rotary and reciprocating modules",
+      "Upper Z Drive: Travel distance up to 150 mm, resolution 0.1 µm, travel speed 0.001–5 mm/s",
+      "Rotary Setup (ball on disk, pin on disk, thrust washer testing, spiral motion wear): Normal load up to 3000 N, least count 0.1 N, disk speed 0.1–5000 rpm, with humidity control and inert gas purging chamber",
+      "Reciprocating Drive (ball on flat, pin on plate): Frequency 0.1–60 Hz, stroke 1–25 mm",
+      "Operating Condition: Both dry and lubricated; humidity control and inert gas purging chamber",
+      "Linear XY Stage for Scratch Testing: X Stage speed 0.001–5 mm/s (max travel 150 mm, encoder resolution 0.2 µm), Y Stage speed 0.001–50 mm/s (max travel 250 mm, encoder resolution 0.2 µm)",
+      "2D Force Sensor with Load Range: (a) 0.1–200 N, resolution 5 mN (b) 10–1000 mN, resolution 150 µm (c) 0.5–50 mN, resolution 50 µm",
+      "(a) 0.1–200 N, resolution 5 mN",
+      "(b) 10–1000 mN, resolution 150 µm",
+      "(c) 0.5–50 mN, resolution 50 µm"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "tribometer_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "elemental-analyzer-chnso",
+    "title": "Elemental Analyzer – CHNSO (UNICUBE)",
+    "code": "2042789",
+    "details": [],
+    "paragraphs": [
+      "Make: Elementar Analysensysteme GmbH, Germany",
+      "Email: hpnayek@iitism.ac.in",
+      "The UNICUBE model offers simultaneous carbon, hydrogen, nitrogen, and sulfur analysis in solid and liquid samples, with an option for separate oxygen determination. It can analyze organic/inorganic compounds, coal, fuel, sand/soil, ash, etc. Equipped with Temperature Programmed Desorption (TPD) technology, it allows a wide range of elemental concentrations and sample weights. It can detect trace nitrogen, sub-µg sulfur concentrations, and high carbon content."
+    ],
+    "bullets": [
+      "Modes: CHNS and O",
+      "Weighing range: Micro (<1 mg) to macro (around 1 g of soil) applications; up to 15 mg of organic matter",
+      "Precision: < 0.1% absolute (homogeneous substance), depending on sample type, mode, and configuration",
+      "Analysis time: ≥ 7 min for simultaneous CHNS determination",
+      "High-temperature combustion unit: Up to 1,200 °C with direct oxygen jet for complete combustion",
+      "Purge and trap chromatography via TPD column",
+      "Thermal Conductivity Detector (TCD)",
+      "120-position autosampler"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "hpnayek@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "universal-testing-machine",
+    "title": "Universal Testing Machine (UTM)",
+    "code": "2042782",
+    "details": [],
+    "paragraphs": [
+      "Email: ajitkp@iitism.ac.in"
+    ],
+    "bullets": [],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "ajitkp@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "differential-scanning-calorimeter",
+    "title": "Differential Scanning Calorimeter (DSC 3500 Sirius)",
+    "code": "2042663",
+    "details": [],
+    "paragraphs": [
+      "Email: dsc_crf@iitism.ac.in",
+      "Phone: 9836011259 / 8986631259",
+      "Differential scanning calorimetry (DSC) is a thermo-analytical technique to measure the thermal properties of materials. It determines the difference in heat required to raise the temperature of a sample and reference as a function of temperature. Both sample and reference are maintained at nearly the same temperature, with the DSC experiment designed to increase sample temperature linearly over time."
+    ],
+    "bullets": [
+      "DSC type: Gas-tight heat flux system",
+      "Temperature range: -170 °C to 600 °C",
+      "Heating/cooling rates: 0.001 K/min to 100 K/min (cooling rate depends on temperature)",
+      "Measurement range: ± 650 mW",
+      "Accuracy: Temperature: 0.1 K; Enthalpy: <1% for metals; <2% for most materials",
+      "Cooling devices: Liquid nitrogen cooling (-170 °C to 600 °C)",
+      "Atmospheres: Oxidizing, inert (static, dynamic)",
+      "Gas control: 3 integrated frits; 3 magnetic valves (programmable)",
+      "Oxidative-Induction Time: Integrated in software",
+      "Accessories: Variety of crucibles (Al, Pt, Al2O3, Au, Ag, Cu, autoclaves, etc.)",
+      "Dimensions: 380 mm × 320 mm × 520 mm; Mass: 28 kg"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "dsc_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "solid-particle-zetameter",
+    "title": "Solid Particle Zetameter (SurPASS 3)",
+    "code": "2042665",
+    "details": [],
+    "paragraphs": [
+      "Email: shravan@iitism.ac.in",
+      "SurPASS 3 is the entry-level instrument for routine analysis of macroscopic solid surfaces, enabling fully automated zeta potential measurements under real-life process or environmental conditions. Zeta potential is measured based on streaming potential and streaming current, providing results in less than two minutes. High-quality zeta potential values down to a few millivolts are recorded, along with simultaneous measurement of pH, conductivity, and temperature."
+    ],
+    "bullets": [
+      "Zeta potential measurement of macroscopic solid surfaces"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "shravan@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "cell-culture-lab",
+    "title": "Cell Culture Lab",
+    "code": "2042795",
+    "details": [],
+    "paragraphs": [
+      "Email: cell_crf@iitism.ac.in",
+      "Cell culture facility refers to methods about removal of cells from an animal/plant and subsequent growing in controlled artificial environment for basic and applied research. The essential requirement of a cell culture laboratory is maintaining an aseptic work area that is restricted to cell culture work."
+    ],
+    "bullets": [
+      "CO2 Incubator (Make:Eppendorf, Model: CellXpert C170)",
+      "Biological Safety Cabinet Class II (Make: Esco, Model: Airstream® AC2-4S9-NS)",
+      "Inverted Fluorescence Microscopes (Make: Leica, Model: DMi8)",
+      "Benchtop Refrigerated Centrifuge (Make: Eppendorf, Model: 5804 R & 5424 R)",
+      "Microplate Reader (Make: Thermo Scientific, Model: Multiskan FC)",
+      "Automated Cell Counter (Make: Thermo Scientific Invitrogen, Model: Countess II FL)",
+      "Microvolume UV-Vis Spectrophotometer (Make: Thermo Scientific, Model: NanoDrop One)",
+      "Inverted Microscope (Make: Olympus, Model: CKX53)",
+      "Ultra-Low Temperature Freezer (Make: Eppendorf, Model: U410 Premium)",
+      "Deep Freezer (Make: Eltek, Model: EDF-300)",
+      "Upright Automated Autoclave (Make: Hirayama, Model: HICLAVE HV-50 II)",
+      "CO2 Incubator: High volume (170 L ) with standard display, seamless chamber, fan-less design, 140°C High Temperature Disinfection.",
+      "Biological Safety Cabinet: Stainless steel interior, single-piece tray, sidewalls, microprocessor controller, low noise, 4 ft width.",
+      "Inverted Fluorescence Microscopes: Transparent, Fluorescence, Phase Contrast, LASX software, DAPI, FITC, RHOD filters.",
+      "Benchtop Refrigerated Centrifuge: Up to 20,913 × g, temp -9°C to 40°C, swing-bucket and fixed-angle rotors for tubes 0.2–250 mL, plate rotor for MTP/PCR/Cell culture/Deepwell Plates.",
+      "Microplate Reader: 340–850 nm, 96-well plate reading <7s, linear shaking, incubation up to 50°C, SkanIt software.",
+      "Automated Cell Counter: Cell viability, cycle phase, apoptosis, fluorescent protein expression, <10s per sample, autofocusing.",
+      "Microvolume UV-Vis Spectrophotometer: 190–850 nm, DNA/RNA/Protein analysis with 1–2 µL, full-spectral data acquisition.",
+      "Inverted Microscope: High contrast, live cell observation, sampling, 10x, 20x, 40x, universal holder for dishes, microplates, flasks.",
+      "Ultra-Low Temperature Freezer: 410L, temp -50°C to -86°C, 5 compartments, insulated inner door, 4 adjustable shelves, 24,000 sample capacity.",
+      "Deep Freezer: 300L, temp -25°C, microprocessor control, CFC-free gas, high density PUF insulation, LCD display, audio/visual alarm, stainless steel inner.",
+      "Automated Autoclave: 50L, color touch panel, electro-mechanical lid lock, dual interlock, air removal time setting, sterilizes liquids at high temp and pressure."
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "cell_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "particle-size-analyzer-laser-diffraction",
+    "title": "Particle Size Analyzer (Laser Diffraction)",
+    "code": "2042664",
+    "details": [],
+    "paragraphs": [
+      "This instrument is installed in 2021 at CRF. This instrument is useful for cement & building material industries, Geology-Mining-Mineral sectors, chemical-petrochemical-hydrocarbon industries, pharmaceuticals & cosmetics industries, food & beverage sectors, etc., and researchers from different fields. Both wet and dry modes of analysis are available."
+    ],
+    "bullets": [
+      "Particle size measuring range: 0.1 μm to 2500 μm (for dry sample) and 0.04 μm to 2500 μm (for wet sample)",
+      "Dry dispersion: Venturi / free fall",
+      "Liquid dispersion: 2 peristaltic pumps / ultrasonic transducer / stirrer",
+      "Number of Laser: 3 (Laser safety classification - FDA Title 21 CFR - Part 1040 & EN 60825-1:2014; Laser class, closed cover-Class 1 of EN 60825-1:2014; Laser class, open cover-Class 3R of EN 60825-1:2014)",
+      "Particle analysis software: Kalliope™"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "ajoy@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "field-emission-scanning-electron-microscope-with-e-beam-lith",
+    "title": "Field Emission Scanning Electron Microscope with E-Beam Lithography and Reactive Ion Etching",
+    "code": "2042661",
+    "details": [],
+    "paragraphs": [
+      "Email: lithography_crf@iitism.ac.in",
+      "The Central Research Facility (CRF) has installed FE-SEM Sigma 300 (Carl Zeiss, Germany) with E-Beam Lithography(Elphy Quantum, Raith Nano Fabrication) and Reactive Ion Etching (ION ETCH-150, Hind High Vacuum co.pvt.ltd) for scientific research. Electron Beam Lithography (EBL) of Elphy Quantum Raith Nano Fabrication, is a Nano Fabrication Technique used to Pattern Nano Structures, Nano Lithography. The Technique Consists of Scanning a beam of electrons on the sample coated with resist which is sensitive to electron Beam."
+    ],
+    "bullets": [
+      "FESEM: Resolution: 1 nm at 15 KV, 1.6nm at 1 KV",
+      "Magnification: 19994.21KX",
+      "Acceleration voltage: 20V TO 30 KV",
+      "Gun type: Schottky Field Emission Electron Gun",
+      "Maximum Probe Current: 220 pA to 100 nA",
+      "Detectors: SE2 , In-Lens"
+    ],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "lithography_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "metal-3d-printer-powder-bed-fusion-based",
+    "title": "Metal 3D Printer - Powder Bed Fusion Based",
+    "code": "2044112",
+    "details": [],
+    "paragraphs": [],
+    "bullets": [],
+    "images": [],
+    "status": null,
+    "links": []
+  },
+  {
+    "slug": "time-correlated-single-photon-counting-tcspc",
+    "title": "Time Correlated Single Photon Counting - TCSPC",
+    "code": "2042322",
+    "details": [],
+    "paragraphs": [],
+    "bullets": [],
+    "images": [],
+    "status": null,
+    "links": []
+  },
+  {
+    "slug": "creep-fatigue-interaction-test-setup",
+    "title": "Creep-Fatigue Interaction Test Setup",
+    "code": "2042783",
+    "details": [],
+    "paragraphs": [],
+    "bullets": [],
+    "images": [],
+    "status": null,
+    "links": []
+  },
+  {
+    "slug": "dynamic-mechanical-analyzer",
+    "title": "Dynamic Mechanical Analyzer",
+    "code": "2042758",
+    "details": [],
+    "paragraphs": [],
+    "bullets": [],
+    "images": [],
+    "status": null,
+    "links": []
+  },
+  {
+    "slug": "abrasive-waterjet-machine",
+    "title": "Abrasive Waterjet Machine",
+    "code": "2044113",
+    "details": [],
+    "paragraphs": [],
+    "bullets": [],
+    "images": [],
+    "status": null,
+    "links": []
+  },
+  {
+    "slug": "thermogravimetric-analyser-with-mass-spectrometer-tga-ms",
+    "title": "Thermogravimetric Analyser with Mass Spectrometer (TGA-MS)",
+    "code": "2057495",
+    "details": [
+      [
+        "Model",
+        "STA 2500 Regulus"
+      ],
+      [
+        "Design",
+        "Top-loading, vertical & differential balance"
+      ],
+      [
+        "Temperature Range",
+        "RT to 1100°C"
+      ],
+      [
+        "Heating Rate",
+        "0.001 to 100 K/min (depending on the furnace)"
+      ],
+      [
+        "Temperature Precision (Repeatability)",
+        "0.3 K"
+      ],
+      [
+        "Motorized Furnace Hoist",
+        "Single hoist"
+      ],
+      [
+        "Balance Design",
+        "Differential balance system"
+      ],
+      [
+        "Weighing Range",
+        "± 250 mg, max. sample load 1 g"
+      ],
+      [
+        "Thermogravimetric Resolution",
+        "0.03 μg"
+      ],
+      [
+        "Thermocouple",
+        "Type S"
+      ],
+      [
+        "Vacuum Tightness",
+        "10 -4 mbar (10 -2 Pa), depending on the evacuation system"
+      ],
+      [
+        "Gas Atmospheres",
+        "Inert, oxidizing, vacuum"
+      ],
+      [
+        "Gas Control",
+        "Built-in mass flow controllers"
+      ],
+      [
+        "Automatic Sample Changer (ASC)",
+        "Optionally available for 20 crucibles"
+      ]
+    ],
+    "paragraphs": [
+      "Email: tga_crf@iitism.ac.in",
+      "Model: STA 2500 with QMS 505 Aeolos Coupling",
+      "The NETZSCH STA 2500 Regulus is a Simultaneous Thermal Analyzer (STA) designed for high-reliability, cost-effective measurement of materials. It combines Thermogravimetric Analysis (TGA) and Differential Thermal Analysis (DTA/DSC), allowing for simultaneous measurement of mass changes and caloric events on the same sample under identical conditions. Key features include a top-loading, vertical, and differential balance system. This unique differential design cancels out buoyancy and convection effects, eliminating the need for time-consuming baseline runs and ensuring stable measurements with a high thermogravimetric resolution of 0.03 micro gram. . The instrument operates up to 1100C and supports a wide range of atmospheres, including inert, oxidizing, and vacuum, controlled by Quadrupole Mass Spectrometer (QMS). Its top-loading design is also ideal for coupling to Evolved Gas Analysis (EGA) systems like Mass Spectrometry (MS) to analyze the gases released during thermal treatment."
+    ],
+    "bullets": [],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "tga_crf@iitism.ac.in"
+    ]
+  },
+  {
+    "slug": "field-emission-gun-scanning-electron-microscope-ebsd-eds-fes",
+    "title": "Field Emission Gun Scanning Electron Microscope & EBSD & EDS (FESEM-EBSD-EDS)",
+    "code": "2057496",
+    "details": [
+      [
+        "Gun Type",
+        "In-lens Schottky field emission electron gun"
+      ],
+      [
+        "Resolution",
+        "0.7 nm at 20 kV 1.3 nm at 1 kV 3.0 nm at 15 kV"
+      ],
+      [
+        "Magnification",
+        "17 to 2,000,000"
+      ],
+      [
+        "Acceleration Voltage",
+        "0.5 kV to 30 kV"
+      ],
+      [
+        "Probe Current",
+        "4 pA to 300 nA"
+      ],
+      [
+        "Detectors",
+        "In-lens SE, BSE"
+      ],
+      [
+        "EDS System",
+        "Oxford Liquid Nitrogen free (Peltier-Cooled) dry SDD Xplore 30"
+      ],
+      [
+        "SSD Sensor Area",
+        "30 mm² SSD Sensor"
+      ],
+      [
+        "Energy Resolution",
+        "< 129 eV at Mn-Kα"
+      ],
+      [
+        "Count Rates",
+        "> 1,000,000 cps"
+      ],
+      [
+        "EBSD Detector",
+        "Oxford CMOS based (C-Swift) EBSD Detector"
+      ],
+      [
+        "Detector Resolution",
+        "Up to 622 × 512"
+      ],
+      [
+        "Acquisition Speed",
+        "Speeds up to 2000 PPS"
+      ],
+      [
+        "Sample Coating",
+        "Gold & Platinum coating"
+      ]
+    ],
+    "paragraphs": [
+      "Email: madhumanti@iitism.ac.in",
+      "JSM-IT800 (HL) is a highly stable Schottky field emission electron gun Scanning Electron Microscope, with EDS & EBSD. To analyze samples surface morphology up to nano level, elemental composition, grain size, orientation and microstructure etc."
+    ],
+    "bullets": [],
+    "images": [],
+    "status": "Running",
+    "links": [],
+    "emails": [
+      "madhumanti@iitism.ac.in"
+    ]
+  }
+]

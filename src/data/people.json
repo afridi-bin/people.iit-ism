@@ -1,0 +1,281 @@
+{
+  "head": [
+    {
+      "name": "Prof. Mrinal Sen",
+      "role": "Head, Central Research Facility",
+      "phone": "+91-326-223-5684/7707018471",
+      "email": "hod_crf@iitism.ac.in",
+      "photo": "/images/people/mrinalsen.jpg"
+    }
+  ],
+  "fics": [
+    {
+      "name": "Prof. Asit K Kar",
+      "role": "FIC, SPM",
+      "phone": "+91-326-2235403",
+      "email": "spm_crf@iitism.ac.in",
+      "photo": "/images/people/asit-kumar-kar.jpg"
+    },
+    {
+      "name": "Prof. Soumit Chatterjee",
+      "role": "FIC, Time Correlated Single Photon Counting (TCSPC)",
+      "phone": "+91-326-2235432",
+      "email": "soumit@iitism.ac.in",
+      "photo": "/images/people/soumithc.jpg"
+    },
+    {
+      "name": "Prof. Pranab Das",
+      "role": "FIC, EPMA",
+      "phone": "+91-326-2235894",
+      "email": "epma_crf@iitism.ac.in",
+      "photo": "/images/people/emp-977-20151118063740.jpg"
+    },
+    {
+      "name": "Prof. Arun K. Samanta",
+      "role": "FIC, Gas Sorption Analyzer",
+      "phone": "+91-326-2235087",
+      "email": "gsa_crf@iitism.ac.in",
+      "photo": "/images/people/arunksamanta.jpg"
+    },
+    {
+      "name": "Chandan Guria",
+      "role": "FIC, Air Bearing Rheometer",
+      "phone": "+91-326-2235411",
+      "email": "rheometer_crf@iitism.ac.in",
+      "photo": "/images/people/chandanguria.jpg"
+    },
+    {
+      "name": "Prof. S. K. Sharma",
+      "role": "FIC, UV-VIS-NIR",
+      "phone": "+91-326-2235412",
+      "email": "uv_crf@iitism.ac.in",
+      "photo": "/images/people/sksharma.jpg"
+    },
+    {
+      "name": "Prof. Sagar Pal",
+      "role": "FIC, MALSS",
+      "phone": "+91-326-2235769",
+      "email": "malss_crf@iitism.ac.in",
+      "photo": "/images/people/sagarpal.jpg"
+    },
+    {
+      "name": "Prof. H. P. Nayek",
+      "role": "FIC, SC-XRD",
+      "phone": "+91-326-2235756",
+      "email": "scxrd_crf@iitism.ac.in",
+      "photo": "/images/people/hpnayek.jpg"
+    },
+    {
+      "name": "Prof. G. C. Nayak",
+      "role": "FIC, HR-TEM & Sample Preparation Unit",
+      "phone": "+91-326-2235934",
+      "email": "hrtem_crf@iitism.ac.in",
+      "photo": "/images/people/gcnayak.jpg"
+    },
+    {
+      "name": "Prof. Somnath Yadav",
+      "role": "FIC, HR-MS",
+      "phone": "+91-326-2235880",
+      "email": "hrms_crf@iitism.ac.in",
+      "photo": "/images/people/somnathyadav.jpg"
+    },
+    {
+      "name": "Prof. R. Thangavel",
+      "role": "FIC, XPS",
+      "phone": "+91-326-2235916",
+      "email": "xps_crf@iitism.ac.in",
+      "photo": "/images/people/rthangavel.jpg"
+    },
+    {
+      "name": "Prof. H. P. Nayek",
+      "role": "FIC, CHNS Analyzer",
+      "phone": "+91-326-2235756",
+      "email": "chns_crf@iitism.ac.in",
+      "photo": "/images/people/hpnayek.jpg"
+    },
+    {
+      "name": "Prof. Anand Rajagopal",
+      "role": "FIC, ICP-OES Analyzer",
+      "phone": "+91-326-2235113",
+      "email": "icp_crf@iitism.ac.in",
+      "photo": "/images/people/photo1033-2022-04-19-19-40-05.jpg"
+    },
+    {
+      "name": "Prof. Mrinal Sen",
+      "role": "FIC, E-Beam Lithography",
+      "phone": "+91-326-2235657",
+      "email": "lithography_crf@iitism.ac.in",
+      "photo": "/images/people/mrinalsen.jpg"
+    },
+    {
+      "name": "Prof. P. M. Sarun",
+      "role": "FIC, HR-XRD",
+      "phone": "+91-326-2235887",
+      "email": "xrd_crf@iitism.ac.in",
+      "photo": "/images/people/pmsarun.jpg"
+    },
+    {
+      "name": "Prof. K. C. Jana",
+      "role": "FIC, Real Time Simulator",
+      "phone": "+91-326-2235902",
+      "email": "simulator_crf@iitism.ac.in",
+      "photo": "/images/people/kc-jana.jpg"
+    },
+    {
+      "name": "Prof. K. P. Ajit",
+      "role": "FIC, UTM",
+      "phone": "+91-326-2235877",
+      "email": "utm_crf@iitism.ac.in",
+      "photo": "/images/people/kpajit.jpg"
+    },
+    {
+      "name": "Prof. Soumit Chatterjee",
+      "role": "FIC, Differential Scanning Calorimeter",
+      "phone": "+91-326-2235432",
+      "email": "dsc_crf@iitism.ac.in",
+      "photo": "/images/people/soumithc.jpg"
+    },
+    {
+      "name": "Prof. Alok Das",
+      "role": "FIC, Microhardness tester",
+      "phone": "+91-326-2235748",
+      "email": "hardness_crf@iitism.ac.in",
+      "photo": "/images/people/alokdas.jpg"
+    },
+    {
+      "name": "Prof. Dheeraj Kumar",
+      "role": "FIC, LIDAR",
+      "phone": "+91-326-2235486",
+      "email": "lidar_crf@iitism.ac.in",
+      "photo": "/images/people/dheerajkumar.jpg"
+    },
+    {
+      "name": "Prof. Sumanta K. Sahu",
+      "role": "FIC, Cell Culture Lab",
+      "phone": "+91-326-2235936",
+      "email": "cell_crf@iitism.ac.in",
+      "photo": "/images/people/sumantaksahu.jpg"
+    },
+    {
+      "name": "Prof. A. R. Dixit",
+      "role": "FIC, Universal Tribometer",
+      "phone": "+91-326-2235620",
+      "email": "tribometer_crf@iitism.ac.in",
+      "photo": "/images/people/ardixit.jpg"
+    },
+    {
+      "name": "Prof. Kaushal Kumar",
+      "role": "FIC, Micro Raman Spectrometer",
+      "phone": "+91-326-2235754",
+      "email": "raman_crf@iitism.ac.in",
+      "photo": "/images/people/kaushalkumar.jpg"
+    },
+    {
+      "name": "Prof. Sagar Pal",
+      "role": "FIC, Advanced Polymer Chromatography",
+      "phone": "+91-326-2235769",
+      "email": "apc_crf@iitism.ac.in , sagarpal@iitism.ac.in",
+      "photo": "/images/people/sagarpal.jpg"
+    },
+    {
+      "name": "Prof. Pranab Das",
+      "role": "FIC-XRF",
+      "phone": "+91-326-2235894",
+      "email": "xrf_crf@iitism.ac.in",
+      "photo": "/images/people/prof-pranab-das-fic-xrf.jpg"
+    },
+    {
+      "name": "Prof. A. R. Dixit",
+      "role": "FIC, METAL 3D PRINTER (POWDER BED FUSION BASED)",
+      "phone": "+91-326-2235620",
+      "email": "3dp@iitism.ac.in",
+      "photo": "/images/people/ardixit.jpg"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Dr. Sourav Das",
+      "role": "Technical Officer",
+      "phone": "+91-7707018496",
+      "email": "sourav@iitism.ac.in",
+      "photo": "/images/people/dr-sourav-das-technical-officer.jpg"
+    },
+    {
+      "name": "Mr. Sanjeev Kumar",
+      "role": "Technical Officer",
+      "phone": "",
+      "email": "sanjeevkumar@iitism.ac.in",
+      "photo": "/images/people/sanjeev-kumar-technical-officer.jpg"
+    },
+    {
+      "name": "Mr. Subhendu Bhunia",
+      "role": "Technical Superintendent",
+      "phone": "",
+      "email": "subhendu@iitism.ac.in",
+      "photo": "/images/people/shubendu.jpg"
+    },
+    {
+      "name": "Mr. MD Ramjanul Haque",
+      "role": "Technical Superintendent",
+      "phone": "",
+      "email": "ramjan@iitism.ac.in",
+      "photo": "/images/people/ramjanul.jpg"
+    },
+    {
+      "name": "Mr. Balla Mohana Veera Durg Naresh",
+      "role": "Junior Technical Superintendent",
+      "phone": "",
+      "email": "bmvdnaresh@iitism.ac.in",
+      "photo": "/images/people/naresh.jpg"
+    },
+    {
+      "name": "Mr. Banty Saw",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "banty@iitism.ac.in",
+      "photo": "/images/people/banty-saw-junior-technician.jpg"
+    },
+    {
+      "name": "Mrs. Nikita Kumari",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "nikita@iitism.ac.in",
+      "photo": "/images/people/nikita-kumari.jpg"
+    },
+    {
+      "name": "Mr. Satyajit Kumbhakar",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "satyajit@iitism.ac.in",
+      "photo": "/images/people/satyajit-kumbhakar-junior-technician.jpg"
+    },
+    {
+      "name": "Mr. Shashikant Kumar",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "shashikant@iitism.ac.in",
+      "photo": "/images/people/shashikant-kumar-junior-technician.jpg"
+    },
+    {
+      "name": "Mr. Uday Chand Mandal",
+      "role": "JTS",
+      "phone": "",
+      "email": "udaychand@iitism.ac.in",
+      "photo": "/images/people/udaychandmandal.jpg"
+    },
+    {
+      "name": "Mr. Sangeet Kumar",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "kumarsangeet@iitism.ac.in",
+      "photo": "/images/people/sangeet-kumar.jpg"
+    },
+    {
+      "name": "Mr. Ravi Kant Pyarelal",
+      "role": "Senior Technician(CRF Office)",
+      "phone": "+91-7707018471",
+      "email": "office_crf@iitism.ac.in",
+      "photo": "/images/people/ravi-kant-pyarelal.jpeg"
+    }
+  ]
+}

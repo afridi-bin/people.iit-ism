@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #1f1a1a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-50: #fbf3f3;
+  --color-brand-100: #f6e3e3;
+  --color-brand-200: #ecc6c6;
+  --color-brand-300: #dc9a9a;
+  --color-brand-400: #c86262;
+  --color-brand-500: #b83f3f;
+  --color-brand-600: #a52a2a;
+  --color-brand-700: #8a2222;
+  --color-brand-800: #721f1f;
+  --color-brand-900: #5a1919;
+  --color-ink: #1f1a1a;
+  --color-muted: #6b6363;
+  --color-line: #ece6e6;
+  --color-surface: #faf8f8;
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-jakarta);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-jakarta), var(--font-inter), system-ui, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+.container-x {
+  width: 100%;
+  max-width: 76rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+@media (min-width: 640px) {
+  .container-x { padding-inline: 1.5rem; }
+}
+
+.dot-pattern {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.14) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+@keyframes ticker {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+
+:focus-visible {
+  outline: 2px solid #a52a2a;
+  outline-offset: 2px;
+}
