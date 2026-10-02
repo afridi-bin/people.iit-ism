@@ -10,12 +10,12 @@ export default function InstrumentCard({ i }: { i: Instrument }) {
       className="group flex h-full flex-col rounded-2xl border border-line bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-lg"
     >
       <div className="flex items-start justify-between gap-3">
-        <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-brand-50 text-brand-600">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3" />
-            <path d="M8 15h8" />
-          </svg>
-        </span>
+       
+        <div style={{ height: "auto", width: "100%", overflow: "hidden" }}>
+           {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={i?.images[0]} alt={i.title} style={{ width: "100%", height: "300px", }} />
+        </div>
+        
         <StatusBadge status={i.status} />
       </div>
       <h3 className="mt-4 text-base font-semibold leading-snug text-ink group-hover:text-brand-600">{i.title}</h3>

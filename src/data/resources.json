@@ -1,18 +1,5 @@
 {
-  "notices": [
-    {
-      "title": "HANDS-ON TRAINING ON SCANNING ELECTRON MICROSCOPY, 5-7 SEPTEMBER, 2025",
-      "href": "/files/notices/hands-on-training-flyer-sem.pdf"
-    },
-    {
-      "title": "Hands-on Training on Raman Spectrscopy, 4- 6th July, 2025",
-      "href": "/files/notices/crf-t1-hands-on-training-raman.pdf"
-    },
-    {
-      "title": "Revised Guidelines to the I-STEM Users",
-      "href": "/files/notices/revised-guidelines-to-the-i-stem-users.pdf"
-    }
-  ],
+  
   "forms": [
     {
       "title": "Requisition Form for Liquid Chromatography Mass Spectrometry",
@@ -124,5 +111,5 @@
     }
   ],
   "guidelines": "/files/guidelines-to-the-i-stem-users.pdf",
-  "flyer": "/images/flyer-sem-crf-website.jpg"
+  "flyer": "/images/flyer-sem-crf-website.png"
 }

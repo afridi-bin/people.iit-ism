@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import InstrumentCard from "@/components/InstrumentCard";
-import NoticeBoard from "@/components/NoticeBoard";
+// import NoticeBoard from "@/components/NoticeBoard";
 import { FileLink, Section } from "@/components/ui";
 import { ISTEM_URL, instruments, people, resources } from "@/lib/data";
 
@@ -103,11 +103,11 @@ export default function Home() {
 
       <Section kicker="Updates" title="Notices & Booking">
         <div className="grid gap-8 lg:grid-cols-[1.3fr_1fr]">
-          <div className="rounded-2xl border border-line bg-white p-6 shadow-sm">
+          {/* <div className="rounded-2xl border border-line bg-white p-6 shadow-sm">
             <h3 className="text-lg font-semibold">Latest Notices</h3>
             <NoticeBoard />
             <Link href="/notices" className="mt-3 inline-block text-sm font-semibold text-brand-600 hover:underline">All notices →</Link>
-          </div>
+          </div> */}
           <div className="rounded-2xl bg-brand-50 p-6">
             <h3 className="text-lg font-semibold text-brand-700">Booking</h3>
             <p className="mt-3 text-sm leading-relaxed text-ink">

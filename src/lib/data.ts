@@ -35,6 +35,7 @@ export const resources = resourcesJson as {
 };
 
 export const ISTEM_URL = "https://www.istem.gov.in/login";
+export const PAYMENT_URL = "https://eps.eshiksa.net/DirectFeesv3/IIT_Dhanbad/index";
 
 export const contact = {
   org: "Central Research Facility, Institute Research Hub (iRh)",

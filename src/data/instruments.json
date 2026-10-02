@@ -21,8 +21,9 @@
       "ACQUITY QDa Detector: API Source and ionization modes, Adjustment-free high performance ZSprayTM dual-orthogonal atmospheric pressure; Ion source transfer optics: Dual off-axis ion guides for elimination of neutral noise with increased sensitivity androbustness. Includes high efficiency conjoined stacked ring ion guide and second stage quadrupole ion guide; Acquisition modes Full scan MS Selected Ion Recording (SIR); ionization (API) electrospray (ES) interface for robustness and reliability; Mass range: 30 to 1250 m/z, Scan speed: Automatically-optimized for enhanced data quality for acquisition rates of up to e.g. 10Hz for m/z 100 to 1000 or 20 Hz for m/z 50 to 500; Mass accuracy: better than ±0.2 Da over full mass range; ACQUITY UPLC PDA Detector: Wavelength range 190 to 500 nm; Optical resolution 1.2 nm Digital resolution 0.6 nm/pixel to 500 nm; Light source Prealigned, intelligent technology Deuterium lamp."
     ],
     "bullets": [],
-    "images": [],
-    "status": "Running",
+        "images": ["/images/instruments/lcms.jpg"],
+
+    "status": "",
     "links": []
   },
   {
@@ -44,11 +45,11 @@
       ],
       [
         "Email",
-        "hrtem-crf@nitmizoram.ac.in"
+        ""
       ],
       [
         "Phone",
-        "0122-234576"
+        ""
       ]
     ],
     "paragraphs": [
@@ -64,11 +65,11 @@
       "Automated mapping & EDS analysis",
       "Electron diffraction"
     ],
-    "images": [],
+    "images": ["/images/instruments/hrtem.jpg"],
     "status": null,
     "links": [],
     "emails": [
-      "hrtem-crf@nitmizoram.ac.in"
+      ""
     ]
   },
   {
@@ -107,8 +108,8 @@
       "CL: Gatan Mono CL4 (200–850 nm), UVMCL (185–200 nm) & FIRMCL (1600–2300 nm).",
       "Sample Coating: Facilities available for Carbon, Gold, and Platinum-Palladium coating."
     ],
-    "images": [],
-    "status": "Under Maintenance",
+    "images": ["/images/instruments/supra-55.jpg"],
+"status": null,
     "links": [],
     "emails": [
       "ajoy@iitism.ac.in",
@@ -154,8 +155,8 @@
       "Oscillation Mode: Complex Modulus values (G’ and G’’) can be recorded at different strain, frequency, and temperature",
       "Creep/Creep Recovery Mode: Yield Stress value of the sample can be determined using Stepped Creep Test"
     ],
-    "images": [],
-    "status": "Under Maintenance",
+    "images": ["/images/instruments/rheometer.jpg"],
+"status": null,
     "links": [],
     "emails": [
       "cguria@iitism.ac.in",
@@ -166,25 +167,26 @@
     "slug": "single-crystal-x-ray-diffractometer",
     "title": "Single Crystal X-Ray Diffractometer",
     "code": "2042785",
-    "details": [],
+    "details": [
+      ["Make", "Rigaku Oxford Diffraction"],
+     [" Model", "Supernova"],
+      ["Faculty-in-Charge", "Prof. H. P. Nayek"],
+      ["Email:" ,"scxrd_crf@iitism.ac.in , hpnayek@iitism.ac.in"],
+      ["Phone:" ,"0326-223-5756"]
+    ],
     "paragraphs": [
       "The Single Crystal X-ray Diffraction Facility (SCXRD) at CRF is equipped with a Rigaku Oxford Diffraction system featuring a state-of-the-art CCD Eos S2 detector. This non-destructive analytical technique is used to determine the structure, bond lengths, bond angles of chemical compounds, and site-ordering details within crystals.",
       "Analysis Charge: Click Here"
     ],
     "bullets": [
-      "Make: Rigaku Oxford Diffraction",
-      "Model: Supernova",
-      "Faculty-in-Charge: Prof. H. P. Nayek",
-      "Email: scxrd_crf@iitism.ac.in; hpnayek@iitism.ac.in",
-      "Phone: 0326-223-5756",
       "Up to 50 W microfocus X-ray tube (Mo source) with multilayer optics",
       "High precision 4-circle kappa goniometer",
       "Measurement temperature range: Room temperature to 100 K",
       "CrysAlisPro: Powerful, user-friendly software for data collection and reduction",
       "AutoChem 3.0: Fully automated structure solution and refinement"
     ],
-    "images": [],
-    "status": "Under Maintenance",
+    "images": ["/images/instruments/diffractometer.jpg"],
+"status": null,
     "links": [],
     "emails": [
       "hpnayek@iitism.ac.in",
@@ -209,8 +211,8 @@
       "Email: spm_crf@iitism.ac.in; asit@iitism.ac.in",
       "Phone: 0326-223-5403"
     ],
-    "images": [],
-    "status": "Running",
+    "images": ["/images/instruments/spm.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "asit@iitism.ac.in",
@@ -235,8 +237,8 @@
       "Email: gsa_crf@iitism.ac.in; asamanta@iitism.ac.in",
       "Phone: 0326-223-5087"
     ],
-    "images": [],
-    "status": "Running",
+    "images": ["/images/instruments/gsa.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "asamanta@iitism.ac.in",
@@ -300,8 +302,8 @@
       "Integrating Sphere (110 mm), Peltier Accessory, Colour Calculator Software"
     ],
     "bullets": [],
-    "images": [],
-    "status": "Running",
+    "images": ["/images/instruments/spectrophotometer.jpg"],
+    "status": null,
     "links": [],
     "subtitle": "Central Research Facility (CRF) — Integrating Sphere & Peltier Accessory Installed",
     "emails": [
@@ -328,8 +330,8 @@
       "Flow rate range: 0.010 to 2.200 mL/min, in 0.001 mL increments.",
       "Flow rate accuracy: ±0.1%."
     ],
-    "images": [],
-    "status": "Running",
+    "images": ["/images/instruments/hrms.jpg"],
+    "status": null,
     "links": [],
     "subtitle": "Waters XEVO G2-XS QTOF — Central Research Facility (CRF), IIT (ISM) Dhanbad",
     "emails": [
@@ -368,8 +370,8 @@
       "Rietveld analysis",
       "Thin-film analysis"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/xrd.jpg"],
+    "status": null,
     "links": [],
     "subtitle": "Rigaku SmartLab — Central Research Facility (CRF), IIT (ISM) Dhanbad",
     "emails": [
@@ -406,8 +408,8 @@
       "Mapping feature for elemental topography and distribution",
       "Press pellet preparation for powdered samples < 200 mesh is available"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/wdxrf.jpg"],
+    "status": null,
     "links": [],
     "subtitle": "Rigaku Primus IV — Central Research Facility (CRF), IIT (ISM) Dhanbad",
     "emails": [
@@ -439,8 +441,8 @@
       "Five axis automated sample manipulator",
       "25 mm and 60 mm diameter sample mount"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/xps.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "rthangavel@iitism.ac.in",
@@ -466,8 +468,8 @@
       "Capable of sustaining a maximum pressure of 15000 psi",
       "Empower software used for data acquisition, processing, and automated result calculation"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/apc.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "apc_crf@iitism.ac.in",
@@ -494,8 +496,8 @@
       "Open Electrode CCD air-cooled to −60°C",
       "Gratings: 600, 1800, 2400 g/mm"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/raman.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "kkumar@iitism.ac.in",
@@ -532,8 +534,8 @@
       "Spectral Resolution: 7 pm at 200 nm",
       "Accessories: CETAC model ASX560 autosampler"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/icp-oes.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "asmajumdar@iitism.ac.in",
@@ -556,8 +558,8 @@
       "Light and objective lens: White light; 10X and 50X",
       "Test force range and control: 0.1 gf to 2000 gf in steps; Voice coil Indenter: Diamond"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/dmvhtm.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "alokmech@iitism.ac.in"
@@ -585,8 +587,8 @@
       "(b) 10–1000 mN, resolution 150 µm",
       "(c) 0.5–50 mN, resolution 50 µm"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/ut.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "tribometer_crf@iitism.ac.in"
@@ -612,8 +614,8 @@
       "Thermal Conductivity Detector (TCD)",
       "120-position autosampler"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/chnso.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "hpnayek@iitism.ac.in"
@@ -628,8 +630,8 @@
       "Email: ajitkp@iitism.ac.in"
     ],
     "bullets": [],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/utm.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "ajitkp@iitism.ac.in"
@@ -658,8 +660,8 @@
       "Accessories: Variety of crucibles (Al, Pt, Al2O3, Au, Ag, Cu, autoclaves, etc.)",
       "Dimensions: 380 mm × 320 mm × 520 mm; Mass: 28 kg"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/dsc.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "dsc_crf@iitism.ac.in"
@@ -677,8 +679,8 @@
     "bullets": [
       "Zeta potential measurement of macroscopic solid surfaces"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/zeta.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "shravan@iitism.ac.in"
@@ -717,8 +719,8 @@
       "Deep Freezer: 300L, temp -25°C, microprocessor control, CFC-free gas, high density PUF insulation, LCD display, audio/visual alarm, stainless steel inner.",
       "Automated Autoclave: 50L, color touch panel, electro-mechanical lid lock, dual interlock, air removal time setting, sterilizes liquids at high temp and pressure."
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/cell.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "cell_crf@iitism.ac.in"
@@ -739,8 +741,8 @@
       "Number of Laser: 3 (Laser safety classification - FDA Title 21 CFR - Part 1040 & EN 60825-1:2014; Laser class, closed cover-Class 1 of EN 60825-1:2014; Laser class, open cover-Class 3R of EN 60825-1:2014)",
       "Particle analysis software: Kalliope™"
     ],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/psa.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "ajoy@iitism.ac.in"
@@ -763,8 +765,8 @@
       "Maximum Probe Current: 220 pA to 100 nA",
       "Detectors: SE2 , In-Lens"
     ],
-    "images": [],
-    "status": "Running",
+    "images": ["/images/instruments/ebl.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "lithography_crf@iitism.ac.in"
@@ -777,7 +779,7 @@
     "details": [],
     "paragraphs": [],
     "bullets": [],
-    "images": [],
+"images": ["/images/instruments/metal.jpg"],
     "status": null,
     "links": []
   },
@@ -788,7 +790,7 @@
     "details": [],
     "paragraphs": [],
     "bullets": [],
-    "images": [],
+"images": ["/images/instruments/tcspc.jpg"],
     "status": null,
     "links": []
   },
@@ -799,7 +801,7 @@
     "details": [],
     "paragraphs": [],
     "bullets": [],
-    "images": [],
+"images": ["/images/instruments/cfi.jpg"],
     "status": null,
     "links": []
   },
@@ -810,7 +812,7 @@
     "details": [],
     "paragraphs": [],
     "bullets": [],
-    "images": [],
+"images": ["/images/instruments/dma.jpg"],
     "status": null,
     "links": []
   },
@@ -821,7 +823,7 @@
     "details": [],
     "paragraphs": [],
     "bullets": [],
-    "images": [],
+"images": ["/images/instruments/awj.jpg"],
     "status": null,
     "links": []
   },
@@ -893,8 +895,8 @@
       "The NETZSCH STA 2500 Regulus is a Simultaneous Thermal Analyzer (STA) designed for high-reliability, cost-effective measurement of materials. It combines Thermogravimetric Analysis (TGA) and Differential Thermal Analysis (DTA/DSC), allowing for simultaneous measurement of mass changes and caloric events on the same sample under identical conditions. Key features include a top-loading, vertical, and differential balance system. This unique differential design cancels out buoyancy and convection effects, eliminating the need for time-consuming baseline runs and ensuring stable measurements with a high thermogravimetric resolution of 0.03 micro gram. . The instrument operates up to 1100C and supports a wide range of atmospheres, including inert, oxidizing, and vacuum, controlled by Quadrupole Mass Spectrometer (QMS). Its top-loading design is also ideal for coupling to Evolved Gas Analysis (EGA) systems like Mass Spectrometry (MS) to analyze the gases released during thermal treatment."
     ],
     "bullets": [],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/tga.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "tga_crf@iitism.ac.in"
@@ -967,8 +969,8 @@
       "JSM-IT800 (HL) is a highly stable Schottky field emission electron gun Scanning Electron Microscope, with EDS & EBSD. To analyze samples surface morphology up to nano level, elemental composition, grain size, orientation and microstructure etc."
     ],
     "bullets": [],
-    "images": [],
-    "status": "Running",
+"images": ["/images/instruments/ebsd.jpg"],
+    "status": null,
     "links": [],
     "emails": [
       "madhumanti@iitism.ac.in"

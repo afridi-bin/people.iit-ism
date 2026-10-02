@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FileLink, PageHero, Section, StatusBadge } from "@/components/ui";
-import { ISTEM_URL, getInstrument, instruments } from "@/lib/data";
+import { ISTEM_URL, getInstrument, instruments, PAYMENT_URL } from "@/lib/data";
 
 export function generateStaticParams() {
   return instruments.map((i) => ({ slug: i.slug }));
@@ -43,6 +43,9 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
                 <Link href="/contact" className="mt-4 inline-block text-sm font-semibold text-brand-600 hover:underline">Contact CRF →</Link>
               </div>
             )}
+
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={i.images?.[0]} alt={i.title} style={{ width: "100%", height: "auto" }} />
 
             {i.paragraphs.length > 0 && (
               <div className="space-y-4">
@@ -116,6 +119,9 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
               <h3 className="font-semibold text-brand-700">Want to use this instrument?</h3>
               <a href={ISTEM_URL} target="_blank" rel="noopener noreferrer" className="mt-3 block rounded-xl bg-brand-600 px-4 py-3 text-center text-sm font-semibold text-white hover:bg-brand-700">
                 Book on I-STEM ↗
+              </a>
+                <a href={PAYMENT_URL} target="_blank" rel="noopener noreferrer" className="mt-3 block rounded-xl bg-brand-600 px-4 py-3 text-center text-sm font-semibold text-white hover:bg-brand-700">
+                Payment Gateway ↗
               </a>
               <Link href="/forms" className="mt-2 block rounded-xl border border-brand-200 bg-white px-4 py-3 text-center text-sm font-semibold text-brand-700 hover:border-brand-400">
                 Requisition forms
