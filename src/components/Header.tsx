@@ -9,7 +9,6 @@ import { contact, instruments, ISTEM_URL, resources } from "@/lib/data";
 type Item = { href: string; label: string; external?: boolean; hint?: string };
 
 const resourceMenu: Item[] = [
-  { href: "/notices", label: "Notices", hint: "Trainings & announcements" },
   { href: "/forms", label: "Requisition Forms", hint: `${resources.forms.length} instrument forms` },
   { href: "/booking", label: "Booking Guide", hint: "How to reserve a slot" },
   { href: resources.guidelines ?? "/booking", label: "I-STEM Guidelines", hint: "PDF", external: true },
@@ -112,7 +111,7 @@ export default function Header() {
   }, [mobileOpen]);
 
   const is = (href: string) => (href === "/" ? pathname === "/" : pathname === href || pathname.startsWith(href + "/"));
-  const resourcesActive = ["/notices", "/forms", "/booking"].some(is);
+  const resourcesActive = ["/forms", "/booking"].some(is);
   const closeAll = () => {
     setMobileOpen(false);
     setOpenId(null);
