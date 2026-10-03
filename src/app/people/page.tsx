@@ -11,7 +11,7 @@ function Card({ p }: { p: Person }) {
     <article className="flex flex-col items-center rounded-2xl border border-line bg-white p-6 text-center shadow-sm transition hover:shadow-lg">
       <div className="relative h-28 w-28 overflow-hidden rounded-full bg-brand-50 ring-4 ring-brand-100">
         {p.photo ? (
-          <Image src={p.photo} alt={p.name} fill sizes="112px" className="object-cover object-top" />
+          <Image src={p.photo} alt={p.name} fill sizes="212px" className="object-cover object-top" />
         ) : (
           <span className="flex h-full w-full items-center justify-center text-2xl font-bold text-brand-600">{initials}</span>
         )}
