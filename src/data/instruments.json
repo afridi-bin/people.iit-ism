@@ -3,6 +3,11 @@
     "slug": "liquid-chromatography-mass-spectrometry-crf-lcms",
     "title": "Liquid Chromatography Mass Spectrometry (CRF-LCMS)",
     "code": "2053330",
+    "faculty": {
+      "name": "Prof. Swapan Dey",
+      "role": "Faculty in-charge",
+      "image": null
+    },
     "details": [
       [
         "Make",
@@ -21,8 +26,9 @@
       "ACQUITY QDa Detector: API Source and ionization modes, Adjustment-free high performance ZSprayTM dual-orthogonal atmospheric pressure; Ion source transfer optics: Dual off-axis ion guides for elimination of neutral noise with increased sensitivity androbustness. Includes high efficiency conjoined stacked ring ion guide and second stage quadrupole ion guide; Acquisition modes Full scan MS Selected Ion Recording (SIR); ionization (API) electrospray (ES) interface for robustness and reliability; Mass range: 30 to 1250 m/z, Scan speed: Automatically-optimized for enhanced data quality for acquisition rates of up to e.g. 10Hz for m/z 100 to 1000 or 20 Hz for m/z 50 to 500; Mass accuracy: better than ±0.2 Da over full mass range; ACQUITY UPLC PDA Detector: Wavelength range 190 to 500 nm; Optical resolution 1.2 nm Digital resolution 0.6 nm/pixel to 500 nm; Light source Prealigned, intelligent technology Deuterium lamp."
     ],
     "bullets": [],
-        "images": ["/images/instruments/lcms.jpg"],
-
+    "images": [
+      "/images/instruments/lcms.jpg"
+    ],
     "status": "",
     "links": []
   },
@@ -30,6 +36,11 @@
     "slug": "high-resolution-transmission-electron-microscope",
     "title": "High Resolution Transmission Electron Microscope (HRTEM)",
     "code": "2042660",
+    "faculty": {
+      "name": "Prof. G. C. Nayak",
+      "role": "FIC, HR-TEM & Sample Preparation Unit",
+      "image": "/images/people/gcnayak.jpg"
+    },
     "details": [
       [
         "Maker",
@@ -65,7 +76,9 @@
       "Automated mapping & EDS analysis",
       "Electron diffraction"
     ],
-    "images": ["/images/instruments/hrtem.jpg"],
+    "images": [
+      "/images/instruments/hrtem.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -76,6 +89,11 @@
     "slug": "field-emission-scanning-electron-microscope",
     "title": "Field Emission Scanning Electron Microscope (FESEM)",
     "code": "2042787",
+    "faculty": {
+      "name": "Prof. A. K. Bhaumik",
+      "role": "Faculty in-charge",
+      "image": null
+    },
     "details": [
       [
         "Make",
@@ -108,8 +126,10 @@
       "CL: Gatan Mono CL4 (200–850 nm), UVMCL (185–200 nm) & FIRMCL (1600–2300 nm).",
       "Sample Coating: Facilities available for Carbon, Gold, and Platinum-Palladium coating."
     ],
-    "images": ["/images/instruments/supra-55.jpg"],
-"status": null,
+    "images": [
+      "/images/instruments/supra-55.jpg"
+    ],
+    "status": null,
     "links": [],
     "emails": [
       "ajoy@iitism.ac.in",
@@ -120,6 +140,11 @@
     "slug": "modular-compact-rheometer",
     "title": "Advanced Air Bearing Rheometer System",
     "code": "2042791",
+    "faculty": {
+      "name": "Chandan Guria",
+      "role": "FIC, Air Bearing Rheometer",
+      "image": "/images/people/chandanguria.jpg"
+    },
     "details": [
       [
         "Make",
@@ -155,8 +180,10 @@
       "Oscillation Mode: Complex Modulus values (G’ and G’’) can be recorded at different strain, frequency, and temperature",
       "Creep/Creep Recovery Mode: Yield Stress value of the sample can be determined using Stepped Creep Test"
     ],
-    "images": ["/images/instruments/rheometer.jpg"],
-"status": null,
+    "images": [
+      "/images/instruments/rheometer.jpg"
+    ],
+    "status": null,
     "links": [],
     "emails": [
       "cguria@iitism.ac.in",
@@ -167,12 +194,32 @@
     "slug": "single-crystal-x-ray-diffractometer",
     "title": "Single Crystal X-Ray Diffractometer",
     "code": "2042785",
+    "faculty": {
+      "name": "Prof. H. P. Nayek",
+      "role": "FIC, CHNS Analyzer",
+      "image": "/images/people/hpnayek.jpg"
+    },
     "details": [
-      ["Make", "Rigaku Oxford Diffraction"],
-     [" Model", "Supernova"],
-      ["Faculty-in-Charge", "Prof. H. P. Nayek"],
-      ["Email:" ,"scxrd_crf@iitism.ac.in , hpnayek@iitism.ac.in"],
-      ["Phone:" ,"0326-223-5756"]
+      [
+        "Make",
+        "Rigaku Oxford Diffraction"
+      ],
+      [
+        " Model",
+        "Supernova"
+      ],
+      [
+        "Faculty-in-Charge",
+        "Prof. H. P. Nayek"
+      ],
+      [
+        "Email:",
+        "scxrd_crf@iitism.ac.in , hpnayek@iitism.ac.in"
+      ],
+      [
+        "Phone:",
+        "0326-223-5756"
+      ]
     ],
     "paragraphs": [
       "The Single Crystal X-ray Diffraction Facility (SCXRD) at CRF is equipped with a Rigaku Oxford Diffraction system featuring a state-of-the-art CCD Eos S2 detector. This non-destructive analytical technique is used to determine the structure, bond lengths, bond angles of chemical compounds, and site-ordering details within crystals.",
@@ -185,8 +232,10 @@
       "CrysAlisPro: Powerful, user-friendly software for data collection and reduction",
       "AutoChem 3.0: Fully automated structure solution and refinement"
     ],
-    "images": ["/images/instruments/diffractometer.jpg"],
-"status": null,
+    "images": [
+      "/images/instruments/diffractometer.jpg"
+    ],
+    "status": null,
     "links": [],
     "emails": [
       "hpnayek@iitism.ac.in",
@@ -197,6 +246,11 @@
     "slug": "scanning-probe-microscope",
     "title": "Scanning Probe Microscope",
     "code": "2042757",
+    "faculty": {
+      "name": "Prof. Asit K Kar",
+      "role": "FIC, SPM",
+      "image": "/images/people/asit-kumar-kar.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Scanning Probe Microscope Laboratory has two SPM systems with one controller (Nanoscope V). Hence, only one system is operated at a time. The SPM system has a number of modes to explore surface properties of materials.",
@@ -211,7 +265,9 @@
       "Email: spm_crf@iitism.ac.in; asit@iitism.ac.in",
       "Phone: 0326-223-5403"
     ],
-    "images": ["/images/instruments/spm.jpg"],
+    "images": [
+      "/images/instruments/spm.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -223,6 +279,11 @@
     "slug": "gas-sorption-analyzer",
     "title": "Gas Sorption Analyzer",
     "code": "2042796",
+    "faculty": {
+      "name": "Prof. Arun K. Samanta",
+      "role": "FIC, Gas Sorption Analyzer",
+      "image": "/images/people/arunksamanta.jpg"
+    },
     "details": [],
     "paragraphs": [
       "3FLEX 3500 from Micromeritics Instrument Corporation, USA is recognized as one of the most advanced instrument in the field for material surface characterization. It is a fully automated 3-port (with 2-Micropore ports and 1-Mesopore port) gas adsorption analyzer for providing high-resolution adsorption, desorption, isotherms to advance and validate fundamental understanding into the development of methodologies and process improvements.",
@@ -237,7 +298,9 @@
       "Email: gsa_crf@iitism.ac.in; asamanta@iitism.ac.in",
       "Phone: 0326-223-5087"
     ],
-    "images": ["/images/instruments/gsa.jpg"],
+    "images": [
+      "/images/instruments/gsa.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -249,6 +312,11 @@
     "slug": "uv-vis-nir-spectrophotometer",
     "title": "UV-VIS-NIR Spectrophotometer — Agilent Cary 5000",
     "code": "2042786",
+    "faculty": {
+      "name": "Prof. S. K. Sharma",
+      "role": "FIC, UV-VIS-NIR",
+      "image": "/images/people/sksharma.jpg"
+    },
     "details": [
       [
         "Make & model",
@@ -302,7 +370,9 @@
       "Integrating Sphere (110 mm), Peltier Accessory, Colour Calculator Software"
     ],
     "bullets": [],
-    "images": ["/images/instruments/spectrophotometer.jpg"],
+    "images": [
+      "/images/instruments/spectrophotometer.jpg"
+    ],
     "status": null,
     "links": [],
     "subtitle": "Central Research Facility (CRF) — Integrating Sphere & Peltier Accessory Installed",
@@ -315,6 +385,11 @@
     "slug": "high-resolution-mass-spectrometer",
     "title": "High Resolution Mass Spectrometer (HRMS)",
     "code": "2042321",
+    "faculty": {
+      "name": "Prof. Somnath Yadav",
+      "role": "FIC, HR-MS",
+      "image": "/images/people/somnathyadav.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Equipped with dual electrospray ionization and atmospheric pressure chemical ionization (ESI/APCI), Dual atmospheric pressure chemical ionization and atmospheric pressure photo ionization (APCI/APPI) and atmospheric pressure solids analysis probe (ASAP), the Waters XEVO G2-XS QTOF High Resolution Mass Spectrometer (HRMS) at the Central Research Facility, IIT (ISM), Dhanbad can detect accurate masses of a wide range of molecules such as small molecules, APIs, and macromolecules. Coupled with the Ultra High-Performance Liquid Chromatography (UPLC) system, it enables both quantitative and qualitative analysis of samples.",
@@ -330,7 +405,9 @@
       "Flow rate range: 0.010 to 2.200 mL/min, in 0.001 mL increments.",
       "Flow rate accuracy: ±0.1%."
     ],
-    "images": ["/images/instruments/hrms.jpg"],
+    "images": [
+      "/images/instruments/hrms.jpg"
+    ],
     "status": null,
     "links": [],
     "subtitle": "Waters XEVO G2-XS QTOF — Central Research Facility (CRF), IIT (ISM) Dhanbad",
@@ -343,6 +420,11 @@
     "slug": "high-resolution-x-ray-diffractometer",
     "title": "High Resolution X-Ray Diffractometer (HRXRD)",
     "code": "2014382",
+    "faculty": {
+      "name": "Prof. P. M. Sarun",
+      "role": "FIC, HR-XRD",
+      "image": "/images/people/pmsarun.jpg"
+    },
     "details": [],
     "paragraphs": [
       "The Rigaku SmartLab is a multipurpose high resolution X-ray diffractometer (HRXRD) automated with SmartLab Studio II software. The system is equipped with a Monochromator in the diffracted beam side and uses Converging Beam Optics (CBO) technology for fully automated beam alignment. It supports multiple XRD applications including powder diffraction, thin film metrology, SAXS, in-plane scattering, micro diffraction, capillary measurements, texture and pole figure, and X-ray reflectometry. The SmartLab Studio II software provides intelligent user guidance and performs automated phase/composition identification, qualitative and quantitative analysis, residual stress analysis, Rietveld analysis, and thin-film analysis.",
@@ -370,7 +452,9 @@
       "Rietveld analysis",
       "Thin-film analysis"
     ],
-"images": ["/images/instruments/xrd.jpg"],
+    "images": [
+      "/images/instruments/xrd.jpg"
+    ],
     "status": null,
     "links": [],
     "subtitle": "Rigaku SmartLab — Central Research Facility (CRF), IIT (ISM) Dhanbad",
@@ -383,6 +467,11 @@
     "slug": "wavelength-dispersive-x-ray-fluorescence",
     "title": "Wavelength Dispersive X-Ray Fluorescence (WDXRF)",
     "code": "2042659",
+    "faculty": {
+      "name": "Prof. Pranab Das",
+      "role": "FIC-XRF",
+      "image": "/images/people/prof-pranab-das-fic-xrf.jpg"
+    },
     "details": [],
     "paragraphs": [
       "The Rigaku Primus IV Wavelength Dispersive X-Ray Fluorescence (WDXRF) spectrometer enables precise elemental analysis of solids, liquids, powders, alloys, and thin films. The system features a tube-above optical design that minimizes contamination and is ideal for high-sensitivity, quantitative, and qualitative elemental analysis. It offers versatility through its advanced hardware and software options, including mapping and microanalysis capabilities.",
@@ -408,7 +497,9 @@
       "Mapping feature for elemental topography and distribution",
       "Press pellet preparation for powdered samples < 200 mesh is available"
     ],
-"images": ["/images/instruments/wdxrf.jpg"],
+    "images": [
+      "/images/instruments/wdxrf.jpg"
+    ],
     "status": null,
     "links": [],
     "subtitle": "Rigaku Primus IV — Central Research Facility (CRF), IIT (ISM) Dhanbad",
@@ -421,6 +512,11 @@
     "slug": "x-ray-photoemission-spectroscopy",
     "title": "X-Ray Photoemission Spectroscopy (XPS)",
     "code": "2042323",
+    "faculty": {
+      "name": "Prof. R. Thangavel",
+      "role": "FIC, XPS",
+      "image": "/images/people/rthangavel.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Model: 5000 Versa Probe III",
@@ -441,7 +537,9 @@
       "Five axis automated sample manipulator",
       "25 mm and 60 mm diameter sample mount"
     ],
-"images": ["/images/instruments/xps.jpg"],
+    "images": [
+      "/images/instruments/xps.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -453,6 +551,11 @@
     "slug": "advanced-polymer-chromatography",
     "title": "Advanced Polymer Chromatography (APC)",
     "code": "2042662",
+    "faculty": {
+      "name": "Prof. Sagar Pal",
+      "role": "FIC, Advanced Polymer Chromatography",
+      "image": "/images/people/sagarpal.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Model: Waters ACQUITY Advanced Polymer Chromatography (APC)",
@@ -468,7 +571,9 @@
       "Capable of sustaining a maximum pressure of 15000 psi",
       "Empower software used for data acquisition, processing, and automated result calculation"
     ],
-"images": ["/images/instruments/apc.jpg"],
+    "images": [
+      "/images/instruments/apc.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -480,6 +585,11 @@
     "slug": "micro-raman-spectroscopy",
     "title": "Micro-Raman Spectroscopy (MRS)",
     "code": "2042232",
+    "faculty": {
+      "name": "Prof. Kaushal Kumar",
+      "role": "FIC, Micro Raman Spectrometer",
+      "image": "/images/people/kaushalkumar.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Make: HORIBA Scientific, France",
@@ -496,7 +606,9 @@
       "Open Electrode CCD air-cooled to −60°C",
       "Gratings: 600, 1800, 2400 g/mm"
     ],
-"images": ["/images/instruments/raman.jpg"],
+    "images": [
+      "/images/instruments/raman.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -508,6 +620,11 @@
     "slug": "inductively-coupled-plasma-optical-emission-spectroscopy",
     "title": "Inductively Coupled Plasma – Optical Emission Spectroscopy (ICP-OES)",
     "code": "2042788",
+    "faculty": {
+      "name": "Prof. Anand Rajagopal",
+      "role": "FIC, ICP-OES Analyzer",
+      "image": "/images/people/photo1033-2022-04-19-19-40-05.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Make: Thermo Fisher Scientific, USA",
@@ -534,7 +651,9 @@
       "Spectral Resolution: 7 pm at 200 nm",
       "Accessories: CETAC model ASX560 autosampler"
     ],
-"images": ["/images/instruments/icp-oes.jpg"],
+    "images": [
+      "/images/instruments/icp-oes.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -546,6 +665,11 @@
     "slug": "digital-micro-vickers-hardness-testing-machine",
     "title": "Digital Micro Vickers Hardness Testing Machine (DMVHTM)",
     "code": "2042834",
+    "faculty": {
+      "name": "Prof. Alok Das",
+      "role": "FIC, Microhardness tester",
+      "image": "/images/people/alokdas.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: alokmech@iitism.ac.in",
@@ -558,7 +682,9 @@
       "Light and objective lens: White light; 10X and 50X",
       "Test force range and control: 0.1 gf to 2000 gf in steps; Voice coil Indenter: Diamond"
     ],
-"images": ["/images/instruments/dmvhtm.jpg"],
+    "images": [
+      "/images/instruments/dmvhtm.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -569,6 +695,11 @@
     "slug": "universal-tribometer",
     "title": "Universal Tribometer (UT)",
     "code": "2042759",
+    "faculty": {
+      "name": "Prof. A. R. Dixit",
+      "role": "FIC, METAL 3D PRINTER (POWDER BED FUSION BASED)",
+      "image": "/images/people/ardixit.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Make: Rtec Instruments, USA",
@@ -587,7 +718,9 @@
       "(b) 10–1000 mN, resolution 150 µm",
       "(c) 0.5–50 mN, resolution 50 µm"
     ],
-"images": ["/images/instruments/ut.jpg"],
+    "images": [
+      "/images/instruments/ut.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -598,6 +731,11 @@
     "slug": "elemental-analyzer-chnso",
     "title": "Elemental Analyzer – CHNSO (UNICUBE)",
     "code": "2042789",
+    "faculty": {
+      "name": "Prof. H. P. Nayek",
+      "role": "FIC, CHNS Analyzer",
+      "image": "/images/people/hpnayek.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Make: Elementar Analysensysteme GmbH, Germany",
@@ -614,7 +752,9 @@
       "Thermal Conductivity Detector (TCD)",
       "120-position autosampler"
     ],
-"images": ["/images/instruments/chnso.jpg"],
+    "images": [
+      "/images/instruments/chnso.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -625,12 +765,19 @@
     "slug": "universal-testing-machine",
     "title": "Universal Testing Machine (UTM)",
     "code": "2042782",
+    "faculty": {
+      "name": "Prof. K. P. Ajit",
+      "role": "FIC, UTM",
+      "image": "/images/people/kpajit.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: ajitkp@iitism.ac.in"
     ],
     "bullets": [],
-"images": ["/images/instruments/utm.jpg"],
+    "images": [
+      "/images/instruments/utm.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -641,6 +788,11 @@
     "slug": "differential-scanning-calorimeter",
     "title": "Differential Scanning Calorimeter (DSC 3500 Sirius)",
     "code": "2042663",
+    "faculty": {
+      "name": "Prof. Soumit Chatterjee",
+      "role": "FIC, Differential Scanning Calorimeter",
+      "image": "/images/people/soumithc.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: dsc_crf@iitism.ac.in",
@@ -660,7 +812,9 @@
       "Accessories: Variety of crucibles (Al, Pt, Al2O3, Au, Ag, Cu, autoclaves, etc.)",
       "Dimensions: 380 mm × 320 mm × 520 mm; Mass: 28 kg"
     ],
-"images": ["/images/instruments/dsc.jpg"],
+    "images": [
+      "/images/instruments/dsc.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -671,6 +825,7 @@
     "slug": "solid-particle-zetameter",
     "title": "Solid Particle Zetameter (SurPASS 3)",
     "code": "2042665",
+    "faculty": null,
     "details": [],
     "paragraphs": [
       "Email: shravan@iitism.ac.in",
@@ -679,7 +834,9 @@
     "bullets": [
       "Zeta potential measurement of macroscopic solid surfaces"
     ],
-"images": ["/images/instruments/zeta.jpg"],
+    "images": [
+      "/images/instruments/zeta.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -690,6 +847,11 @@
     "slug": "cell-culture-lab",
     "title": "Cell Culture Lab",
     "code": "2042795",
+    "faculty": {
+      "name": "Prof. Sumanta K. Sahu",
+      "role": "FIC, Cell Culture Lab",
+      "image": "/images/people/sumantaksahu.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: cell_crf@iitism.ac.in",
@@ -719,7 +881,9 @@
       "Deep Freezer: 300L, temp -25°C, microprocessor control, CFC-free gas, high density PUF insulation, LCD display, audio/visual alarm, stainless steel inner.",
       "Automated Autoclave: 50L, color touch panel, electro-mechanical lid lock, dual interlock, air removal time setting, sterilizes liquids at high temp and pressure."
     ],
-"images": ["/images/instruments/cell.jpg"],
+    "images": [
+      "/images/instruments/cell.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -730,6 +894,7 @@
     "slug": "particle-size-analyzer-laser-diffraction",
     "title": "Particle Size Analyzer (Laser Diffraction)",
     "code": "2042664",
+    "faculty": null,
     "details": [],
     "paragraphs": [
       "This instrument is installed in 2021 at CRF. This instrument is useful for cement & building material industries, Geology-Mining-Mineral sectors, chemical-petrochemical-hydrocarbon industries, pharmaceuticals & cosmetics industries, food & beverage sectors, etc., and researchers from different fields. Both wet and dry modes of analysis are available."
@@ -741,7 +906,9 @@
       "Number of Laser: 3 (Laser safety classification - FDA Title 21 CFR - Part 1040 & EN 60825-1:2014; Laser class, closed cover-Class 1 of EN 60825-1:2014; Laser class, open cover-Class 3R of EN 60825-1:2014)",
       "Particle analysis software: Kalliope™"
     ],
-"images": ["/images/instruments/psa.jpg"],
+    "images": [
+      "/images/instruments/psa.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -752,6 +919,11 @@
     "slug": "field-emission-scanning-electron-microscope-with-e-beam-lith",
     "title": "Field Emission Scanning Electron Microscope with E-Beam Lithography and Reactive Ion Etching",
     "code": "2042661",
+    "faculty": {
+      "name": "Prof. Mrinal Sen",
+      "role": "FIC, E-Beam Lithography",
+      "image": "/images/people/mrinalsen.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: lithography_crf@iitism.ac.in",
@@ -765,7 +937,9 @@
       "Maximum Probe Current: 220 pA to 100 nA",
       "Detectors: SE2 , In-Lens"
     ],
-    "images": ["/images/instruments/ebl.jpg"],
+    "images": [
+      "/images/instruments/ebl.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -776,10 +950,17 @@
     "slug": "metal-3d-printer-powder-bed-fusion-based",
     "title": "Metal 3D Printer - Powder Bed Fusion Based",
     "code": "2044112",
+    "faculty": {
+      "name": "Prof. A. R. Dixit",
+      "role": "FIC, METAL 3D PRINTER (POWDER BED FUSION BASED)",
+      "image": "/images/people/ardixit.jpg"
+    },
     "details": [],
     "paragraphs": [],
     "bullets": [],
-"images": ["/images/instruments/metal.jpg"],
+    "images": [
+      "/images/instruments/metal.jpg"
+    ],
     "status": null,
     "links": []
   },
@@ -787,10 +968,17 @@
     "slug": "time-correlated-single-photon-counting-tcspc",
     "title": "Time Correlated Single Photon Counting - TCSPC",
     "code": "2042322",
+    "faculty": {
+      "name": "Prof. Soumit Chatterjee",
+      "role": "FIC, Differential Scanning Calorimeter",
+      "image": "/images/people/soumithc.jpg"
+    },
     "details": [],
     "paragraphs": [],
     "bullets": [],
-"images": ["/images/instruments/tcspc.jpg"],
+    "images": [
+      "/images/instruments/tcspc.jpg"
+    ],
     "status": null,
     "links": []
   },
@@ -798,10 +986,13 @@
     "slug": "creep-fatigue-interaction-test-setup",
     "title": "Creep-Fatigue Interaction Test Setup",
     "code": "2042783",
+    "faculty": null,
     "details": [],
     "paragraphs": [],
     "bullets": [],
-"images": ["/images/instruments/cfi.jpg"],
+    "images": [
+      "/images/instruments/cfi.jpg"
+    ],
     "status": null,
     "links": []
   },
@@ -809,10 +1000,13 @@
     "slug": "dynamic-mechanical-analyzer",
     "title": "Dynamic Mechanical Analyzer",
     "code": "2042758",
+    "faculty": null,
     "details": [],
     "paragraphs": [],
     "bullets": [],
-"images": ["/images/instruments/dma.jpg"],
+    "images": [
+      "/images/instruments/dma.jpg"
+    ],
     "status": null,
     "links": []
   },
@@ -820,10 +1014,13 @@
     "slug": "abrasive-waterjet-machine",
     "title": "Abrasive Waterjet Machine",
     "code": "2044113",
+    "faculty": null,
     "details": [],
     "paragraphs": [],
     "bullets": [],
-"images": ["/images/instruments/awj.jpg"],
+    "images": [
+      "/images/instruments/awj.jpg"
+    ],
     "status": null,
     "links": []
   },
@@ -831,6 +1028,7 @@
     "slug": "thermogravimetric-analyser-with-mass-spectrometer-tga-ms",
     "title": "Thermogravimetric Analyser with Mass Spectrometer (TGA-MS)",
     "code": "2057495",
+    "faculty": null,
     "details": [
       [
         "Model",
@@ -895,7 +1093,9 @@
       "The NETZSCH STA 2500 Regulus is a Simultaneous Thermal Analyzer (STA) designed for high-reliability, cost-effective measurement of materials. It combines Thermogravimetric Analysis (TGA) and Differential Thermal Analysis (DTA/DSC), allowing for simultaneous measurement of mass changes and caloric events on the same sample under identical conditions. Key features include a top-loading, vertical, and differential balance system. This unique differential design cancels out buoyancy and convection effects, eliminating the need for time-consuming baseline runs and ensuring stable measurements with a high thermogravimetric resolution of 0.03 micro gram. . The instrument operates up to 1100C and supports a wide range of atmospheres, including inert, oxidizing, and vacuum, controlled by Quadrupole Mass Spectrometer (QMS). Its top-loading design is also ideal for coupling to Evolved Gas Analysis (EGA) systems like Mass Spectrometry (MS) to analyze the gases released during thermal treatment."
     ],
     "bullets": [],
-"images": ["/images/instruments/tga.jpg"],
+    "images": [
+      "/images/instruments/tga.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
@@ -906,6 +1106,7 @@
     "slug": "field-emission-gun-scanning-electron-microscope-ebsd-eds-fes",
     "title": "Field Emission Gun Scanning Electron Microscope & EBSD & EDS (FESEM-EBSD-EDS)",
     "code": "2057496",
+    "faculty": null,
     "details": [
       [
         "Gun Type",
@@ -969,7 +1170,9 @@
       "JSM-IT800 (HL) is a highly stable Schottky field emission electron gun Scanning Electron Microscope, with EDS & EBSD. To analyze samples surface morphology up to nano level, elemental composition, grain size, orientation and microstructure etc."
     ],
     "bullets": [],
-"images": ["/images/instruments/ebsd.jpg"],
+    "images": [
+      "/images/instruments/ebsd.jpg"
+    ],
     "status": null,
     "links": [],
     "emails": [
