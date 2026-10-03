@@ -14,10 +14,10 @@ const objectives = [
 
 export default function Home() {
   const stats = [
-    { n: `${instruments.length}`, l: "Advanced Instruments" },
-    { n: `${people.fics.length}`, l: "Faculty-in-Charge" },
-    { n: `${people.staff.length}`, l: "Officers & Staff" },
-    { n: `${resources.forms.length}`, l: "Requisition Forms" },
+    { n: `${instruments.length}`, l: "LABORATORIES" },
+    { n: `${people.fics.length}`, l: "FACILITATORS" },
+    { n: `${people.staff.length}`, l: "OFFICERS & STAFF" },
+    // { n: `${resources.forms.length}`, l: "REQUISITION FORMS" },
   ];
   return (
     <>

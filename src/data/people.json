@@ -194,18 +194,18 @@
   ],
   "staff": [
     {
-      "name": "Dr. Sourav Das",
-      "role": "Technical Officer",
-      "phone": "+91-7707018496",
-      "email": "sourav@iitism.ac.in",
-      "photo": "/images/people/dr-sourav-das-technical-officer.jpg"
-    },
-    {
       "name": "Mr. Sanjeev Kumar",
       "role": "Technical Officer",
       "phone": "",
       "email": "sanjeevkumar@iitism.ac.in",
       "photo": "/images/people/sanjeev-kumar-technical-officer.jpg"
+    },
+    {
+      "name": "Mr. Sachin Paul",
+      "role": "Technical Officer",
+      "phone": "",
+      "email": "",
+      "photo": "/images/people/.jpg"
     },
     {
       "name": "Mr. Subhendu Bhunia",
@@ -250,13 +250,6 @@
       "photo": "/images/people/satyajit-kumbhakar-junior-technician.jpg"
     },
     {
-      "name": "Mr. Shashikant Kumar",
-      "role": "Junior Technician",
-      "phone": "",
-      "email": "shashikant@iitism.ac.in",
-      "photo": "/images/people/shashikant-kumar-junior-technician.jpg"
-    },
-    {
       "name": "Mr. Uday Chand Mandal",
       "role": "JTS",
       "phone": "",
@@ -276,6 +269,32 @@
       "phone": "+91-7707018471",
       "email": "office_crf@iitism.ac.in",
       "photo": "/images/people/ravi-kant-pyarelal.jpeg"
+    }, 
+    {
+      "name": "Mr. Afridi Bin Queyam",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "afridibinqueyam@iitism.ac.in",
+      "photo": "/images/people/afridi.jpg"
+    },
+    {
+      "name": "Ms. Shivani Dubey",
+      "role": "Junior Technician",
+      "phone": "",
+      "email": "shivanidubey@iitism.ac.in",
+      "photo": "/images/people/afridi.jpg"
     }
+    
+    
+    
+    
+   
+    
+   
+   
+   
+    
+   
   ]
+  
 }
