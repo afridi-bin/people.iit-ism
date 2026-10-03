@@ -28,7 +28,6 @@ export type Person = {
 export const instruments = instrumentsJson as Instrument[];
 export const people = peopleJson as { head: Person[]; fics: Person[]; staff: Person[] };
 export const resources = resourcesJson as {
-  notices: { title: string; href: string | null }[];
   forms: { title: string; href: string | null }[];
   guidelines: string | null;
   flyer: string | null;

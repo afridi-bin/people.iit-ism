@@ -26,7 +26,6 @@ export default function Footer() {
             {[
               ["/instruments", "Instruments"],
               ["/people", "People"],
-              ["/notices", "Notices"],
               ["/forms", "Requisition Forms"],
               ["/booking", "Booking"],
               ["/contact", "Contact"],
