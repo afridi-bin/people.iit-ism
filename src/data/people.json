@@ -35,10 +35,10 @@
       "role": "FIC, Gas Sorption Analyzer",
       "phone": "+91-326-2235087",
       "email": "gsa_crf@iitism.ac.in",
-      "photo": "/images/people/arunksamanta.jpg"
+      "photo": "/images/people/aksamanta.jpg"
     },
     {
-      "name": "Chandan Guria",
+      "name": "Prof. Chandan Guria",
       "role": "FIC, Air Bearing Rheometer",
       "phone": "+91-326-2235411",
       "email": "rheometer_crf@iitism.ac.in",
@@ -115,13 +115,6 @@
       "photo": "/images/people/pmsarun.jpg"
     },
     {
-      "name": "Prof. K. C. Jana",
-      "role": "FIC, Real Time Simulator",
-      "phone": "+91-326-2235902",
-      "email": "simulator_crf@iitism.ac.in",
-      "photo": "/images/people/kc-jana.jpg"
-    },
-    {
       "name": "Prof. K. P. Ajit",
       "role": "FIC, UTM",
       "phone": "+91-326-2235877",
@@ -141,13 +134,6 @@
       "phone": "+91-326-2235748",
       "email": "hardness_crf@iitism.ac.in",
       "photo": "/images/people/alokdas.jpg"
-    },
-    {
-      "name": "Prof. Dheeraj Kumar",
-      "role": "FIC, LIDAR",
-      "phone": "+91-326-2235486",
-      "email": "lidar_crf@iitism.ac.in",
-      "photo": "/images/people/dheerajkumar.jpg"
     },
     {
       "name": "Prof. Sumanta K. Sahu",

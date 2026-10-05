@@ -1,12 +1,12 @@
 [
   {
     "slug": "liquid-chromatography-mass-spectrometry-crf-lcms",
-    "title": "Liquid Chromatography Mass Spectrometry (CRF-LCMS)",
+    "title": "Liquid Chromatography Mass Spectrometry (LCMS)",
     "code": "2053330",
     "faculty": {
       "name": "Prof. Swapan Dey",
       "role": "Faculty in-charge",
-      "image": null
+      "image":  "/images/people/sapan.jpg"
     },
     "details": [
       [
@@ -16,10 +16,6 @@
       [
         "Model",
         "ARC® UHPLC SYSTEM WITH AUTOSAMPLER / SAMPLE MANAGERARC® UHPLC COLUMN HEATERSTARTUP KIT, ARC® HPLC"
-      ],
-      [
-        "Faculty-in-Charge",
-        "Prof. Swapan Dey"
       ]
     ],
     "paragraphs": [
@@ -49,18 +45,6 @@
       [
         "Model",
         "Talos F200X G2"
-      ],
-      [
-        "Facility In-Charge",
-        "Prof. C. G. Narayak"
-      ],
-      [
-        "Email",
-        ""
-      ],
-      [
-        "Phone",
-        ""
       ]
     ],
     "paragraphs": [
@@ -92,7 +76,7 @@
     "faculty": {
       "name": "Prof. A. K. Bhaumik",
       "role": "Faculty in-charge",
-      "image": null
+      "image":  "/images/people/bhomik.jpg"
     },
     "details": [
       [
@@ -102,18 +86,6 @@
       [
         "Model",
         "Supra 55"
-      ],
-      [
-        "Faculty-in-Charge",
-        "Prof. A. K. Bhaumik"
-      ],
-      [
-        "Email",
-        "fesem_crf@iitism.ac.in; ajoy@iitism.ac.in"
-      ],
-      [
-        "Phone",
-        "-"
       ]
     ],
     "paragraphs": [
@@ -153,18 +125,6 @@
       [
         "Model",
         "Bohlin Gemini 2"
-      ],
-      [
-        "Faculty-in-Charge",
-        "Prof. Chandan Guria"
-      ],
-      [
-        "Email",
-        "rheometer_crf@iitism.ac.in; cguria@iitism.ac.in"
-      ],
-      [
-        "Phone",
-        "0326-223-5411"
       ]
     ],
     "paragraphs": [
@@ -192,7 +152,7 @@
   },
   {
     "slug": "single-crystal-x-ray-diffractometer",
-    "title": "Single Crystal X-Ray Diffractometer",
+    "title": "Single Crystal X-Ray Diffractometer(XRD)",
     "code": "2042785",
     "faculty": {
       "name": "Prof. H. P. Nayek",
@@ -207,23 +167,10 @@
       [
         " Model",
         "Supernova"
-      ],
-      [
-        "Faculty-in-Charge",
-        "Prof. H. P. Nayek"
-      ],
-      [
-        "Email:",
-        "scxrd_crf@iitism.ac.in , hpnayek@iitism.ac.in"
-      ],
-      [
-        "Phone:",
-        "0326-223-5756"
       ]
     ],
     "paragraphs": [
-      "The Single Crystal X-ray Diffraction Facility (SCXRD) at CRF is equipped with a Rigaku Oxford Diffraction system featuring a state-of-the-art CCD Eos S2 detector. This non-destructive analytical technique is used to determine the structure, bond lengths, bond angles of chemical compounds, and site-ordering details within crystals.",
-      "Analysis Charge: Click Here"
+      "The Single Crystal X-ray Diffraction Facility (SCXRD) at CRF is equipped with a Rigaku Oxford Diffraction system featuring a state-of-the-art CCD Eos S2 detector. This non-destructive analytical technique is used to determine the structure, bond lengths, bond angles of chemical compounds, and site-ordering details within crystals."
     ],
     "bullets": [
       "Up to 50 W microfocus X-ray tube (Mo source) with multilayer optics",
@@ -251,19 +198,20 @@
       "role": "FIC, SPM",
       "image": "/images/people/asit-kumar-kar.jpg"
     },
-    "details": [],
+     "details": [
+      [
+        "Make",
+        "Bruker Corporation"
+      ],
+      [
+        " Model",
+        "Dimension Icon and MultiMode 8"
+      ]
+    ],
     "paragraphs": [
       "Scanning Probe Microscope Laboratory has two SPM systems with one controller (Nanoscope V). Hence, only one system is operated at a time. The SPM system has a number of modes to explore surface properties of materials.",
       "STM CAFM EC-STM AFM SCM EC-AFM MFM PFM Nanoindentation LFM/FFM SP Nanolithography FMM Temperature Variation Nano-Scratching SSRM STHM Spectroscopic Techniques EFM AFM in liquid environment Signal Access Module",
-      "Property Dimension Icon Multimode 8 Scan area: ≤ 90 μm × 90 μm ≤ 10 μm × 10 μm Roughness (Z scale) variation: ≤ 10 μm ≤ 2.5 μm Scanner nonlinearity: less than 0.5% less than 0.5% Sample size (Diameter): ≤ 210 mm (with vacuum chuck) ≤ 15 mm Sample size (Thickness): ≤ 15 mm ≤ 5 mm Resolution (AFM)-Lateral: 1 Å 1 Å Resolution (AFM)-Spatial: 0.5 Å 0.3 Å Nanoindentation-Top: Berkovich type, Diamond Berkovich type, Diamond Nanoindentation-Load: ≤ 260 μN ≤ 260 μN Image size: ≤ 5120 pixel × 5120 pixel ≤ 5120 pixel × 5120 pixel View Optics: Display and capture 180 μm to 1465 μm, 5 Mega-pixel Display and capture 180 μm to 1465 μm, 5 Mega-pixel",
-      "Analysis Charge: Click Here"
-    ],
-    "bullets": [
-      "Make: Bruker Corporation",
-      "Model: Dimension Icon and MultiMode 8",
-      "Faculty-in-Charge: Prof. A. K. Kar",
-      "Email: spm_crf@iitism.ac.in; asit@iitism.ac.in",
-      "Phone: 0326-223-5403"
+      "Property Dimension Icon Multimode 8 Scan area: ≤ 90 μm × 90 μm ≤ 10 μm × 10 μm Roughness (Z scale) variation: ≤ 10 μm ≤ 2.5 μm Scanner nonlinearity: less than 0.5% less than 0.5% Sample size (Diameter): ≤ 210 mm (with vacuum chuck) ≤ 15 mm Sample size (Thickness): ≤ 15 mm ≤ 5 mm Resolution (AFM)-Lateral: 1 Å 1 Å Resolution (AFM)-Spatial: 0.5 Å 0.3 Å Nanoindentation-Top: Berkovich type, Diamond Berkovich type, Diamond Nanoindentation-Load: ≤ 260 μN ≤ 260 μN Image size: ≤ 5120 pixel × 5120 pixel ≤ 5120 pixel × 5120 pixel View Optics: Display and capture 180 μm to 1465 μm, 5 Mega-pixel Display and capture 180 μm to 1465 μm, 5 Mega-pixel"
     ],
     "images": [
       "/images/instruments/spm.jpg"
@@ -282,21 +230,22 @@
     "faculty": {
       "name": "Prof. Arun K. Samanta",
       "role": "FIC, Gas Sorption Analyzer",
-      "image": "/images/people/arunksamanta.jpg"
+      "image": "/images/people/aksamanta.jpg"
     },
-    "details": [],
+     "details": [
+      [
+        "Make",
+        "Micromeritics Instrument Corporation, USA"
+      ],
+      [
+        " Model",
+        "3FLEX 3500"
+      ]
+    ],
     "paragraphs": [
       "3FLEX 3500 from Micromeritics Instrument Corporation, USA is recognized as one of the most advanced instrument in the field for material surface characterization. It is a fully automated 3-port (with 2-Micropore ports and 1-Mesopore port) gas adsorption analyzer for providing high-resolution adsorption, desorption, isotherms to advance and validate fundamental understanding into the development of methodologies and process improvements.",
       "Minimum Measurable Surface Area Range: 0.01 m²/g Pore Diameter Range: 3.5 - 5000 Å Micropore Volume: Detectable within 0.0001 cc/g Analysis Range: 1.3 × 10⁻⁹ - 1.0 P/P₀ Ultimate Vacuum: 3.75 × 10⁻¹⁰ mmHg",
-      "Single-point BET surface area Multi-point BET surface area Pore volume and pore diameter analysis Adsorption/Desorption isotherms",
-      "Analysis Charge: Click Here"
-    ],
-    "bullets": [
-      "Make: Micromeritics Instrument Corporation, USA",
-      "Model: 3FLEX 3500",
-      "Faculty-in-Charge: Prof. Arun Samanta",
-      "Email: gsa_crf@iitism.ac.in; asamanta@iitism.ac.in",
-      "Phone: 0326-223-5087"
+      "Single-point BET surface area Multi-point BET surface area Pore volume and pore diameter analysis Adsorption/Desorption isotherms"
     ],
     "images": [
       "/images/instruments/gsa.jpg"
@@ -583,7 +532,7 @@
   },
   {
     "slug": "micro-raman-spectroscopy",
-    "title": "Micro-Raman Spectroscopy (MRS)",
+    "title": "Micro-Raman Spectroscopy (RAMAN)",
     "code": "2042232",
     "faculty": {
       "name": "Prof. Kaushal Kumar",
@@ -825,7 +774,11 @@
     "slug": "solid-particle-zetameter",
     "title": "Solid Particle Zetameter (SurPASS 3)",
     "code": "2042665",
-    "faculty": null,
+    "faculty": {
+      "name": "Prof.Shravan Kumar",
+      "role": "FIC, solid-particle-zetameter",
+      "image": "/images/people/skumar.jpg"
+    },
     "details": [],
     "paragraphs": [
       "Email: shravan@iitism.ac.in",
@@ -894,7 +847,11 @@
     "slug": "particle-size-analyzer-laser-diffraction",
     "title": "Particle Size Analyzer (Laser Diffraction)",
     "code": "2042664",
-    "faculty": null,
+     "faculty": {
+      "name": "Prof. A. K. Bhaumik",
+      "role": "Faculty in-charge",
+      "image":  "/images/people/bhomik.jpg"
+    },
     "details": [],
     "paragraphs": [
       "This instrument is installed in 2021 at CRF. This instrument is useful for cement & building material industries, Geology-Mining-Mineral sectors, chemical-petrochemical-hydrocarbon industries, pharmaceuticals & cosmetics industries, food & beverage sectors, etc., and researchers from different fields. Both wet and dry modes of analysis are available."
@@ -922,7 +879,7 @@
     "faculty": {
       "name": "Prof. Mrinal Sen",
       "role": "FIC, E-Beam Lithography",
-      "image": "/images/people/mrinalsen.jpg"
+      "image": "/images/people/hod.jpg"
     },
     "details": [],
     "paragraphs": [

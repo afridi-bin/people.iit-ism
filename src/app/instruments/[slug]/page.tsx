@@ -45,21 +45,26 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
                 <Link href="/contact" className="mt-4 inline-block text-sm font-semibold text-brand-600 hover:underline">Contact CRF →</Link>
               </div>
             )}
-
+ 
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={i.images?.[0]} alt={i.title} style={{ width: "100%", height: "auto" }} />
+            <div
+      style={{
+        border: "5px solid #c1aaaa",
+        borderRadius: "15px",
+        overflow: "hidden",
+        boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",
+        backgroundColor: "#fff",
+        maxWidth: "100%",
+        transition: "transform 0.2s ease, box-shadow 0.2s ease",
+        cursor: "pointer",
+      }}
+    >
+                  <img src={i.images?.[0]} alt={i.title} style={{ width: "100%", height: "auto" }} />
 
-            {i.paragraphs.length > 0 && (
-              <div className="space-y-4">
-                {i.paragraphs.map((p) => (
-                  <p key={p} className="text-base leading-8 text-ink/90">{p}</p>
-                ))}
-              </div>
-            )}
-
-            {i.details.length > 0 && (
+    </div>
+     {i.details.length > 0 && (
               <div>
-                <h2 className="mb-3 text-xl font-bold">Specifications</h2>
+                {/* <h2 className="mb-3 text-xl font-bold">Specifications</h2> */}
                 <div className="overflow-hidden rounded-2xl border border-line">
                   <table className="w-full text-sm">
                     <tbody>
@@ -75,7 +80,23 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
               </div>
             )}
 
-            {i.bullets.length > 0 && (
+            {/* <div className="flex items-center justify-between">
+              Make
+                <h3 className="font-semibold">Instrument status</h3>
+                <StatusBadge status={i.status ?? "Not listed"} />
+              </div> */}
+
+            {i.paragraphs.length > 0 && (
+              <div style={{textAlign:"justify"}} className="space-y-4">
+                {i.paragraphs.map((p) => (
+                  <p key={p} className="text-base leading-8 text-ink/90">{p}</p>
+                ))}
+              </div>
+            )}
+
+           
+
+            {i?.bullets?.length > 0 && (
               <div>
                 <h2 className="mb-3 text-xl font-bold">Key features</h2>
                 <ul className="space-y-2.5">
