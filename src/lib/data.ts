@@ -26,7 +26,7 @@ export type Person = {
   photo: string | null;
 };
 
-export const instruments = instrumentsJson as Instrument[];
+export const instruments = instrumentsJson as unknown as Instrument[];
 export const people = peopleJson as { head: Person[]; fics: Person[]; staff: Person[] };
 export const resources = resourcesJson as {
   forms: { title: string; href: string | null }[];
