@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import instrumentsJson from "@/data/instruments.json";
 import peopleJson from "@/data/people.json";
 import resourcesJson from "@/data/resources.json";
@@ -27,7 +26,7 @@ export type Person = {
   photo: string | null;
 };
 
-export const instruments = instrumentsJson as any[];
+export const instruments = instrumentsJson as Instrument[];
 export const people = peopleJson as { head: Person[]; fics: Person[]; staff: Person[] };
 export const resources = resourcesJson as {
   forms: { title: string; href: string | null }[];
