@@ -53,7 +53,7 @@ export default function Home() {
       </section>
 
       <div className="container-x -mt-8 relative z-10">
-        <dl className="grid grid-cols-2 gap-px overflow-hidden rounded-2xl border border-line bg-line shadow-lg lg:grid-cols-4">
+        <dl className="grid grid-cols-1 gap-px overflow-hidden rounded-2xl border border-line bg-line shadow-lg lg:grid-cols-3">
           {stats.map((s) => (
             <div key={s.l} className="bg-white p-5 text-center sm:p-6">
               <dt className="order-2 mt-1 text-xs font-medium text-muted sm:text-sm">{s.l}</dt>

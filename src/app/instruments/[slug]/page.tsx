@@ -101,11 +101,11 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
 
           <aside className="space-y-4 lg:sticky lg:top-28 lg:self-start">
             <div className="rounded-2xl border border-line bg-white p-5 shadow-sm">
-              <div className="flex items-center justify-between">
+              {/* <div className="flex items-center justify-between">
                 <h3 className="font-semibold">Instrument status</h3>
                 <StatusBadge status={i.status ?? "Not listed"} />
-              </div>
-              {i.code && <p className="mt-3 text-xs text-muted">I-STEM Equipment Code: <span className="font-semibold text-ink">{i.code}</span></p>}
+              </div> */}
+              {i.code && <p className="mt-3 text-xs font-semibold">I-STEM Equipment Code: <span className="font-semibold text-ink">{i.code}</span></p>}
               {i.emails && i.emails.length > 0 && (
                 <div className="mt-4 border-t border-line pt-4 text-sm">
                   <p className="text-xs font-semibold uppercase tracking-wider text-muted">Contact</p>
