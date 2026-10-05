@@ -55,15 +55,35 @@ function Card({ p }: { p: Entry }) {
   );
 }
 
+// function Group({ title, items, tint }: { title: string; items: Entry[]; tint?: boolean }) {
+//   return (
+//     <Section title={title} tint={tint}>
+//       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+//         {items.map((p, i) => <Card key={p.name + p.role + i} p={p} />)}
+//       </div>
+//     </Section>
+//   );
+// }
+
 function Group({ title, items, tint }: { title: string; items: Entry[]; tint?: boolean }) {
+  const single = items.length === 1;
   return (
     <Section title={title} tint={tint}>
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-        {items.map((p, i) => <Card key={p.name + p.role + i} p={p} />)}
+      <div
+        className={
+          single
+            ? "flex justify-center"
+            : "grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
+        }
+      >
+        {items.map((p, i) => (
+          <Card key={p.name + p.role + i} p={p} />
+        ))}
       </div>
     </Section>
   );
 }
+
 
 export default function People() {
   const fics = mergeByPerson(people.fics);

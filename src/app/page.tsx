@@ -89,7 +89,7 @@ export default function Home() {
       </Section>
 
       {hod && (
-        <Section kicker="Leadership" title="Head, Central Research Facility">
+        <Section kicker="Leadership" title="Central Research Facility">
           <div className="relative overflow-hidden rounded-[2rem] border border-line bg-gradient-to-br from-brand-50 via-white to-brand-50 p-6 shadow-sm sm:p-10">
             <div className="absolute -right-20 -top-20 h-72 w-72 rounded-full bg-brand-600/10 blur-3xl" aria-hidden />
             <div className="relative flex flex-col items-center gap-8 md:flex-row md:items-center md:gap-12">
@@ -100,7 +100,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="text-center md:text-left">
-                <span className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white">HOD (CRF)</span>
+                <span className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white">HEAD</span>
                 <h3 className="mt-4 text-3xl font-extrabold tracking-tight text-ink sm:text-4xl">{hod.name}</h3>
                 <p className="mt-2 text-lg text-brand-700">{hod.role}</p>
                 <p className="mt-1 text-sm text-muted">Indian Institute of Technology (ISM), Dhanbad</p>
@@ -153,6 +153,20 @@ export default function Home() {
           </div>
         </div>
       </Section>
+      <Section tint kicker="Location" title="Find Us on Google Maps">
+  <div className="overflow-hidden rounded-2xl border border-line shadow-sm">
+    <iframe
+      title="IIT (ISM) Dhanbad Location"
+      src="https://www.google.com/maps?q=IIT+ISM+Dhanbad&output=embed"
+      width="100%"
+      height="450"
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+      allowFullScreen
+      className="block w-full border-0"
+    />
+  </div>
+</Section>
     </>
   );
 }
