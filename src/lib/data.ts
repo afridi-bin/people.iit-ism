@@ -6,6 +6,7 @@ export type Instrument = {
   slug: string;
   title: string;
   code: string | null;
+  faculty?: { name: string; role: string; image: string | null } | null;
   subtitle?: string;
   details: [string, string][];
   paragraphs: string[];

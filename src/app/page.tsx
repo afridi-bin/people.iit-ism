@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import InstrumentCard from "@/components/InstrumentCard";
 import { FileLink, Section } from "@/components/ui";
-import { ISTEM_URL, instruments, people, resources } from "@/lib/data";
+import { ISTEM_URL, instruments, people, resources, telHref } from "@/lib/data";
 
 const objectives = [
   "To establish state-of-the-art research facilities and instruments to support advanced research under one umbrella.",
@@ -12,6 +12,7 @@ const objectives = [
 ];
 
 export default function Home() {
+  const hod = people.head[0];
   const stats = [
     { n: `${instruments.length}`, l: "LABORATORIES" },
     { n: `${people.fics.length}`, l: "FACILITATORS" },
@@ -86,6 +87,39 @@ export default function Home() {
           </div>
         </div>
       </Section>
+
+      {hod && (
+        <Section kicker="Leadership" title="Head, Central Research Facility">
+          <div className="relative overflow-hidden rounded-[2rem] border border-line bg-gradient-to-br from-brand-50 via-white to-brand-50 p-6 shadow-sm sm:p-10">
+            <div className="absolute -right-20 -top-20 h-72 w-72 rounded-full bg-brand-600/10 blur-3xl" aria-hidden />
+            <div className="relative flex flex-col items-center gap-8 md:flex-row md:items-center md:gap-12">
+              <div className="relative shrink-0">
+                <div className="absolute -bottom-3 -right-3 h-full w-full rounded-3xl bg-brand-600" aria-hidden />
+                <div className="relative aspect-[354/485] w-56 overflow-hidden rounded-3xl bg-brand-50 ring-4 ring-white sm:w-64">
+                  {hod.photo && <Image src={hod.photo} alt={hod.name} fill sizes="256px" className="object-cover" />}
+                </div>
+              </div>
+              <div className="text-center md:text-left">
+                <span className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white">HOD (CRF)</span>
+                <h3 className="mt-4 text-3xl font-extrabold tracking-tight text-ink sm:text-4xl">{hod.name}</h3>
+                <p className="mt-2 text-lg text-brand-700">{hod.role}</p>
+                <p className="mt-1 text-sm text-muted">Indian Institute of Technology (ISM), Dhanbad</p>
+                <div className="mt-6 flex flex-wrap justify-center gap-3 md:justify-start">
+                  <a href={telHref(hod.phone.split("/")[0])} className="rounded-xl border border-line bg-white px-4 py-3 text-sm font-medium text-ink shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+                    <span className="block text-[11px] font-semibold uppercase tracking-wider text-muted">Phone</span>
+                    {hod.phone}
+                  </a>
+                  <a href={`mailto:${hod.email}`} className="rounded-xl border border-line bg-white px-4 py-3 text-sm font-medium text-ink shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+                    <span className="block text-[11px] font-semibold uppercase tracking-wider text-muted">Email</span>
+                    {hod.email}
+                  </a>
+                </div>
+                <Link href="/people" className="mt-6 inline-block text-sm font-semibold text-brand-600 hover:underline">Meet the team →</Link>
+              </div>
+            </div>
+          </div>
+        </Section>
+      )}
 
       <Section
         tint

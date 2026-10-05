@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FileLink, PageHero, Section, StatusBadge } from "@/components/ui";
@@ -22,7 +23,8 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
   const idx = instruments.findIndex((x) => x.slug === slug);
   const prev = instruments[idx - 1];
   const next = instruments[idx + 1];
-  const empty = !i.details.length && !i.paragraphs.length && !i.bullets.length;
+  const faculty = i.faculty;
+  const empty =!i.details.length && !i.paragraphs.length && !i.bullets.length;
 
   return (
     <>
@@ -99,7 +101,7 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
             )}
           </div>
 
-          <aside className="space-y-4 lg:sticky lg:top-28 lg:self-start">
+          <aside className="space-y-6 lg:sticky lg:top-28 lg:self-start">
             <div className="rounded-2xl border border-line bg-white p-5 shadow-sm">
               {/* <div className="flex items-center justify-between">
                 <h3 className="font-semibold">Instrument status</h3>
@@ -127,6 +129,18 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
                 Requisition forms
               </Link>
             </div>
+            {faculty && (
+              <div className="relative mt-28 rounded-2xl bg-gradient-to-br from-brand-600 to-brand-700 p-5 pt-24 text-center text-white shadow-sm">
+                <div className="absolute -top-0 left-1/2 h-40 w-40 -translate-x-1/2 -translate-y-1/2 overflow-hidden rounded-full border-4 border-white bg-brand-50 shadow-md">
+                  {faculty.image && (
+                    <Image src={faculty.image} alt={faculty.name} fill sizes="160px" className="object-cover object-top" />
+                  )}
+                </div>
+                <p className="text-[11px] font-semibold uppercase tracking-widest text-white/70">Faculty in-charge</p>
+                <p className="mt-1 text-lg font-bold">{faculty.name}</p>
+                <p className="mx-auto mt-2 inline-block rounded-full bg-white/15 px-3 py-1 text-xs font-medium">{faculty.role}</p>
+              </div>
+            )}
           </aside>
         </div>
 
