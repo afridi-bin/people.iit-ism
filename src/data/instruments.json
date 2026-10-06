@@ -26,7 +26,7 @@
     "code": "2042660",
     "faculty": {
       "name": "Prof. G. C. Nayak",
-      "role": "FIC, HR-TEM & Sample Preparation Unit",
+      "role": "FIC, HRTEM",
       "image": "/images/people/gcnayak.jpg"
     },
     "details": [
@@ -57,7 +57,7 @@
     "code": "2042787",
     "faculty": {
       "name": "Prof. A. K. Bhaumik",
-      "role": "Faculty in-charge",
+      "role": "FIC, FESEM",
       "image": "/images/people/bhomik.jpg"
     },
     "details": [
@@ -81,11 +81,11 @@
   },
   {
     "slug": "modular-compact-rheometer",
-    "title": "Modular Compact Rheometer (MCR 302e)",
+    "title": "Modular Compact Rheometer (MCR)",
     "code": "2042791",
     "faculty": {
       "name": "Prof. Chandan Guria",
-      "role": "FIC, Air Bearing Rheometer",
+      "role": "FIC, RHEOMETER",
       "image": "/images/people/chandanguria.jpg"
     },
     "details": [
@@ -116,7 +116,7 @@
     "code": "2042785",
     "faculty": {
       "name": "Prof. H. P. Nayek",
-      "role": "FIC, SC-XRD",
+      "role": "FIC, SCXRD",
       "image": "/images/people/hpnayek.jpg"
     },
     "details": [
@@ -140,7 +140,7 @@
   },
   {
     "slug": "scanning-probe-microscope",
-    "title": "Scanning Probe Microscope / Atomic Force Microscope (SPM/AFM)",
+    "title": "Scanning Probe Microscope/Atomic Force Microscope (SPM/AFM)",
     "code": "2042757",
     "faculty": {
       "name": "Prof. Asit K Kar",
@@ -163,11 +163,11 @@
   },
   {
     "slug": "gas-sorption-analyzer",
-    "title": "Gas Sorption Analyzer",
+    "title": "Gas Sorption Analyzer(GSA)",
     "code": "2042796",
     "faculty": {
       "name": "Prof. Arun K. Samanta",
-      "role": "FIC, Gas Sorption Analyzer",
+      "role": "FIC, GSA",
       "image": "/images/people/aksamanta.jpg"
     },
     "details": [
@@ -186,7 +186,7 @@
   },
   {
     "slug": "uv-vis-nir-spectrophotometer",
-    "title": "UV-VIS-NIR Spectrophotometer — Agilent Cary 5000",
+    "title": "UV-VIS-NIR Spectrophotometer (UV -VIS -NIR)",
     "code": "2042786",
     "faculty": {
       "name": "Prof. S. K. Sharma",
@@ -221,7 +221,7 @@
     "code": "2042321",
     "faculty": {
       "name": "Prof. Somnath Yadav",
-      "role": "FIC, HR-MS",
+      "role": "FIC, HRMS",
       "image": "/images/people/somnathyadav.jpg"
     },
     "details": [
@@ -250,11 +250,11 @@
   },
   {
     "slug": "high-resolution-x-ray-diffractometer",
-    "title": "High Resolution X-Ray Diffractometer (HRXRD)",
+    "title": "X-ray Diffractometer (XRD)",
     "code": "2014382",
     "faculty": {
       "name": "Prof. P. M. Sarun",
-      "role": "FIC, HR-XRD",
+      "role": "FIC, XRD",
       "image": "/images/people/pmsarun.jpg"
     },
     "details": [
@@ -295,11 +295,11 @@
   },
   {
     "slug": "wavelength-dispersive-x-ray-fluorescence",
-    "title": "Wavelength Dispersive X-Ray Fluorescence (WDXRF)",
+    "title": "Wavelength Dispersive X-Ray Fluorescence (XRF)",
     "code": "2042659",
     "faculty": {
       "name": "Prof. Pranab Das",
-      "role": "FIC-XRF",
+      "role": "FIC,XRF",
       "image": "/images/people/prof-pranab-das-fic-xrf.jpg"
     },
     "details": [
@@ -379,7 +379,7 @@
     "code": "2042662",
     "faculty": {
       "name": "Prof. Sagar Pal",
-      "role": "FIC, Advanced Polymer Chromatography",
+      "role": "FIC, APC",
       "image": "/images/people/sagarpal.jpg"
     },
     "details": [
@@ -407,11 +407,11 @@
   },
   {
     "slug": "micro-raman-spectroscopy",
-    "title": "Micro-Raman Spectroscopy (RAMAN)",
+    "title": "Micro Raman Spectroscopy (RAMAN)",
     "code": "2042232",
     "faculty": {
       "name": "Prof. Kaushal Kumar",
-      "role": "FIC, Micro Raman Spectrometer",
+      "role": "FIC, RAMAN",
       "image": "/images/people/kaushalkumar.jpg"
     },
     "details": [
@@ -445,7 +445,7 @@
     "code": "2042788",
     "faculty": {
       "name": "Prof. Anand Rajagopal",
-      "role": "FIC, ICP-OES Analyzer",
+      "role": "FIC, ICP-OES",
       "image": "/images/people/photo1033-2022-04-19-19-40-05.jpg"
     },
     "details": [
@@ -484,11 +484,11 @@
   },
   {
     "slug": "digital-micro-vickers-hardness-testing-machine",
-    "title": "Digital Micro Vickers Hardness Testing Machine (DMVHTM)",
+    "title": "Digital Micro Vickers Hardness Testing Machine (MICROHARDNESS)",
     "code": "2042834",
     "faculty": {
       "name": "Prof. Alok Das",
-      "role": "FIC, Microhardness tester",
+      "role": "FIC, MICROHARDNESS",
       "image": "/images/people/alokdas.jpg"
     },
     "details": [
@@ -516,7 +516,7 @@
     "code": "2042759",
     "faculty": {
       "name": "Prof. A. R. Dixit",
-      "role": "FIC, Universal Tribometer",
+      "role": "FIC, UT",
       "image": "/images/people/ardixit.jpg"
     },
     "details": [
@@ -544,11 +544,11 @@
   },
   {
     "slug": "elemental-analyzer-chnso",
-    "title": "Elemental Analyzer – CHNSO (UNICUBE)",
+    "title": "Elemental Analyzer-CHNSO (CHNSO)",
     "code": "2042789",
     "faculty": {
       "name": "Prof. H. P. Nayek",
-      "role": "FIC, CHNS Analyzer",
+      "role": "FIC, CHNSO",
       "image": "/images/people/hpnayek.jpg"
     },
     "details": [
@@ -600,11 +600,11 @@
   },
   {
     "slug": "differential-scanning-calorimeter",
-    "title": "Differential Scanning Calorimeter (DSC 3500 Sirius)",
+    "title": "Differential Scanning Calorimeter (DSC)",
     "code": "2042663",
     "faculty": {
       "name": "Prof. Soumit Chatterjee",
-      "role": "FIC, Differential Scanning Calorimeter",
+      "role": "FIC, DSC",
       "image": "/images/people/soumithc.jpg"
     },
     "details": [
@@ -634,11 +634,11 @@
   },
   {
     "slug": "solid-particle-zetameter",
-    "title": "Solid Particle Zetameter (SurPASS 3)",
+    "title": "Solid Particle Zetameter (ZETA)",
     "code": "2042665",
     "faculty": {
       "name": "Prof. Shravan Kumar",
-      "role": "FIC, Solid Particle Zetameter",
+      "role": "FIC, ZETA",
       "image": "/images/people/skumar.jpg"
     },
     "details": [
@@ -658,11 +658,11 @@
   },
   {
     "slug": "cell-culture-lab",
-    "title": "Cell Culture Lab",
+    "title": "Cell Culture Lab (CELL)",
     "code": "2042795",
     "faculty": {
       "name": "Prof. Sumanta K. Sahu",
-      "role": "FIC, Cell Culture Lab",
+      "role": "FIC, CELL",
       "image": "/images/people/sumantaksahu.jpg"
     },
     "details": [
@@ -692,11 +692,11 @@
   },
   {
     "slug": "particle-size-analyzer-laser-diffraction",
-    "title": "Particle Size Analyzer (Laser Diffraction)",
+    "title": "Particle Size Analyzer -Laser Diffraction (PSA)",
     "code": "2042664",
     "faculty": {
       "name": "Prof. A. K. Bhaumik",
-      "role": "Faculty in-charge",
+      "role": "Faculty in-charge,PSA",
       "image": "/images/people/bhomik.jpg"
     },
     "details": [
@@ -720,11 +720,11 @@
   },
   {
     "slug": "field-emission-scanning-electron-microscope-with-e-beam-lith",
-    "title": "Field Emission Scanning Electron Microscope with E-Beam Lithography and Reactive Ion Etching",
+    "title": "FESEM with e-beam Lithography and EDS (FESEM)",
     "code": "2042661",
     "faculty": {
       "name": "Prof. Mrinal Sen",
-      "role": "FIC, E-Beam Lithography",
+      "role": "FIC, EBL",
       "image": "/images/people/hod.jpg"
     },
     "details": [
@@ -772,11 +772,11 @@
   },
   {
     "slug": "time-correlated-single-photon-counting-tcspc",
-    "title": "TCSPC Life Time Fluorometer",
+    "title": "TCSPC Life Time Fluorometer (TCSPC)",
     "code": "2042322",
     "faculty": {
       "name": "Prof. Soumit Chatterjee",
-      "role": "FIC, Time Correlated Single Photon Counting (TCSPC)",
+      "role": "FIC, TCSPC",
       "image": "/images/people/soumithc.jpg"
     },
     "details": [
@@ -798,7 +798,7 @@
     "code": "2042783",
     "faculty": {
       "name": "Prof. K. P. Ajit",
-      "role": "FIC, UTM",
+      "role": "FIC,   CFI",
       "image": "/images/people/kpajit.jpg"
     },
     "details": [
@@ -935,7 +935,7 @@
     "code": "2059489",
     "faculty": {
       "name": "Prof. Mrinal Sen",
-      "role": "FIC, E-Beam Lithography",
+      "role": "FIC, RIE",
       "image": "/images/people/hod.jpg"
     },
     "details": [
@@ -972,5 +972,26 @@
   "status": null,
   "links": [],
   "emails": ["vna_crf@iitism.ac.in"]
-}
+},
+ {
+    "slug": "Optical-microscope",
+    "title": "Optical Microscope",
+    "code": "2063276",
+    "faculty": {
+      "name": "Prof. Mrinal Sen",
+      "role": "FIC",
+      "image": "/images/people/hod.jpg"
+    },
+    "details": [
+      ["Make", "Leica"],
+      ["Model", "LEICA DM 2700M"]
+    ],
+    "paragraphs": [
+      "This materials microscope combines high-quality Leica optics with state-of-the-art universal white light LED illumination. It is an ideal inspection tool for all kinds of routine inspection tasks in metallography, earth science, forensic investigation, and materials quality control and research. The Leica DM2700 M shows you how simple and reliable microscopy can be while helping to improve workflow."
+    ],
+    "bullets": [],
+    "images": ["/images/instruments/optical.jpg"],
+    "status": "",
+    "links": []
+  }
 ]

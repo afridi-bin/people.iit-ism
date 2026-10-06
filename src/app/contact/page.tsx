@@ -26,9 +26,17 @@ export default function Contact() {
               {contact.address}
             </address>
             <p className="mt-4 text-sm">
-              Telephone: <a className="text-brand-600 hover:underline" href="tel:+917707018471">{contact.phone}</a>
+              Telephone:{" "}
+              <a className="text-brand-600 hover:underline" href="tel:+917707018471">
+                {contact.phone}
+              </a>
             </p>
-            <a className="mt-3 inline-block text-sm font-semibold text-brand-600 hover:underline" href={contact.directory} target="_blank" rel="noopener noreferrer">
+            <a
+              className="mt-3 inline-block text-sm font-semibold text-brand-600 hover:underline"
+              href={contact.directory}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Telephone Directory ↗
             </a>
           </div>
@@ -38,11 +46,31 @@ export default function Contact() {
               {rows.map(([k, v]) => (
                 <div key={k} className="flex flex-col gap-0.5 py-3 sm:flex-row sm:justify-between">
                   <dt className="text-muted">{k}</dt>
-                  <dd><a className="break-all text-brand-600 hover:underline" href={`mailto:${v}`}>{v}</a></dd>
+                  <dd>
+                    <a className="break-all text-brand-600 hover:underline" href={`mailto:${v}`}>
+                      {v}
+                    </a>
+                  </dd>
                 </div>
               ))}
             </dl>
           </div>
+        </div>
+      </Section>
+
+      {/* Google Map — Institute Research Hub (iRh) */}
+      <Section title="Find Us on Google Maps" tint>
+        <div className="overflow-hidden rounded-2xl border border-line shadow-sm">
+          <iframe
+            title="Institute Research Hub (iRh), IIT (ISM) Dhanbad"
+            src="https://www.google.com/maps?q=Institute+Research+Hub+iRh+IIT+ISM+Dhanbad&output=embed"
+            width="100%"
+            height="450"
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            allowFullScreen
+            className="block w-full border-0"
+          />
         </div>
       </Section>
     </>

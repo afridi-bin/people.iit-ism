@@ -229,7 +229,7 @@ export default function Header() {
 
           {plainLink("/contact", "Contact")}
 
-          <div className="ml-auto">
+          {/* <div className="ml-auto">
             <Dropdown id="more" label="More" openId={openId} setOpenId={setOpenId} width="w-64 right-0 left-auto">
               {moreMenu.map((m) => (
                 <a key={m.href} href={m.href} target="_blank" rel="noopener noreferrer" className="flex items-center justify-between rounded-xl px-3 py-2.5 text-sm text-ink hover:bg-brand-50 hover:text-brand-700">
@@ -238,7 +238,7 @@ export default function Header() {
                 </a>
               ))}
             </Dropdown>
-          </div>
+          </div> */}
         </div>
       </nav>
 

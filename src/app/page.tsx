@@ -15,8 +15,8 @@ export default function Home() {
   const hod = people.head[0];
   const stats = [
     { n: `${instruments.length}`, l: "LABORATORIES" },
-    { n: `${people.fics.length}`, l: "FACILITATORS" },
-    { n: `${people.staff.length}`, l: "OFFICERS & STAFF" },
+    { n: `${25}`, l: "FACILITATORS" },
+    { n: `${29}`, l: "OFFICERS & STAFF" },
     // { n: `${resources.forms.length}`, l: "REQUISITION FORMS" },
   ];
   return (
@@ -134,7 +134,7 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section kicker="Updates" title="Booking">
+      {/* <Section kicker="Updates" title="Booking">
         <div className="grid gap-8">
           <div className="rounded-2xl bg-brand-50 p-6">
             <h3 className="text-lg font-semibold text-brand-700">Booking</h3>
@@ -152,8 +152,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </Section>
-      <Section tint kicker="Location" title="Find Us on Google Maps">
+         <Section tint kicker="Location" title="Find Us on Google Maps">
   <div className="overflow-hidden rounded-2xl border border-line shadow-sm">
     <iframe
       title="IIT (ISM) Dhanbad Location"
@@ -167,6 +166,58 @@ export default function Home() {
     />
   </div>
 </Section>
+      </Section> */}
+      <Section kicker="Updates" title="Booking">
+  <div className="grid gap-8 md:grid-cols-2 md:items-start">
+    
+    {/* Booking Card */}
+    <div className="rounded-2xl bg-brand-50 p-6">
+      <h3 className="text-lg font-semibold text-brand-700">Booking</h3>
+      <p className="mt-3 text-sm leading-relaxed text-ink">
+        Internal and external users need to book their slot through the I-STEM portal.
+      </p>
+      <div className="mt-5 flex flex-col gap-3">
+        <a
+          href={ISTEM_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-xl bg-brand-600 px-5 py-3 text-center text-sm font-semibold text-white hover:bg-brand-700"
+        >
+          Book through I-STEM ↗
+        </a>
+        {resources.guidelines && (
+          <FileLink href={resources.guidelines}>
+            Guidelines to the I-STEM Users
+          </FileLink>
+        )}
+        <Link
+          href="/forms"
+          className="rounded-xl border border-brand-200 bg-white px-5 py-3 text-center text-sm font-semibold text-brand-700 hover:border-brand-400"
+        >
+          Instrument Requisition Forms
+        </Link>
+      </div>
+    </div>
+
+    {/* Google Maps */}
+    <div>
+      <h3 className="text-lg font-semibold text-brand-700">Find Us on Google Maps</h3>
+      <div className="mt-3 overflow-hidden rounded-2xl border border-line shadow-sm">
+        <iframe
+          title="IIT (ISM) Dhanbad Location"
+ src="https://www.google.com/maps?q=Institute+Research+Hub+iRh+IIT+ISM+Dhanbad&output=embed"          width="100%"
+          height="450"
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+          allowFullScreen
+          className="block w-full border-0"
+        />
+      </div>
+    </div>
+
+  </div>
+</Section>
+     
     </>
   );
 }
