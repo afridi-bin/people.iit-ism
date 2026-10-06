@@ -166,15 +166,17 @@ export default function Header() {
           </Link>
 
           <div className="flex items-center gap-3">
-            <a
-              href={ISTEM_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hidden items-center gap-2 rounded-xl bg-white px-5 py-2.5 text-sm font-bold text-brand-700 shadow-md transition hover:bg-brand-50 lg:inline-flex"
-            >
-              Book a Slot
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden><path d="M7 17 17 7M8 7h9v9" /></svg>
-            </a>
+            <span className="glow-ring hidden lg:inline-flex">
+              <a
+                href={ISTEM_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="items-center gap-2 rounded-[0.65rem] bg-white px-5 py-2.5 text-sm font-bold text-brand-700 shadow-md transition hover:bg-brand-50 inline-flex"
+              >
+                Book a Slot
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden><path d="M7 17 17 7M8 7h9v9" /></svg>
+              </a>
+            </span>
             <button
               type="button"
               className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white/15 text-white ring-1 ring-white/30 transition hover:bg-white/25 lg:hidden"

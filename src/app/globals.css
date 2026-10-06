@@ -56,6 +56,42 @@ h1, h2, h3, h4 {
   background-size: 22px 22px;
 }
 
+@property --glow-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes glow-spin {
+  to { --glow-angle: 360deg; }
+}
+
+/* rotating gradient ring around a button */
+.glow-ring {
+  position: relative;
+  isolation: isolate;
+  padding: 2px;
+  border-radius: 0.8rem;
+  background: conic-gradient(from var(--glow-angle), #ff0000, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff, #ff0000);
+  animation: glow-spin 3s linear infinite;
+}
+
+.glow-ring::before {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  z-index: -1;
+  border-radius: inherit;
+  background: inherit;
+  animation: glow-spin 3s linear infinite;
+  filter: blur(8px);
+  opacity: 0.6;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .glow-ring, .glow-ring::before { animation: none; }
+}
+
 @keyframes ticker {
   from { transform: translateY(0); }
   to { transform: translateY(-50%); }
