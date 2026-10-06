@@ -10,6 +10,20 @@
   ],
   "fics": [
     {
+      "name": "Prof. A. K. Bhaumik",
+      "role": "FIC, FESEM",
+      "phone": "+91-0326-2235684",
+      "email": "fesem_crf@iitism.ac.in",
+      "photo": "/images/people/bhomik.jpg"
+    },
+     {
+      "name": "Prof. A. K. Bhaumik",
+      "role": "FIC, PSA",
+      "phone": "+91-0326-2235684",
+      "email": "fesem_crf@iitism.ac.in",
+      "photo": "/images/people/bhomik.jpg"
+    },
+    {
       "name": "Prof. A. R. Dixit",
       "role": "FIC, LPBF",
       "phone": "+91-326-2235620",
@@ -19,6 +33,13 @@
     {
       "name": "Prof. A. R. Dixit",
       "role": "FIC, UT",
+      "phone": "+91-326-2235620",
+      "email": "tribometer_crf@iitism.ac.in",
+      "photo": "/images/people/ardixit.jpg"
+    },
+     {
+      "name": "Prof. A. R. Dixit",
+      "role": "FIC, AWJM",
       "phone": "+91-326-2235620",
       "email": "tribometer_crf@iitism.ac.in",
       "photo": "/images/people/ardixit.jpg"
@@ -86,6 +107,13 @@
       "email": "utm_crf@iitism.ac.in",
       "photo": "/images/people/kpajit.jpg"
     },
+     {
+      "name": "Prof. K. P. Ajit",
+      "role": "FIC, CFI",
+      "phone": "+91-326-2235877",
+      "email": "utm_crf@iitism.ac.in",
+      "photo": "/images/people/kpajit.jpg"
+    },
     {
       "name": "Prof. Kaushal Kumar",
       "role": "FIC, RAMAN",
@@ -96,13 +124,20 @@
     {
       "name": "Prof. Madhumanti Bhattacharyya",
       "role": "FIC, FESEM-EBSD-EDS",
-      "phone": "",
+      "phone": "9830189594",
       "email": "madhumanti@iitism.ac.in",
       "photo": "/images/people/madhu.jpg"
     },
     {
       "name": "Prof. Mrinal Sen",
       "role": "FIC, EBL",
+      "phone": "+91-326-2235657",
+      "email": "lithography_crf@iitism.ac.in",
+      "photo": "/images/people/hod.jpg"
+    },
+     {
+      "name": "Prof. Mrinal Sen",
+      "role": "FIC, RIE",
       "phone": "+91-326-2235657",
       "email": "lithography_crf@iitism.ac.in",
       "photo": "/images/people/hod.jpg"
@@ -116,7 +151,14 @@
     },
     {
       "name": "Prof. Pranab Das",
-      "role": "FIC, XRF",
+      "role": "FIC, WDXRF",
+      "phone": "+91-326-2235894",
+      "email": "xrf_crf@iitism.ac.in",
+      "photo": "/images/people/prof-pranab-das-fic-xrf.jpg"
+    },
+     {
+      "name": "Prof. Pranab Das",
+      "role": "FIC, EPMA",
       "phone": "+91-326-2235894",
       "email": "xrf_crf@iitism.ac.in",
       "photo": "/images/people/prof-pranab-das-fic-xrf.jpg"
@@ -131,15 +173,22 @@
     {
       "name": "Prof. Ravi Kr. Gangwar",
       "role": "FIC, VNA",
-      "phone": "",
+      "phone": " +91-326-223-5903",
       "email": "vna_crf@iitism.ac.in",
       "photo": "/images/people/rkgang.jpg"
     },
     {
       "name": "Prof. S S Singh",
-      "role": "FIC, DMA & TGA-MS",
-      "phone": "",
-      "email": "",
+      "role": "FIC, DMA",
+      "phone": " +91-326-223-5320",
+      "email": "sarthakssingh@iitism.ac.in",
+      "photo": "/images/people/sssingh.jpg"
+    },
+      {
+      "name": "Prof. S S Singh",
+      "role": "FIC,TGA-MS",
+      "phone": " +91-326-223-5320",
+      "email": "sarthakssingh@iitism.ac.in",
       "photo": "/images/people/sssingh.jpg"
     },
     {
@@ -159,7 +208,7 @@
     {
       "name": "Prof. Shravan Kumar",
       "role": "FIC, ZETA",
-      "phone": "",
+      "phone": " +91-326-223-5948",
       "email": "shravan@iitism.ac.in",
       "photo": "/images/people/skumar.jpg"
     },
@@ -194,8 +243,8 @@
     {
       "name": "Prof. Swapan Dey",
       "role": "FIC, LCMS",
-      "phone": "",
-      "email": "",
+      "phone": " +91-326-223-5607",
+      "email": "swapan@iitism.ac.in",
       "photo": "/images/people/sapan.jpg"
     }
   ],
