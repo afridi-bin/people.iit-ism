@@ -17,7 +17,7 @@ export default function About() {
       <PageHero title="About the Central Research Facility" subtitle="A Centre of National Importance for Research and Creation." crumbs={[{ label: "About" }]} />
       <Section>
         <div className="mx-auto max-w-3xl">
-          <p className="text-base leading-8 text-muted">
+          <p style={{textAlign:"justify"}} className="text-base leading-8 text-muted">
             Central Research Facility of IIT(ISM), Dhanbad has been established as a Centre of National Importance for
             Research and Creation. The constellation of high-quality equipment enabled with cutting edge technologies at a
             single location provides a scientific arena for the researchers. Sophisticated analytical instruments are vital

@@ -65,7 +65,7 @@ export default function Home() {
       </div>
 
       <Section kicker="About" title="Research under one umbrella">
-        <div className="grid gap-10 lg:grid-cols-2">
+        <div className="grid gap-10 lg:grid-cols-1">
           <p style={{textAlign:"justify"}} className="text-base leading-relaxed text-muted">
             Central Research Facility of IIT(ISM), Dhanbad has been established as a Centre of National Importance for
             Research and Creation. The constellation of high-quality equipment enabled with cutting edge technologies at a
@@ -74,7 +74,9 @@ export default function Home() {
             instruments of CRF are operated and maintained by a dedicated and qualified group of Faculty members, Technical
             Officers and Skilled Operators. It is an integral part of IIT(ISM), Dhanbad.
           </p>
-          <div>
+        </div>
+        <div>
+          <br/>
             <h3 className="text-lg font-semibold text-brand-600">Our primary objectives</h3>
             <ul className="mt-4 space-y-3">
               {objectives.map((o) => (
@@ -85,7 +87,6 @@ export default function Home() {
               ))}
             </ul>
           </div>
-        </div>
       </Section>
 
       {hod && (
