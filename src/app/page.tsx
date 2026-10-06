@@ -21,7 +21,7 @@ export default function Home() {
   ];
   return (
     <>
-      <section className="relative overflow-hidden bg-gradient-to-br from-brand-800 via-brand-600 to-brand-700 text-white">
+      <section  className="relative overflow-hidden bg-gradient-to-br from-brand-800 via-brand-600 to-brand-700 text-white">
         <div className="dot-pattern absolute inset-0" aria-hidden />
         <div className="absolute -right-24 -top-24 h-96 w-96 rounded-full bg-white/10 blur-3xl" aria-hidden />
         <div className="container-x relative grid items-center gap-10 py-14 sm:py-20 lg:grid-cols-[1.15fr_1fr]">
@@ -30,7 +30,7 @@ export default function Home() {
               IIT (ISM) Dhanbad
             </p>
             <h1 className="mt-5 text-4xl font-extrabold leading-tight sm:text-5xl lg:text-6xl">Central Research Facility</h1>
-            <p className="mt-5 max-w-xl text-base leading-relaxed text-brand-100 sm:text-lg">
+            <p style={{textAlign:"justify"}} className="mt-5 max-w-xl text-base leading-relaxed text-brand-100 sm:text-lg">
               A Centre of National Importance for Research and Creation. Cutting-edge analytical instruments at a single
               location — operated by dedicated faculty, technical officers and skilled operators.
             </p>
@@ -66,7 +66,7 @@ export default function Home() {
 
       <Section kicker="About" title="Research under one umbrella">
         <div className="grid gap-10 lg:grid-cols-2">
-          <p className="text-base leading-relaxed text-muted">
+          <p style={{textAlign:"justify"}} className="text-base leading-relaxed text-muted">
             Central Research Facility of IIT(ISM), Dhanbad has been established as a Centre of National Importance for
             Research and Creation. The constellation of high-quality equipment enabled with cutting edge technologies at a
             single location provides a scientific arena for the researchers. Sophisticated analytical instruments are vital
