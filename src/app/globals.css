@@ -101,3 +101,38 @@ h1, h2, h3, h4 {
   outline: 2px solid #a52a2a;
   outline-offset: 2px;
 }
+
+/* Rotating gradient border */
+@property --ring-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes ring-spin {
+  to {
+    --ring-angle: 360deg;
+  }
+}
+
+.glow-ring {
+  position: relative;
+  display: inline-flex;
+  border-radius: 0.75rem; /* button ke rounded-[0.65rem] se thoda bada */
+  padding: 2px;            /* border thickness */
+  background: conic-gradient(
+    from var(--ring-angle),
+   
+    #f43f5e,   /* pink */
+   
+    #22d3ee    /* back to cyan for smooth loop */
+  );
+  animation: ring-spin 3s linear infinite;
+}
+
+/* Fallback for browsers that don't support @property */
+@supports not (background: conic-gradient(from var(--ring-angle), red, blue)) {
+  .glow-ring {
+    background: linear-gradient(90deg, #22d3ee, #a855f7, #f43f5e, #facc15);
+  }
+}
