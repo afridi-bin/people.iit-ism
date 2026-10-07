@@ -11,6 +11,7 @@ export type Instrument = {
   details: [string, string][];
   paragraphs: string[];
   bullets: string[];
+  analysisModes?: string[]; 
   images: string[];
   status: string | null;
   links: { title: string; href: string }[];

@@ -16,11 +16,11 @@
       "ACQUITY QDa Detector: API Source and ionization modes, Adjustment-free high performance ZSprayTM dual-orthogonal atmospheric pressure; Ion source transfer optics: Dual off-axis ion guides for elimination of neutral noise with increased sensitivity and robustness. Includes high efficiency conjoined stacked ring ion guide and second stage quadrupole ion guide; Acquisition modes Full scan MS Selected Ion Recording (SIR); ionization (API) electrospray (ES) interface for robustness and reliability; Mass range: 30 to 1250 m/z, Scan speed: Automatically-optimized for enhanced data quality for acquisition rates of up to e.g. 10Hz for m/z 100 to 1000 or 20 Hz for m/z 50 to 500; Mass accuracy: better than ±0.2 Da over full mass range; ACQUITY UPLC PDA Detector: Wavelength range 190 to 500 nm; Optical resolution 1.2 nm Digital resolution 0.6 nm/pixel to 500 nm; Light source Prealigned, intelligent technology Deuterium lamp."
     ],
     "bullets": [],
+    "analysisModes": [],
     "images": ["/images/instruments/lcms.jpg"],
     "status": "",
     "links": [],
     "emails": ["swapan@iitism.ac.in"]
-
   },
   {
     "slug": "high-resolution-transmission-electron-microscope",
@@ -48,6 +48,7 @@
       "Automated mapping & EDS analysis",
       "Electron diffraction"
     ],
+    "analysisModes": ["HRTEM/EDS", "3D Tomography"],
     "images": ["/images/instruments/hrtem.jpg"],
     "status": null,
     "links": [],
@@ -75,6 +76,14 @@
       "EBSD: Oxford Integrated Advanced Aztec HKL EBSD with forescatter detector system with 4 diodes for Nordlys Analysis.",
       "CL: Gatan Mono CL4 (200–850 nm), UVMCL (185–200 nm) & FIRMCL (1600–2300 nm).",
       "Sample Coating: Facilities available for Carbon, Gold, and Platinum-Palladium coating."
+    ],
+    "analysisModes": [
+      "FESEM Imaging",
+      "EDAX Point Analysis",
+      "EDAX Mapping",
+      "EBSD",
+      "STEM",
+      "CL"
     ],
     "images": ["/images/instruments/supra-55.jpg"],
     "status": null,
@@ -107,6 +116,11 @@
       "Direct Strain Amplitude and Direct Stress Amplitude modes available",
       "Rotational, Oscillatory & Transient measurement types available"
     ],
+    "analysisModes": [
+      "Normal Rheology Analysis",
+      "High Pressure & High Temperature",
+      "Low Temperature using liquid nitrogen"
+    ],
     "images": ["/images/instruments/rheometer.jpg"],
     "status": null,
     "links": [],
@@ -135,6 +149,11 @@
       "CrysAlisPro: Powerful, user-friendly software for data collection and reduction",
       "AutoChem 3.0: Fully automated structure solution and refinement"
     ],
+    "analysisModes": [
+      "Cell Parameters",
+      "Data collection at Room Temp",
+      "Data collection using liquid Nitrogen"
+    ],
     "images": ["/images/instruments/diffractometer.jpg"],
     "status": null,
     "links": [],
@@ -158,6 +177,8 @@
       "STM CAFM EC-STM AFM SCM EC-AFM MFM PFM Nanoindentation LFM/FFM SP Nanolithography FMM Temperature Variation Nano-Scratching SSRM STHM Spectroscopic Techniques EFM AFM in liquid environment Signal Access Module",
       "Property Dimension Icon Multimode 8 Scan area: ≤ 90 μm × 90 μm ≤ 10 μm × 10 μm Roughness (Z scale) variation: ≤ 10 μm ≤ 2.5 μm Scanner nonlinearity: less than 0.5% less than 0.5% Sample size (Diameter): ≤ 210 mm (with vacuum chuck) ≤ 15 mm Sample size (Thickness): ≤ 15 mm ≤ 5 mm Resolution (AFM)-Lateral: 1 Å 1 Å Resolution (AFM)-Spatial: 0.5 Å 0.3 Å Nanoindentation-Top: Berkovich type, Diamond Berkovich type, Diamond Nanoindentation-Load: ≤ 260 μN ≤ 260 μN Image size: ≤ 5120 pixel × 5120 pixel ≤ 5120 pixel × 5120 pixel View Optics: Display and capture 180 μm to 1465 μm, 5 Mega-pixel Display and capture 180 μm to 1465 μm, 5 Mega-pixel"
     ],
+    "bullets": [],
+    "analysisModes": ["STM", "AFM", "LFM", "MFM", "EFM", "Nano-indentation"],
     "images": ["/images/instruments/spm.jpg"],
     "status": null,
     "links": [],
@@ -181,6 +202,14 @@
       "Minimum Measurable Surface Area Range: 0.01 m²/g Pore Diameter Range: 3.5 - 5000 Å Micropore Volume: Detectable within 0.0001 cc/g Analysis Range: 1.3 × 10⁻⁹ - 1.0 P/P₀ Ultimate Vacuum: 3.75 × 10⁻¹⁰ mmHg",
       "Single-point BET surface area Multi-point BET surface area Pore volume and pore diameter analysis Adsorption/Desorption isotherms"
     ],
+    "bullets": [],
+    "analysisModes": [
+      "Multipoint BET by Nitrogen",
+      "Mesopores by Nitrogen",
+      "Micro-Mesopores by Nitrogen",
+      "CO2 Absorption Isotherm",
+      "Hydrogen Absorption Isotherm"
+    ],
     "images": ["/images/instruments/gsa.jpg"],
     "status": null,
     "links": [],
@@ -197,7 +226,7 @@
     },
     "details": [
       ["Make", "Agilent"],
-      ["Model","Cary 5000"]
+      ["Model", "Cary 5000"]
     ],
     "paragraphs": [
       "The Central Research Facility (CRF) has installed a UV-VIS-NIR Spectrophotometer (Agilent Cary 5000). It includes an Integrating Sphere for diffuse reflectance of powders and a Peltier accessory for kinetics measurements of liquids from room temperature up to 80°C. The Colour Calculator software is available for determining colour coordinates.",
@@ -205,12 +234,19 @@
       "Prof. S. K. Sharma uv_crf@iitism.ac.in sksharma@iitism.ac.in Phone: 0326-223-5412",
       "Integrating Sphere (110 mm), Peltier Accessory, Colour Calculator Software"
     ],
-    "bullets": ["Wavelength range", "175 nm – 3300 nm","Monochromator", "Double out-of-plane Littrow Monochromator"
-  ,"Light source", "Tungsten-halogen and Deuterium","Detector", "UV-VIS: R928 PMT; NIR: Peltier cooled PbS photocell",
-  "Integrating Sphere", "110 mm module (Specular + Diffuse Reflectance)","Slit width", "Variable, down to 0.01 nm",
-"Sample compartment", "Large with lock-down mechanism","Peltier Accessory", "Kinetics for liquid samples (room temp to 80°C)",
-"Software", "Cary WinUV (Windows) + Colour Calculator","Instrument Status", "Running"
-  ],
+    "bullets": [
+      "Wavelength range", "175 nm – 3300 nm",
+      "Monochromator", "Double out-of-plane Littrow Monochromator",
+      "Light source", "Tungsten-halogen and Deuterium",
+      "Detector", "UV-VIS: R928 PMT; NIR: Peltier cooled PbS photocell",
+      "Integrating Sphere", "110 mm module (Specular + Diffuse Reflectance)",
+      "Slit width", "Variable, down to 0.01 nm",
+      "Sample compartment", "Large with lock-down mechanism",
+      "Peltier Accessory", "Kinetics for liquid samples (room temp to 80°C)",
+      "Software", "Cary WinUV (Windows) + Colour Calculator",
+      "Instrument Status", "Running"
+    ],
+    "analysisModes": ["UV-VIS Range", "NIR Range"],
     "images": ["/images/instruments/spectrophotometer.jpg"],
     "status": null,
     "links": [],
@@ -244,6 +280,7 @@
       "Flow rate range: 0.010 to 2.200 mL/min, in 0.001 mL increments.",
       "Flow rate accuracy: ±0.1%."
     ],
+    "analysisModes": ["Quantitative MS spectra"],
     "images": ["/images/instruments/hrms.jpg"],
     "status": null,
     "links": [],
@@ -289,6 +326,14 @@
       "Rietveld analysis",
       "Thin-film analysis"
     ],
+    "analysisModes": [
+      "Powder Diffraction",
+      "Residual Stress Measurement",
+      "GI-XRD",
+      "Texture Measurement",
+      "SAXS",
+      "Capillary XED"
+    ],
     "images": ["/images/instruments/xrd.jpg"],
     "status": null,
     "links": [],
@@ -332,6 +377,11 @@
       "Mapping feature for elemental topography and distribution",
       "Press pellet preparation for powdered samples < 200 mesh is available"
     ],
+    "analysisModes": [
+      "XRF 10 Major elements",
+      "XRF Trace/scanning elements",
+      "Extra major elements (except earlier 10 major elements)"
+    ],
     "images": ["/images/instruments/wdxrf.jpg"],
     "status": null,
     "links": [],
@@ -368,6 +418,7 @@
       "Five axis automated sample manipulator",
       "25 mm and 60 mm diameter sample mount"
     ],
+    "analysisModes": ["XPS Analysis", "Depth Profile"],
     "images": ["/images/instruments/xps.jpg"],
     "status": null,
     "links": [],
@@ -398,6 +449,7 @@
       "Capable of sustaining a maximum pressure of 15000 psi",
       "Empower software used for data acquisition, processing, and automated result calculation"
     ],
+    "analysisModes": ["Water Solvent", "THF Solvent"],
     "images": ["/images/instruments/apc.jpg"],
     "status": null,
     "links": [],
@@ -429,6 +481,11 @@
       "Open Electrode CCD air-cooled to −60°C",
       "Gratings: 600, 1800, 2400 g/mm",
       "Note: A Maximum of 4 samples will be handled in One Hour Slot."
+    ],
+    "analysisModes": [
+      "Raman Spectra/ Photoluminescence (PL)",
+      "Raman Mapping/Photoluminescence (PL)-Mapping",
+      "Up conversion Spectra"
     ],
     "images": ["/images/instruments/raman.jpg"],
     "status": null,
@@ -470,6 +527,12 @@
       "Spectral Resolution: 7 pm at 200 nm",
       "Accessories: CETAC model ASX560 autosampler"
     ],
+    "analysisModes": [
+      "ICP-01 (Si, Ti, Al, Fe, Cr, Ca, Mg, Mn, Na, K, P, Rb, Sr, Ba, Cs, Li, B, Mo, Ni, Sc, V, Co, Zn, Cu, Ga, Cd, Sn, Ag)",
+      "ICP-02 (La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu)",
+      "ICP-03 (As, Sb, Bi, Se, Hg)",
+      "ICP-04 (Au, Pd, Pt, Rh, Ru)"
+    ],
     "images": ["/images/instruments/icp-oes.jpg"],
     "status": null,
     "links": [],
@@ -488,9 +551,7 @@
       ["Make", "Mitutoyo, Japan"],
       ["Model", "HM200"]
     ],
-    "paragraphs": [
-      ""
-    ],
+    "paragraphs": [""],
     "bullets": [
       "Motion range of manual stages: horizontal: 25 mm",
       "Range of loading time: 5–99 s; unloading time: 1–99 s",
@@ -498,6 +559,7 @@
       "Light and objective lens: White light; 10X and 50X",
       "Test force range and control: 0.1 gf to 2000 gf in steps; Voice coil Indenter: Diamond"
     ],
+    "analysisModes": ["Micro-Hardness of any metallic sample"],
     "images": ["/images/instruments/dmvhtm.jpg"],
     "status": null,
     "links": [],
@@ -527,6 +589,10 @@
       "Operating Condition: Both dry and lubricated; humidity control and inert gas purging chamber",
       "Linear XY Stage for Scratch Testing: X Stage speed 0.001–5 mm/s (max travel 150 mm, encoder resolution 0.2 µm), Y Stage speed 0.001–50 mm/s (max travel 250 mm, encoder resolution 0.2 µm)",
       "2D Force Sensor with Load Range: (a) 0.1–200 N, resolution 5 mN (b) 10–1000 mN, resolution 150 µm (c) 0.5–50 mN, resolution 50 µm"
+    ],
+    "analysisModes": [
+      "Standard Tribological testing (without high temp, humidity, inert gas, oil environment requirement)",
+      "Specific Tribological testing (with high temp, humidity, inert gas, oil environment requirement)"
     ],
     "images": ["/images/instruments/ut.jpg"],
     "status": null,
@@ -559,6 +625,7 @@
       "Thermal Conductivity Detector (TCD)",
       "120-position autosampler"
     ],
+    "analysisModes": ["CHNS", "O"],
     "images": ["/images/instruments/chnso.jpg"],
     "status": null,
     "links": [],
@@ -581,6 +648,13 @@
       "Type of Machine: Servo-Hydraulic with Environment Chamber ( -100°C to 300 °C); Maximum Capacity: 100 kN; Type of Tests can be Performed : Tensile, Compression, 3-pt Bend, Stress controlled fatigue, Strain controlled fatigue, Fatigue crack growth rate (FCGR), Fracture toughness (KIC, JIC, CTOD); Available Load Cells: 100 kN and 10 kN; Types of Sample can be Tested: Round, Flat, Sheet, Wire, Rod or Tubular (Conforming ASTM standard); Crosshead Speed (Strain rate): Max:- 40 mm/min ,Min:- 0.05 mm/min; Crosshead Displacement: Max:- 150 mm; Type of Test Control: Position, Load and Strain; Type of Extensometers: Static extensometer with GL 25 mm (travel +25mm and -2.5mm), Dynamic extensometer with GL 12.5 mm (travel +5 mm and -5 mm), COD with 5 mm and 10 mm"
     ],
     "bullets": [],
+    "analysisModes": [
+      "Room Temperature tension/compression",
+      "Simple tension tests with furnace from RT to 350C",
+      "Stress controlled Fatigue Tests (10Hz or Higher)",
+      "Strain Controlled Fatigue test ( 0.1Hz to 0.5 Hz)",
+      "J1C/K1C (Pre-cracking + testing)"
+    ],
     "images": ["/images/instruments/utm.jpg"],
     "status": null,
     "links": [],
@@ -615,6 +689,7 @@
       "Accessories: Variety of crucibles (Al, Pt, Al2O3, Au, Ag, Cu, autoclaves, etc.)",
       "Dimensions: 380 mm × 320 mm × 520 mm; Mass: 28 kg"
     ],
+    "analysisModes": ["DSC Measurement"],
     "images": ["/images/instruments/dsc.jpg"],
     "status": null,
     "links": [],
@@ -636,9 +711,8 @@
     "paragraphs": [
       "SurPASS 3 is the entry-level instrument for routine analysis of macroscopic solid surfaces, enabling fully automated zeta potential measurements under real-life process or environmental conditions. Zeta potential is measured based on streaming potential and streaming current, providing results in less than two minutes. High-quality zeta potential values down to a few millivolts are recorded, along with simultaneous measurement of pH, conductivity, and temperature."
     ],
-    "bullets": [
-      "Zeta potential measurement of macroscopic solid surfaces"
-    ],
+    "bullets": ["Zeta potential measurement of macroscopic solid surfaces"],
+    "analysisModes": ["Solid Particle Zeta potential in Room Temperature"],
     "images": ["/images/instruments/zeta.jpg"],
     "status": null,
     "links": [],
@@ -673,6 +747,14 @@
       "Deep Freezer (Make: Eltek, Model: EDF-300)",
       "Upright Automated Autoclave (Make: Hirayama, Model: HICLAVE HV-50 II)"
     ],
+    "analysisModes": [
+      "MTT Assay",
+      "Fluorescence Microscope",
+      "Freezer (-80)",
+      "Micro Plate Reader",
+      "Refrigerated Centrifuge",
+      "NanoDrop"
+    ],
     "images": ["/images/instruments/cell.jpg"],
     "status": null,
     "links": [],
@@ -701,6 +783,7 @@
       "Number of Laser: 3 (Laser safety classification - FDA Title 21 CFR - Part 1040 & EN 60825-1:2014; Laser class, closed cover-Class 1 of EN 60825-1:2014; Laser class, open cover-Class 3R of EN 60825-1:2014)",
       "Particle analysis software: Kalliope™"
     ],
+    "analysisModes": ["Particle Size Analyzer with Liquid and Dry Mode"],
     "images": ["/images/instruments/psa.jpg"],
     "status": null,
     "links": [],
@@ -730,6 +813,13 @@
       "Maximum Probe Current: 220 pA to 100 nA",
       "Detectors: SE2 , In-Lens"
     ],
+    "analysisModes": [
+      "Cost of an uncoated Silicon Die of size 1 cm2",
+      "Wet Chemical Cleaning and PMMA (Avg. molecular weight 950k) coating on a 1 cm2 Die",
+      "EBL on 500 µm× 500 µm write-field",
+      "RIE (OXYGEN/ HYDROGEN/ ARGON/ SF6/ CF4 PLASMA of 5 minutes duration)",
+      "FESEM Imaging"
+    ],
     "images": ["/images/instruments/ebl.jpg"],
     "status": null,
     "links": [],
@@ -752,6 +842,7 @@
       "DMP Flex 200 is a laser powder bed fusion-based metal 3D printer that can manufacture small to medium, complex, fine-detail metal parts with high quality. Based on the laser powder bed fusion (LPBF), it has a powerful 500-watt continuous fiber laser source to perform the printing. DMP Flex 200 features a build volume of 140 x 140 x 115 mm3 with a build plate clamping mechanism eliminating screw management inside the process chamber. DMP Flex 200 contains a vacuum cleaner passageway leading to the process chamber, ensuring it stays securely sealed within an inert environment. Build plates and powder containers are safely transported into and out of the process chamber through an airlock mechanism, preventing powder exposure and minimizing the ingress of oxygen into the chamber. Different metal powders such as Stainless Steel alloys, maraging steel alloys, Titanium alloys, Aluminium alloys, Nickel based super alloys, Cobalt Chromium alloys, copper based alloys can be printed."
     ],
     "bullets": [],
+    "analysisModes": [],
     "images": ["/images/instruments/metal.jpg"],
     "status": null,
     "links": [],
@@ -774,6 +865,7 @@
       "Excitation Sources Pulsed LED: 270 ± 10 nm with typical pulse width < 1.5 ns, 295 ± 10 nm with typical pulse width < 1.5 ns, 340 ± 10 nm with typical pulse width < 1.5 ns, 455 ± 10 nm with typical pulse width < 1.5 ns; Pulsed Laser Diodes: 405 ± 10 nm with typical pulse width < 200 ps ; Sample Chamber and cuvettes: Cryostat compatible, Front face sample holder for thin film and solid samples; Emission Monochromator: Motorized emission monochromator; Detector: Fast, cooled, photomultiplier tube detector with range from 230-850 nm; Dark counts less than 100 cps; Anisotropy Accessory: Automated excitation and emission polarizers, compatible with the sample chambers; Variable Temperature Accessory: Peltier controlled cell holder with magnetic stirrer on quick interchange flange, Sample temperature -25 to +105 °C, Water coolant and gas purge required for low temperature operation."
     ],
     "bullets": [],
+    "analysisModes": ["TCSPC"],
     "images": ["/images/instruments/tcspc.jpg"],
     "status": null,
     "links": [],
@@ -793,9 +885,14 @@
       ["Model", "AC - 01 - 0010"]
     ],
     "paragraphs": [
-      "Type of Machine: Servo-Electric with Furnace ( RT to 1050°C); Maximum Capacity: 100 Kn; Type of Tests can be Performed: Tensile, Stress controlled fatigue, Strain controlled fatigue, Creep- Fatigue interaction test; Types of Material can be Tested: Metallic, Polymer, and Composite; Available Load Cells: 100 kN and 10 kN; Types of Sample can be Tested: Round, Flat (Conforming ASTM standard); Frequency: Max:- 1 Hz, Min:- 0.005 Hz; Crosshead Displacement: Max:- 150 mm; Type of Test Control: Position, Load, and Strain; Type of Extensometers: Static HT extensometer with GL 25 mm (travel +12.5mm and -2.5mm), Static RT extensometer with GL 12.5 mm (travel +12.5mm and -3mm), Dynamic HT extensometer with GL 25 mm (travel +2.5 mm and -2.5 mm), Dynamic HT extensometer with GL 12.5 mm (travel +1.25 mm and -1.25 mm), Dynamic RT extensometer with GL 12.5 mm (travel +1 mm and -1 mm), Dynamic RT extensometer with GL 25 mm (travel +5 mm and -5 mm)"
+      "Type of Machine: Servo-Electric with Furnace ( RT to 1050°C); Maximum Capacity: 100 Kn; Type of Tests can be Performed: Tensile, Stress controlled fatigue, Strain controlled fatigue, Creep- Fatigue interaction test; Types of Material can be Tested: Metallic, Polymer, and Composite; Available Load Cells: 100 kN and 10 kN; Types of Sample can be Tested: Round, Flat (Conforming ASTM standard); Frequency: Max:- 1 Hz, Min:- 0.005 Hz; Crosshead Displacement: Max:- 150 mm; Type of Test Control: Position, Load, and Strain; Type of Extensometers: Static HT extensometer with GL 25 mm (travel +12.5mm and -2.5mm), Static RT extensometer with GL 12.5 mm (travel +12.5mm and -3mm), Dynamic HT extensometer with GL 25 mm (travel +2.5mm and -2.5 mm), Dynamic HT extensometer with GL 12.5 mm (travel +1.25 mm and -1.25 mm), Dynamic RT extensometer with GL 12.5 mm (travel +1 mm and -1 mm), Dynamic RT extensometer with GL 25 mm (travel +5 mm and -5 mm)"
     ],
     "bullets": [],
+    "analysisModes": [
+      "Simple tension tests with a furnace from RT to 1050°C",
+      "High-temperature Strain --controlled fatigue test (From RT to 1050 °C with a frequency range of 0.005Hz to 0.5 Hz)",
+      "Creep-Fatigue Interaction test (from RT to 1050 °C with a frequency range of 0.005Hz to 0.5 Hz)"
+    ],
     "images": ["/images/instruments/cfi.jpg"],
     "status": null,
     "links": [],
@@ -818,6 +915,7 @@
       "Determination of material's properties as a function of temperature, time, frequency, stress, atmosphere, or a combination of these parameters. An air-bearing-supported upper rotational and lower linear drive; The applied force range is 0.0005 N to 40 N, and the displacement range is 0.01 μm to 9400 μm; Operating Frequency range: 0.001 Hz to 100 Hz; Temperature limits: -160°C to 400°C; Maximum heating rate: 35 K/min; Maximum cooling rate: 30 K/min; For low-temperature environments, a nitrogen evaporation unit is available; Material choices for DMA: Polymers, Composites, Thermo-plastics, Fibers, Elastomers, Foams, Filled materials and Ceramics; The apparatus can work at a maximum torque of 230 mNm, and the minimum torque in oscillation is 0.5 nNm; The angular velocity of the upper rotational drive ranges from 0 rad/s to 314 rad/s with a wide range of angular deflection in μrad; Maximum angular frequency: 628 rad/s."
     ],
     "bullets": [],
+    "analysisModes": ["Frequency / Temperature Sweep"],
     "images": ["/images/instruments/dma.jpg"],
     "status": null,
     "links": [],
@@ -840,6 +938,7 @@
       "An abrasive water jet machine (AWJM) involves a high-pressure (60,000 psi) stream of water mixed with abrasive particles to cut materials of varying densities and thickness. It offers a versatile, precise and efficient cutting for various materials, including metals, naturals, composites, plastic and rubber. AWJM cuts all types of metals: titanium, tool steel, aluminium, and a variety of metals that are difficult to cut with other processes. With low piercing, it can machine brittle materials also. In addition, it can cut intricate shapes in no time without any heat-affected zone. Abrasive water jet machines are used for a wide range of industries including, manufacturing, aerospace, automotive and food processing."
     ],
     "bullets": [],
+    "analysisModes": ["Sample"],
     "images": ["/images/instruments/awj.jpg"],
     "status": null,
     "links": [],
@@ -859,22 +958,24 @@
       ["Model", "STA 2500 with QMS 505 Aeolos Coupling"]
     ],
     "paragraphs": [
-      
       "The NETZSCH STA 2500 Regulus is a Simultaneous Thermal Analyzer (STA) designed for high-reliability, cost-effective measurement of materials. It combines Thermogravimetric Analysis (TGA) and Differential Thermal Analysis (DTA/DSC), allowing for simultaneous measurement of mass changes and caloric events on the same sample under identical conditions. Key features include a top-loading, vertical, and differential balance system. This unique differential design cancels out buoyancy and convection effects, eliminating the need for time-consuming baseline runs and ensuring stable measurements with a high thermogravimetric resolution of 0.03 micro gram. The instrument operates up to 1100C and supports a wide range of atmospheres, including inert, oxidizing, and vacuum, controlled by Quadrupole Mass Spectrometer (QMS). Its top-loading design is also ideal for coupling to Evolved Gas Analysis (EGA) systems like Mass Spectrometry (MS) to analyze the gases released during thermal treatment."
     ],
-    "bullets": ["Design|Top-loading, vertical & differential balance" ,
-  "Temperature Range|RT to 1100°C" ,
-  "Heating Rate|0.001 to 100 K/min (depending on the furnace)", 
-  "Temperature Precision (Repeatability)|0.3 K" ,
-  "Motorized Furnace Hoist|Single hoist",
-  "Balance Design|Differential balance system" ,
-  "Weighing Range|± 250 mg, max. sample load 1 g" ,
-  "Thermogravimetric Resolution|0.03 μg" ,
-  "Thermocouple|Type S" ,
-  "Vacuum Tightness|10⁻⁴ mbar (10⁻² Pa), depending on the evacuation system" ,
-  "Gas Atmospheres|Inert, oxidizing, vacuum",
-  "Gas Control|Built-in mass flow controllers",
-  "Automatic Sample Changer (ASC)|Optionally available for 20 crucibles"],
+    "bullets": [
+      "Design|Top-loading, vertical & differential balance",
+      "Temperature Range|RT to 1100°C",
+      "Heating Rate|0.001 to 100 K/min (depending on the furnace)",
+      "Temperature Precision (Repeatability)|0.3 K",
+      "Motorized Furnace Hoist|Single hoist",
+      "Balance Design|Differential balance system",
+      "Weighing Range|± 250 mg, max. sample load 1 g",
+      "Thermogravimetric Resolution|0.03 μg",
+      "Thermocouple|Type S",
+      "Vacuum Tightness|10⁻⁴ mbar (10⁻² Pa), depending on the evacuation system",
+      "Gas Atmospheres|Inert, oxidizing, vacuum",
+      "Gas Control|Built-in mass flow controllers",
+      "Automatic Sample Changer (ASC)|Optionally available for 20 crucibles"
+    ],
+    "analysisModes": [],
     "images": ["/images/instruments/tga.jpg"],
     "status": null,
     "links": [],
@@ -892,25 +993,27 @@
     "details": [
       ["Make", "JEOL & OXFORD"],
       ["Model", "JSM-IT800(HL)"]
-      
     ],
     "paragraphs": [
       "JSM-IT800 (HL) is a highly stable Schottky field emission electron gun Scanning Electron Microscope, with EDS & EBSD. To analyze samples surface morphology up to nano level, elemental composition, grain size, orientation and microstructure etc."
     ],
-    "bullets": ["Gun Type|In-lens Schottky field emission electron gun",
-  "Resolution|0.7 nm at 20 kV; 1.3 nm at 1 kV; 3.0 nm at 15 kV",
-  "Magnification|17 to 2,000,000",
-  "Acceleration Voltage|0.5 kV to 30 kV",
-  "Probe Current|4 pA to 300 nA",
-  "Detectors|In-lens SE, BSE",
-  "EDS System|Oxford Liquid Nitrogen free (Peltier-Cooled) dry SDD Xplore 30",
-  "SSD Sensor Area|30 mm² SSD Sensor",
-  "Energy Resolution|< 129 eV at Mn-Kα",
-  "Count Rates|> 1,000,000 cps",
-  "EBSD Detector|Oxford CMOS based (C-Swift) EBSD Detector",
-  "Detector Resolution|Up to 622 × 512",
-  "Acquisition Speed|Speeds up to 2000 PPS",
-  "Sample Coating|Gold & Platinum coating"],
+    "bullets": [
+      "Gun Type|In-lens Schottky field emission electron gun",
+      "Resolution|0.7 nm at 20 kV; 1.3 nm at 1 kV; 3.0 nm at 15 kV",
+      "Magnification|17 to 2,000,000",
+      "Acceleration Voltage|0.5 kV to 30 kV",
+      "Probe Current|4 pA to 300 nA",
+      "Detectors|In-lens SE, BSE",
+      "EDS System|Oxford Liquid Nitrogen free (Peltier-Cooled) dry SDD Xplore 30",
+      "SSD Sensor Area|30 mm² SSD Sensor",
+      "Energy Resolution|< 129 eV at Mn-Kα",
+      "Count Rates|> 1,000,000 cps",
+      "EBSD Detector|Oxford CMOS based (C-Swift) EBSD Detector",
+      "Detector Resolution|Up to 622 × 512",
+      "Acquisition Speed|Speeds up to 2000 PPS",
+      "Sample Coating|Gold & Platinum coating"
+    ],
+    "analysisModes": [],
     "images": ["/images/instruments/ebsd.jpg"],
     "status": null,
     "links": [],
@@ -933,34 +1036,36 @@
       "Manufacturer: Hind High Vacuum Co. Pvt. Ltd., Bangalore, India Model & Part Number: RIE Unit (Part No. 5313-000-000) System Type: Dual Chamber PVD System Serial Number: D1238 Power Requirements:Rated Voltage: 415V AC Phase: 3 Phase, 50 Hz Current: 25 AMP The Dual Chamber PVD System (RIE Unit) is used for high-precision dry etching and thin-film deposition to analyze material removal rates and surface morphology. It enables the fabrication and characterization of micro-nanostructures, semiconductor devices, and multilayer optical coatings under controlled vacuum conditions."
     ],
     "bullets": [],
+    "analysisModes": [],
     "images": ["/images/instruments/rie.jpg"],
     "status": null,
     "links": [],
     "emails": [""]
   },
   {
-  "slug": "vector-network-analyzer",
-  "title": "Vector Network Analyzer - 10 MHz to 110 GHz (VNA)",
-  "code": "2042970",
-  "faculty": {
-    "name": "Prof. Ravi Kr. Gangwar",
-    "role": "FIC, VNA",
-    "image": "/images/people/rkgang.jpg"
+    "slug": "vector-network-analyzer",
+    "title": "Vector Network Analyzer - 10 MHz to 110 GHz (VNA)",
+    "code": "2042970",
+    "faculty": {
+      "name": "Prof. Ravi Kr. Gangwar",
+      "role": "FIC, VNA",
+      "image": "/images/people/rkgang.jpg"
+    },
+    "details": [
+      ["Make", "Rhode & Schwarz, Germany"],
+      ["Model", "ZNA 50 with ZC 75 & ZVA-Z110"]
+    ],
+    "paragraphs": [
+      "A vector network analyzer is an instrument that measures the frequency response of a component or a network composed of many components, which can be both passive and active. A VNA measures the power of a high-speed signal going into and coming back from a component or a network, because power, in contrast to voltage and current, can be measured accurately at high frequencies. The built-in computer in the VNA calculates key parameters such as return loss and insertion loss of the network under test. It is also capable of visualizing the results in different formats—for example, real/imaginary, magnitude/phase, Smith chart, etc. In high-speed system tests, VNA is often used to characterize multi-port networks consisting of components such as connectors, filters, amplifiers, and transmission line/coaxial channels. A vector network analyzer is used to measure the performance of circuits or networks such as amplifiers, filters, attenuators, cables and antennas."
+    ],
+    "bullets": [],
+    "analysisModes": ["Single/Two-port microwave device characterization"],
+    "images": ["/images/instruments/vna.jpg"],
+    "status": null,
+    "links": [],
+    "emails": ["vna_crf@iitism.ac.in"]
   },
-  "details": [
-    ["Make", "Rhode & Schwarz, Germany"],
-    ["Model", "ZNA 50 with ZC 75 & ZVA-Z110"]
-  ],
-  "paragraphs": [
-    "A vector network analyzer is an instrument that measures the frequency response of a component or a network composed of many components, which can be both passive and active. A VNA measures the power of a high-speed signal going into and coming back from a component or a network, because power, in contrast to voltage and current, can be measured accurately at high frequencies. The built-in computer in the VNA calculates key parameters such as return loss and insertion loss of the network under test. It is also capable of visualizing the results in different formats—for example, real/imaginary, magnitude/phase, Smith chart, etc. In high-speed system tests, VNA is often used to characterize multi-port networks consisting of components such as connectors, filters, amplifiers, and transmission line/coaxial channels. A vector network analyzer is used to measure the performance of circuits or networks such as amplifiers, filters, attenuators, cables and antennas."
-  ],
-  "bullets": [],
-  "images": ["/images/instruments/vna.jpg"],
-  "status": null,
-  "links": [],
-  "emails": ["vna_crf@iitism.ac.in"]
-},
- {
+  {
     "slug": "Optical-microscope",
     "title": "Optical Microscope",
     "code": "2063276",
@@ -977,6 +1082,7 @@
       "This materials microscope combines high-quality Leica optics with state-of-the-art universal white light LED illumination. It is an ideal inspection tool for all kinds of routine inspection tasks in metallography, earth science, forensic investigation, and materials quality control and research. The Leica DM2700 M shows you how simple and reliable microscopy can be while helping to improve workflow."
     ],
     "bullets": [],
+    "analysisModes": [],
     "images": ["/images/instruments/optical.jpg"],
     "status": "",
     "links": []
