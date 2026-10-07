@@ -231,7 +231,6 @@
     "paragraphs": [
       "The Central Research Facility (CRF) has installed a UV-VIS-NIR Spectrophotometer (Agilent Cary 5000). It includes an Integrating Sphere for diffuse reflectance of powders and a Peltier accessory for kinetics measurements of liquids from room temperature up to 80°C. The Colour Calculator software is available for determining colour coordinates.",
       "Use the integrating sphere for powders and diffuse reflectance; use the Peltier accessory for temperature-controlled kinetics of liquids.",
-      "Prof. S. K. Sharma uv_crf@iitism.ac.in sksharma@iitism.ac.in Phone: 0326-223-5412",
       "Integrating Sphere (110 mm), Peltier Accessory, Colour Calculator Software"
     ],
     "bullets": [
@@ -269,7 +268,6 @@
     "paragraphs": [
       "Equipped with dual electrospray ionization and atmospheric pressure chemical ionization (ESI/APCI), Dual atmospheric pressure chemical ionization and atmospheric pressure photo ionization (APCI/APPI) and atmospheric pressure solids analysis probe (ASAP), the Waters XEVO G2-XS QTOF High Resolution Mass Spectrometer (HRMS) at the Central Research Facility, IIT (ISM), Dhanbad can detect accurate masses of a wide range of molecules such as small molecules, APIs, and macromolecules. Coupled with the Ultra High-Performance Liquid Chromatography (UPLC) system, it enables both quantitative and qualitative analysis of samples.",
       "Ideal for high-precision molecular mass detection, chemical identification, and quantitative analysis across a wide mass range.",
-      "Prof. Somnath Yadav hrms_crf@iitism.ac.in somnath@iitism.ac.in Phone: 0326-223-5880",
       "XEVO G2-XS QTOF HRMS, Dual Ionization Sources (ESI/APCI, APCI/APPI, ASAP), ACQUITY UPLC H-Class Plus."
     ],
     "bullets": [
@@ -303,7 +301,6 @@
     "paragraphs": [
       "The Rigaku SmartLab is a multipurpose high resolution X-ray diffractometer (HRXRD) automated with SmartLab Studio II software. The system is equipped with a Monochromator in the diffracted beam side and uses Converging Beam Optics (CBO) technology for fully automated beam alignment. It supports multiple XRD applications including powder diffraction, thin film metrology, SAXS, in-plane scattering, micro diffraction, capillary measurements, texture and pole figure, and X-ray reflectometry. The SmartLab Studio II software provides intelligent user guidance and performs automated phase/composition identification, qualitative and quantitative analysis, residual stress analysis, Rietveld analysis, and thin-film analysis.",
       "Suitable for a broad range of XRD analyses from powder diffraction to advanced thin-film characterization with automated alignment and analysis tools.",
-      "Prof. Sarun P. M. xrd_crf@iitism.ac.in sarun@iitism.ac.in Phone: 0326-223-5887",
       "Rigaku SmartLab HRXRD, HyPix-3000 Detector, CBO Optics, Monochromator, SmartLab Studio II software."
     ],
     "bullets": [
@@ -356,7 +353,6 @@
     "paragraphs": [
       "The Rigaku Primus IV Wavelength Dispersive X-Ray Fluorescence (WDXRF) spectrometer enables precise elemental analysis of solids, liquids, powders, alloys, and thin films. The system features a tube-above optical design that minimizes contamination and is ideal for high-sensitivity, quantitative, and qualitative elemental analysis. It offers versatility through its advanced hardware and software options, including mapping and microanalysis capabilities.",
       "Ideal for laboratories requiring accurate elemental analysis of diverse sample types, from bulk materials to thin films.",
-      "Prof. Pranab Das xrf_crf@iitism.ac.in pranab@iitism.ac.in Phone: 0326-223-5894",
       "Rigaku Primus IV WDXRF, 3/4 kW sealed X-ray tube, 48-position auto sampler, ZSX Guidance software, r-θ mapping stage."
     ],
     "bullets": [
