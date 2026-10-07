@@ -18,7 +18,9 @@
     "bullets": [],
     "images": ["/images/instruments/lcms.jpg"],
     "status": "",
-    "links": []
+    "links": [],
+    "emails": ["swapan@iitism.ac.in"]
+
   },
   {
     "slug": "high-resolution-transmission-electron-microscope",
@@ -49,7 +51,7 @@
     "images": ["/images/instruments/hrtem.jpg"],
     "status": null,
     "links": [],
-    "emails": [""]
+    "emails": ["hrtem_crf@iitism.ac.in"]
   },
   {
     "slug": "field-emission-scanning-electron-microscope",
@@ -350,8 +352,6 @@
       ["Model", "5000 Versa Probe III"]
     ],
     "paragraphs": [
-      "Model: 5000 Versa Probe III",
-      "Email: xps_crf@iitism.ac.in; rthangavel@iitism.ac.in",
       "The VersaProbe III is a highly versatile, multi-technique instrument with PHI's patented, monochromatic, micro-focused (< 10 µm), scanning X-ray source. The instrument offers SEM-like ease of operation with superior micro area spectroscopy and excellent large area capabilities.",
       "A focused X-ray beam, high sensitivity spectrometer, high performance floating column argon ion gun, turnkey dual beam charge neutralization, compucentric Zalar™ rotation, and advanced data reduction algorithms provide the highest performance XPS depth profiling capability available. The standard monatomic argon ion gun is capable of generating 5 eV to 5 keV Ar ion beams and is ideally suited for most inorganic depth profiling applications."
     ],
@@ -387,8 +387,6 @@
       ["Model", "Waters ACQUITY"]
     ],
     "paragraphs": [
-      "Model: Waters ACQUITY Advanced Polymer Chromatography (APC)",
-      "Email: apc_crf@iitism.ac.in; sagarpal@iitism.ac.in",
       "The Waters ACQUITY Advanced Polymer Chromatography (APC) system defines a new chromatographic polymer analysis that provides detailed information about polymer molecular weight faster than ever before. Combining low dispersion system fluidics with rigid, small particle (sub 2 micron) columns of a wide range of pore sizes, the system achieves ultimate polymer peak resolution with shorter run times. Better resolution in shorter runs ensures higher efficiency and reduced solvent consumption."
     ],
     "bullets": [
@@ -419,8 +417,6 @@
       ["Model", "LabRAM HR-UV-Open"]
     ],
     "paragraphs": [
-      "Make: HORIBA Scientific, France",
-      "Email: raman_crf@iitism.ac.in; kkumar@iitism.ac.in",
       "Raman spectroscopy is a powerful technique for studying materials in various forms (solid, liquid, gas). The LabRAM HR Evolution Raman microscope enables both micro and macro measurements with true confocal imaging in 2D and 3D. Raman spectroscopy reveals vibrational modes influenced by molecular mass, bond strength, and symmetry. Any physical or chemical factors such as defects or impurities affecting the atomic surroundings can be analyzed through Raman spectra."
     ],
     "bullets": [
@@ -453,9 +449,6 @@
       ["Model", "iCAP 7400 Duo"]
     ],
     "paragraphs": [
-      "Make: Thermo Fisher Scientific, USA",
-      "Department: Applied Geology, IIT (ISM) Dhanbad",
-      "Email: icp_crf@iitism.ac.in; asmajumdar@iitism.ac.in",
       "The instrument can analyze element concentrations up to sub ppm level in the following materials:",
       "The instrument is currently capable of analyzing the following element concentrations in aqueous solution:",
       "Ag, Al, B, Ba, Bi, Ca, Cd, Co, Cr, Cu, Fe, Ga, K, Li, Mg, Mn, Na, Ni, V, Sr, Sc, Zn, Si, Ti, Rb, Au, Hg, As, Sb, Mo, Se, Cs, P, Ru, Rh, Pd, Pt, Sn, La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu."
@@ -524,8 +517,6 @@
       ["Model", "MFT 5000"]
     ],
     "paragraphs": [
-      "Make: Rtec Instruments, USA",
-      "Email: tribometer_crf@iitism.ac.in",
       "The Universal Tribometer provides versatility and modularity for various tribological and mechanical testing applications. It can measure friction coefficients across lubricants, grease, bio-materials, automotive, semiconductor, aerospace, materials, ceramics, etc. It supports rotary, reciprocating, block-on-ring, linear tribology, scratch tests, and indentation tests, with an inline optical profilometer for quick measurements. Loads can be applied automatically."
     ],
     "bullets": [
@@ -556,8 +547,6 @@
       ["Model", "UNICUBE"]
     ],
     "paragraphs": [
-      "Make: Elementar Analysensysteme GmbH, Germany",
-      "Email: hpnayek@iitism.ac.in",
       "The UNICUBE model offers simultaneous carbon, hydrogen, nitrogen, and sulfur analysis in solid and liquid samples, with an option for separate oxygen determination. It can analyze organic/inorganic compounds, coal, fuel, sand/soil, ash, etc. Equipped with Temperature Programmed Desorption (TPD) technology, it allows a wide range of elemental concentrations and sample weights. It can detect trace nitrogen, sub-µg sulfur concentrations, and high carbon content."
     ],
     "bullets": [
@@ -589,7 +578,6 @@
       ["Model", "8801"]
     ],
     "paragraphs": [
-      "Email: ajitkp@iitism.ac.in",
       "Type of Machine: Servo-Hydraulic with Environment Chamber ( -100°C to 300 °C); Maximum Capacity: 100 kN; Type of Tests can be Performed : Tensile, Compression, 3-pt Bend, Stress controlled fatigue, Strain controlled fatigue, Fatigue crack growth rate (FCGR), Fracture toughness (KIC, JIC, CTOD); Available Load Cells: 100 kN and 10 kN; Types of Sample can be Tested: Round, Flat, Sheet, Wire, Rod or Tubular (Conforming ASTM standard); Crosshead Speed (Strain rate): Max:- 40 mm/min ,Min:- 0.05 mm/min; Crosshead Displacement: Max:- 150 mm; Type of Test Control: Position, Load and Strain; Type of Extensometers: Static extensometer with GL 25 mm (travel +25mm and -2.5mm), Dynamic extensometer with GL 12.5 mm (travel +5 mm and -5 mm), COD with 5 mm and 10 mm"
     ],
     "bullets": [],
@@ -732,7 +720,6 @@
       ["Model", "SIGMA 300"]
     ],
     "paragraphs": [
-      "Email: lithography_crf@iitism.ac.in",
       "The Central Research Facility (CRF) has installed FE-SEM Sigma 300 (Carl Zeiss, Germany) with E-Beam Lithography(Elphy Quantum, Raith Nano Fabrication) and Reactive Ion Etching (ION ETCH-150, Hind High Vacuum co.pvt.ltd) for scientific research. Electron Beam Lithography (EBL) of Elphy Quantum Raith Nano Fabrication, is a Nano Fabrication Technique used to Pattern Nano Structures, Nano Lithography. The Technique Consists of Scanning a beam of electrons on the sample coated with resist which is sensitive to electron Beam."
     ],
     "bullets": [
@@ -949,7 +936,7 @@
     "images": ["/images/instruments/rie.jpg"],
     "status": null,
     "links": [],
-    "emails": []
+    "emails": [""]
   },
   {
   "slug": "vector-network-analyzer",

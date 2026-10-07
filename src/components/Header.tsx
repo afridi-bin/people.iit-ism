@@ -199,7 +199,7 @@ export default function Header() {
           {plainLink("/", "Home")}
           {plainLink("/about", "About")}
 
-          <Dropdown id="instruments" label="Instruments" active={is("/instruments")} openId={openId} setOpenId={setOpenId} width="w-[min(46rem,calc(100vw-3rem))]">
+          <Dropdown   id="instruments" label="Instruments" active={is("/instruments")} openId={openId} setOpenId={setOpenId} width="w-[min(46rem,calc(100vw-3rem))]">
             <div className="flex items-center justify-between px-3 pb-2 pt-1">
               <p className="text-xs font-semibold uppercase tracking-wider text-muted">{instruments.length} instruments</p>
               <Link href="/instruments" onClick={closeAll} className="text-xs font-semibold text-brand-600 hover:underline">

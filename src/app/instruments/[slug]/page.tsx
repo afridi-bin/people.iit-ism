@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FileLink, PageHero, Section, StatusBadge } from "@/components/ui";
-import { ISTEM_URL, getInstrument, instruments, PAYMENT_URL } from "@/lib/data";
+import { ISTEM_URL, getInstrument, instruments, PAYMENT_URL,getFormForInstrument  } from "@/lib/data";
 
 export function generateStaticParams() {
   return instruments.map((i) => ({ slug: i.slug }));
@@ -25,6 +25,7 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
   const next = instruments[idx + 1];
   const faculty = i.faculty;
   const empty =!i.details.length && !i.paragraphs.length && !i.bullets.length;
+  const formHref = getFormForInstrument(i.slug);
 
   return (
     <>
@@ -146,9 +147,23 @@ export default async function InstrumentPage(props: PageProps<"/instruments/[slu
                 <a href={PAYMENT_URL} target="_blank" rel="noopener noreferrer" className="mt-3 block rounded-xl bg-brand-600 px-4 py-3 text-center text-sm font-semibold text-white hover:bg-brand-700">
                 Payment Gateway ↗
               </a>
-              <Link href="/forms" className="mt-2 block rounded-xl border border-brand-200 bg-white px-4 py-3 text-center text-sm font-semibold text-brand-700 hover:border-brand-400">
-                Requisition forms
-              </Link>
+              {formHref ? (
+  <a
+    href={formHref}
+    download
+    className="mt-2 block rounded-xl border border-brand-200 bg-white px-4 py-3 text-center text-sm font-semibold text-brand-700 hover:border-brand-400"
+  >
+    Download Requisition Form ↓
+  </a>
+) : (
+  <Link
+    href="/forms"
+    className="mt-2 block rounded-xl border border-brand-200 bg-white px-4 py-3 text-center text-sm font-semibold text-brand-700 hover:border-brand-400"
+  >
+    Requisition forms
+  </Link>
+)}
+
             </div>
             {faculty && (
               <div className="relative mt-28 rounded-2xl bg-gradient-to-br from-brand-600 to-brand-700 p-5 pt-24 text-center text-white shadow-sm">
