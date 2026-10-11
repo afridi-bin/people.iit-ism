@@ -33,9 +33,9 @@ function Card({ p }: { p: Entry }) {
   const initials = getInitials(p.name);
   return (
     <article className="flex flex-col items-center rounded-2xl border border-line bg-white p-6 text-center shadow-sm transition hover:shadow-lg">
-      <div className="relative h-28 w-28 overflow-hidden rounded-full bg-brand-50 ring-4 ring-brand-100">
+      <div className="group relative h-28 w-28 overflow-hidden rounded-full bg-brand-50 ring-4 ring-brand-100">
         {p.photo ? (
-          <Image src={p.photo} alt={p.name} fill sizes="212px" className="object-cover object-top" />
+          <Image src={p.photo} alt={p.name} fill sizes="212px" className="object-cover object-top transition-transform duration-500 ease-out group-hover:scale-110" />
         ) : (
           <span className="flex h-full w-full items-center justify-center text-2xl font-bold text-brand-600">{initials}</span>
         )}
@@ -77,14 +77,14 @@ function HeadCard({ p }: { p: Entry }) {
         {/* Photo */}
         <div className="relative shrink-0">
           <div className="absolute inset-0 -m-3 rounded-full bg-gradient-to-br from-brand-400 to-brand-600 opacity-20 blur-lg" />
-          <div className="relative h-40 w-40 overflow-hidden rounded-full bg-white ring-4 ring-brand-500/30 sm:h-44 sm:w-44">
+          <div className="group relative h-40 w-40 overflow-hidden rounded-full bg-white ring-4 ring-brand-500/30 sm:h-44 sm:w-44">
             {p.photo ? (
               <Image
                 src={p.photo}
                 alt={p.name}
                 fill
                 sizes="(min-width:640px) 176px, 160px"
-                className="object-cover object-top"
+                className="object-cover object-top transition-transform duration-500 ease-out group-hover:scale-110"
               />
             ) : (
               <span className="flex h-full w-full items-center justify-center text-4xl font-bold text-brand-600">

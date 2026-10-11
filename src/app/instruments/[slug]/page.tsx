@@ -76,6 +76,7 @@ export default async function InstrumentPage(
 
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <div
+              className="group"
               style={{
                 border: "5px solid #c1aaaa",
                 borderRadius: "15px",
@@ -88,6 +89,7 @@ export default async function InstrumentPage(
               }}
             >
               <img
+                className="transition-transform duration-500 ease-out group-hover:scale-105"
                 src={i.images?.[0]}
                 alt={i.title}
                 style={{ width: "100%", height: "auto" }}

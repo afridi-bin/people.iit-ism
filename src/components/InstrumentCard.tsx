@@ -11,9 +11,9 @@ export default function InstrumentCard({ i }: { i: Instrument }) {
     >
       <div className="flex items-start justify-between gap-3">
        
-        <div style={{ height: "auto", width: "100%", overflow: "hidden" }}>
+        <div className="overflow-hidden rounded-xl" style={{ height: "auto", width: "100%" }}>
            {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={i?.images[0]} alt={i.title} style={{ width: "100%", height: "300px", }} />
+          <img src={i?.images[0]} alt={i.title} className="transition-transform duration-500 ease-out group-hover:scale-110" style={{ width: "100%", height: "300px" }} />
         </div>
         
         <StatusBadge status={i.status} />
